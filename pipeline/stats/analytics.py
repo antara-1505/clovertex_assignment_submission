@@ -238,7 +238,7 @@ def detect_anomalies(df):
 
     return anomalies
 
-# save results
+
 def save_results(results, filename):
     os.makedirs("datalake/consumption/", exist_ok=True)
 
@@ -247,6 +247,7 @@ def save_results(results, filename):
 
 
 def run_analytics():
-    generate_patient_summary("datalake/refined/patients.parquet")
+    df = 'datalake/refined/final_unified_output.parquet'
+    generate_patient_summary(df)
     generate_lab_statistics(lab_file="data/site_gamma_lab_results.csv", ref_file="data/reference/lab_test_ranges.json")
-    generate_diagnosis_frequency(patient_file="datalake/refined/final_unified_output.parquet", icd_ref_file="data/reference/icd10_chapters.csv")
+    generate_diagnosis_frequency(patient_file= df, icd_ref_file="data/reference/icd10_chapters.csv")
