@@ -31,6 +31,7 @@ def move_files_to_datalake(file_path, destination_path="datalake/raw/"):
     logger.info(f"Moving file to datalake: {file_path}")
     shutil.copy(file_path, destination_path)
 
+
 def convert_patient_data():
     logger.info("Converting site_beta_patients.json to CSV...")
     converter = PatientDataConverter(
@@ -40,8 +41,8 @@ def convert_patient_data():
     converter.convert_json_to_csv()
 
     logger.info("Patient data conversion completed")
-
 logger = logging.getLogger(__name__)
+
 
 def merge_patient_files():
     logger.info("Starting CSV merge into parquet...")
@@ -50,7 +51,6 @@ def merge_patient_files():
         "data/site_alpha_patients.csv",
         "data/site_beta_patients.csv"
     ]
-
 
     tracker = DataQualityTracker()
     cleaned_dfs = []
@@ -138,7 +138,7 @@ def convert_json_to_csv():
 
 def convert_csv_to_parquet():
     logger.info("Starting lab results parquet conversion...")
-    
+
     parquet_converter = SimpleParquetToCSVConverter(
         "data/site_gamma_lab_results.parquet",
         "data/site_gamma_lab_results.csv"
@@ -152,6 +152,7 @@ def convert_csv_to_parquet():
     parquet_converter.convert()
 
     logger.info("Lab results conversion completed")
+
 
 def normalize_dates(files, date_columns=None):
     """
@@ -187,8 +188,9 @@ def normalize_dates(files, date_columns=None):
 
         # Save back (overwrite)
         df.to_parquet(f"datalake/refined/{file_name}.parquet", index=False)
-        
+
         print(f"Dates normalized in {file}")
+
 
 def pre_processing():
     logger.info("Preprocessing pipeline started")
@@ -197,11 +199,12 @@ def pre_processing():
     merge_patient_files()
     convert_json_to_csv()
     convert_csv_to_parquet()
-    
+
     logger.info("Preprocessing pipeline completed successfully")
 
+
 if __name__ == "__main__":
-    
+
     print("CI test run successful")
     # Begin pre processing to clean and convert all necessary files before joining datasets
     pre_processing()
@@ -228,7 +231,6 @@ if __name__ == "__main__":
 
     # Execute the operation
     final_data = unifier.create_unified_records()
-   
     # Save the output
     unifier.join_datasets_and_save_to_csv("datalake/refined/final_unified_output.parquet")
 

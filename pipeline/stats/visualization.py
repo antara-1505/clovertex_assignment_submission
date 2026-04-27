@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
+import json
 
 PLOT_DIR = "datalake/consumption/plots/"
 os.makedirs(PLOT_DIR, exist_ok=True)
@@ -28,6 +29,7 @@ os.makedirs(PLOT_DIR, exist_ok=True)
 #         plt.savefig(f"{PLOT_DIR}/gender_distribution.png")
 #         plt.close()
 
+
 def plot_patient_demographics(df):
     if "age" in df.columns:
         plt.figure()
@@ -42,6 +44,7 @@ def plot_patient_demographics(df):
         plt.title("Gender Distribution")
         plt.savefig(f"{PLOT_DIR}/gender_distribution.png")
         plt.close()
+
 
     # Top 15 ICD-10 chapters
 def plot_diagnosis_frequency(df):
@@ -131,6 +134,7 @@ def plot_genomics_scatter(df):
     plt.savefig(f"{PLOT_DIR}/genomics_scatter.png")
     plt.close()
 
+
 def plot_high_risk_summary(df):
     if "test_name" not in df.columns:
         return
@@ -153,8 +157,6 @@ def plot_high_risk_summary(df):
     plt.savefig(f"{PLOT_DIR}/high_risk_summary.png")
     plt.close()
 
-
-import json
 
 def plot_data_quality():
     path = "datalake/data_quality_report.json"
@@ -184,6 +186,7 @@ def plot_data_quality():
     plt.tight_layout()
     plt.savefig(f"{PLOT_DIR}/data_quality.png")
     plt.close()
+
 
 def run_visualizations():
     df = pd.read_parquet("datalake/refined/final_unified_output.parquet")
