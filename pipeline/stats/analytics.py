@@ -247,7 +247,6 @@ def save_results(results, filename):
         json.dump(results, f, indent=4)
 
 
-# Main analytics runner
 def run_analytics():
     generate_patient_summary("datalake/refined/patients.parquet")
     generate_lab_statistics(lab_file="data/site_gamma_lab_results.csv", ref_file="data/reference/lab_test_ranges.json")

@@ -46,7 +46,6 @@ def plot_patient_demographics(df):
         plt.close()
 
 
-    # Top 15 ICD-10 chapters
 def plot_diagnosis_frequency(df):
     if "diagnosis_code" not in df.columns:
         return

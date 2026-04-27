@@ -41,6 +41,8 @@ def convert_patient_data():
     converter.convert_json_to_csv()
 
     logger.info("Patient data conversion completed")
+
+
 logger = logging.getLogger(__name__)
 
 
