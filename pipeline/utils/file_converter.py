@@ -95,6 +95,7 @@ class CSVtoParquetMerger:
         merged_df = self.merge_data()
         self.write_parquet(merged_df)
 
+
 class SimpleJSONToCSVConverter:
     def __init__(self, input_file, output_file):
         self.input_file = input_file
