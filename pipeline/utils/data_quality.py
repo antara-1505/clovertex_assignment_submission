@@ -28,3 +28,4 @@ class DataQualityTracker:
         os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:
             json.dump(self.reports, f, indent=4)
+            

@@ -196,3 +196,4 @@ def run_visualizations():
     plot_data_quality()
 
     print("All required Task 4 plots generated")
+    

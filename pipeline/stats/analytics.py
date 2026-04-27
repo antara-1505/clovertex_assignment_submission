@@ -264,3 +264,4 @@ def run_analytics():
 
     # high_risk = high_risk_patients(df)
     # high_risk.to_csv("../datalake/consumption/high_risk_patients.csv", index=False)
+    
