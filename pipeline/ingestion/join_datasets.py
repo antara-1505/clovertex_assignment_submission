@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 class PatientDataUnifier:
     """
     A class to join disparate medical datasets into a single unified record.

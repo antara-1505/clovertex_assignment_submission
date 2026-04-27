@@ -1,7 +1,7 @@
 import logging
 import shutil
 from utils.get_clean_file_name import get_clean_file_name
-from datetime import datetime, timezone
+# from datetime import datetime, timezone
 
 from cleaning.genomics_filter import filter_genomics_variants
 from ingestion.join_datasets import PatientDataUnifier
@@ -13,6 +13,10 @@ from utils.file_converter import (
     SimpleJSONToCSVConverter,
     SimpleParquetToCSVConverter
 )
+import pandas as pd
+# import os
+
+from utils.data_quality import DataQualityTracker
 
 logging.basicConfig(
     level=logging.INFO,
@@ -21,12 +25,11 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
+
 def move_files_to_datalake(file_path, destination_path="datalake/raw/"):
     # Placeholder for actual file movement logic to a datalake or cloud storage
     logger.info(f"Moving file to datalake: {file_path}")
     shutil.copy(file_path, destination_path)
-
-
 
 def convert_patient_data():
     logger.info("Converting site_beta_patients.json to CSV...")
@@ -38,14 +41,7 @@ def convert_patient_data():
 
     logger.info("Patient data conversion completed")
 
-
-import pandas as pd
-import logging
-
 logger = logging.getLogger(__name__)
-
-
-from utils.data_quality import DataQualityTracker
 
 def merge_patient_files():
     logger.info("Starting CSV merge into parquet...")
@@ -54,6 +50,7 @@ def merge_patient_files():
         "data/site_alpha_patients.csv",
         "data/site_beta_patients.csv"
     ]
+
 
     tracker = DataQualityTracker()
     cleaned_dfs = []
@@ -146,20 +143,15 @@ def convert_csv_to_parquet():
         "data/site_gamma_lab_results.parquet",
         "data/site_gamma_lab_results.csv"
     )
-    parquet_converter.convert()
 
+    parquet_converter.convert()
     parquet_converter = SimpleParquetToCSVConverter(
         "data/genomics_variants.parquet",
         "data/genomics_variants.csv"
     )
     parquet_converter.convert()
 
-
     logger.info("Lab results conversion completed")
-
-
-import os
-
 
 def normalize_dates(files, date_columns=None):
     """
@@ -236,12 +228,11 @@ if __name__ == "__main__":
 
     # Execute the operation
     final_data = unifier.create_unified_records()
-    
+   
     # Save the output
     unifier.join_datasets_and_save_to_csv("datalake/refined/final_unified_output.parquet")
-    
+
     # Preview the first few rows
     print(final_data.head())
     run_analytics()
     run_visualizations()
-    

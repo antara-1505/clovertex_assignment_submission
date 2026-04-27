@@ -1,8 +1,12 @@
 import pandas as pd
+import json
+import os
+
 
 # DATA_PATH = "../datalake/refined/final_unified_output.parquet"
 
 # df = pd.read_parquet(DATA_PATH)
+
 
 def generate_patient_summary(input_file, output_file="patient_summary.parquet"):
     # Load data
@@ -51,20 +55,17 @@ def generate_patient_summary(input_file, output_file="patient_summary.parquet"):
         "summary": summary
     }
 
-import pandas as pd
-import json
-
 
 def generate_lab_statistics(lab_file, ref_file, output_file="lab_statistics.parquet"):
     # Load data
     df = pd.read_csv(lab_file)
-    
+
     with open(ref_file) as f:
         ref_ranges = json.load(f)
 
     # Convert date
     df["collection_date"] = pd.to_datetime(df["collection_date"], errors="coerce")
-    
+
     # ---------------------------
     # 1. Compute statistics
     # ---------------------------
@@ -137,6 +138,7 @@ def generate_lab_statistics(lab_file, ref_file, output_file="lab_statistics.parq
         "trends": trend
     }
 
+
 def generate_diagnosis_frequency(
     patient_file,
     icd_ref_file,
@@ -148,7 +150,6 @@ def generate_diagnosis_frequency(
     df = pd.read_parquet(patient_file)
     icd_ref = pd.read_csv(icd_ref_file)
 
-    
     # ---------------------------
     # 2. Preprocess ICD codes
     # ---------------------------
@@ -203,11 +204,13 @@ def generate_diagnosis_frequency(
 
     return top15
 
+
 def genomics_hotspots(df):
     if "gene" not in df.columns:
         return {}
 
     return df["gene"].value_counts().head(5).to_dict()
+
 
 def high_risk_patients(df):
     if "test_name" not in df.columns:
@@ -220,6 +223,7 @@ def high_risk_patients(df):
     ]
 
     return high_risk[["patient_id"]].drop_duplicates()
+
 
 def detect_anomalies(df):
     anomalies = {}
@@ -234,8 +238,6 @@ def detect_anomalies(df):
 
     return anomalies
 
-import json
-import os
 
 # save results
 def save_results(results, filename):
@@ -244,23 +246,9 @@ def save_results(results, filename):
     with open(f"datalake/consumption/{filename}.json", "w") as f:
         json.dump(results, f, indent=4)
 
+
 # Main analytics runner
 def run_analytics():
-    df = pd.read_parquet("datalake/refined/final_unified_output.parquet")
-
     generate_patient_summary("datalake/refined/patients.parquet")
     generate_lab_statistics(lab_file="data/site_gamma_lab_results.csv", ref_file="data/reference/lab_test_ranges.json")
     generate_diagnosis_frequency(patient_file="datalake/refined/final_unified_output.parquet", icd_ref_file="data/reference/icd10_chapters.csv")
-
-    # results = {
-    #     "patient_summary": patient_summary(df),
-    #     "lab_statistics": generate_lab_statistics(),
-    #     "diagnosis_frequency": diagnosis_frequency(df),
-    #     "genomics_hotspots": genomics_hotspots(df),
-    #     "anomalies": detect_anomalies(df)
-    # }
-
-    # save_results(result, results, "analytics_output")
-
-    # high_risk = high_risk_patients(df)
-    # high_risk.to_csv("../datalake/consumption/high_risk_patients.csv", index=False)
