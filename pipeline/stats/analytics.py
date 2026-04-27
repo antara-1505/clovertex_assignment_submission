@@ -250,4 +250,4 @@ def run_analytics():
     df = 'datalake/refined/final_unified_output.parquet'
     generate_patient_summary(df)
     generate_lab_statistics(lab_file="data/site_gamma_lab_results.csv", ref_file="data/reference/lab_test_ranges.json")
-    generate_diagnosis_frequency(patient_file= df, icd_ref_file="data/reference/icd10_chapters.csv")
+    generate_diagnosis_frequency(patient_file=df, icd_ref_file="data/reference/icd10_chapters.csv")
