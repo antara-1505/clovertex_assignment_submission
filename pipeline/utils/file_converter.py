@@ -144,6 +144,3 @@ class SimpleParquetToCSVConverter:
             # Rows
             for batch in table.to_batches():
                 writer.writerows(batch.to_pandas().values)
-
-
-                
