@@ -238,7 +238,6 @@ def detect_anomalies(df):
 
     return anomalies
 
-
 # save results
 def save_results(results, filename):
     os.makedirs("datalake/consumption/", exist_ok=True)

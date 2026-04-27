@@ -6,7 +6,7 @@ class PatientDataUnifier:
     A class to join disparate medical datasets into a single unified record.
     Connects labs, diagnoses, medications, and genomics to a patient master list.
     """
-    
+
     def __init__(self, patients_file, labs_file, diagnoses_file, meds_file, genomics_file):
         # Store file paths
         self.files = {
@@ -25,7 +25,7 @@ class PatientDataUnifier:
         # 1. Load Patients (Parquet format)
         # Note: Requires 'pyarrow' or 'fastparquet' installed in your environment
         df_patients = pd.read_parquet(self.files['patients'])
-        
+
         # 2. Load CSVs
         df_labs = pd.read_csv(self.files['labs'])
         df_diagnoses = pd.read_csv(self.files['diagnoses'])
@@ -43,18 +43,18 @@ class PatientDataUnifier:
         """Performs the joins to create a single table."""
         # Load the dataframes
         patients_df, labs_df, diagnosis_df, meds_df, genomics_df = self.load_and_clean()
-        
+
         print("Merging data... (Using Left Joins to preserve all patients)")
-        
+
         # We start with the patient list and progressively merge other data
         # 'how=left' ensures we don't lose patients who don't have certain records
         unified = patients_df.merge(diagnosis_df, on='patient_id', how='left')
-        
+
         # Adding suffixes helps identify which file columns came from if they share names
         unified = unified.merge(meds_df, on='patient_id', how='left', suffixes=('', '_med'))
         unified = unified.merge(genomics_df, on='patient_id', how='left', suffixes=('', '_genom'))
         unified = unified.merge(labs_df, on='patient_id', how='left', suffixes=('', '_diag'))
-        
+
         self.unified_df = unified
         print(f"Success! Created unified table with {len(unified)} total rows.")
         return unified
