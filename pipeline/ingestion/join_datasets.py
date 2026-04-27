@@ -21,7 +21,7 @@ class PatientDataUnifier:
     def load_and_clean(self):
         """Loads all data and standardizes the patient ID column names."""
         print("Loading datasets...")
-        
+
         # 1. Load Patients (Parquet format)
         # Note: Requires 'pyarrow' or 'fastparquet' installed in your environment
         df_patients = pd.read_parquet(self.files['patients'])
