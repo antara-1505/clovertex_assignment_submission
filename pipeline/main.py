@@ -209,6 +209,8 @@ def pre_processing():
     logger.info("Preprocessing pipeline completed successfully")
 
 if __name__ == "__main__":
+    
+    print("CI test run successful")
     # Begin pre processing to clean and convert all necessary files before joining datasets
     pre_processing()
 

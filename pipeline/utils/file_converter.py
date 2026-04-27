@@ -4,6 +4,7 @@ import pyarrow.parquet as pq
 import pandas as pd
 import os
 
+
 class PatientDataConverter:
     def __init__(self, input_file, output_file):
         self.input_file = input_file
@@ -143,3 +144,6 @@ class SimpleParquetToCSVConverter:
             # Rows
             for batch in table.to_batches():
                 writer.writerows(batch.to_pandas().values)
+
+
+                

@@ -13,3 +13,4 @@ def get_clean_file_name(file_path):
     # Remove the file extension
     clean_name = os.path.splitext(base_name)[0]
     return clean_name
+

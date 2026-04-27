@@ -52,3 +52,5 @@ def save_manifest(manifest, output_dir):
 
     with open(manifest_path, "w") as f:
         json.dump(existing, f, indent=4)
+
+        
