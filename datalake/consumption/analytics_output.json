@@ -1,0 +1,25 @@
+{
+    "patient_summary": {
+        "site_distribution": {
+            "Alpha General Hospital": 890,
+            "Beta Medical Center": 846
+        }
+    },
+    "lab_statistics": {
+        "mean": {},
+        "median": {},
+        "std": {},
+        "abnormal_count": {}
+    },
+    "diagnosis_frequency": {},
+    "genomics_hotspots": {
+        "PTEN": 60,
+        "BRCA1": 56,
+        "ROS1": 40,
+        "EGFR": 38,
+        "MSH2": 37
+    },
+    "anomalies": {
+        "negative_lab_values": 0
+    }
+}

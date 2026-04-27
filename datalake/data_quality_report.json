@@ -1,0 +1,24 @@
+[
+    {
+        "dataset": "site_alpha_patients",
+        "rows_in": 370,
+        "rows_out": 358,
+        "issues_found": {
+            "duplicates_removed": 12,
+            "nulls_handled": 31,
+            "encoding_fixed": 0
+        },
+        "processing_timestamp": "2026-04-27T16:14:29Z"
+    },
+    {
+        "dataset": "site_beta_patients",
+        "rows_in": 310,
+        "rows_out": 310,
+        "issues_found": {
+            "duplicates_removed": 0,
+            "nulls_handled": 33,
+            "encoding_fixed": 0
+        },
+        "processing_timestamp": "2026-04-27T16:14:29Z"
+    }
+]

@@ -1,0 +1,1923 @@
+dosage,end_date,frequency,medication_id,medication_name,patient_id,prescribing_physician,route,start_date,status
+250mg,07/27/2023,once daily,MED-34748,Amoxicillin,ALPHA-00066,Dr. Taylor,oral,05/30/2023,discontinued
+50/200mg,"March 18, 2022",three times daily,MED-50658,Carbidopa-Levodopa,ALPHA-00621,Dr. Robinson,oral,2022-02-23,discontinued
+10mg,2022/02/21,three times daily,MED-64794,Atorvastatin,GAMMA-00689,Dr. Rodriguez,oral,2022-01-22T00:00:00,on-hold
+20mg,03/15/2025,once daily,MED-94331,Furosemide,GAMMA-00479,Dr. Robinson,oral,"December 27, 2024",active
+100mg,2023-09-13,TID,MED-43793,Sertraline,ALPHA-00005,Dr. Williams,oral,07/03/2023,on-hold
+30 units,10/27/2023,QD,MED-17640,Insulin Glargine,GAMMA-00590,Dr. Martin,subcutaneous,03 Sep 2023,active
+500mg,,QD,MED-95638,Metformin,GAMMA-00659,Dr. Garcia,oral,2024-01-28,on-hold
+2.5mg,22-02-2023,three times daily,MED-29121,Amlodipine,BETA-00227,Dr. Anderson,oral,20-01-2023,discontinued
+10 units,,BID,MED-30103,Insulin Glargine,BETA-00384,Dr. Lee,subcutaneous,"August 08, 2022",on-hold
+50/200mg,07/08/2024,once daily,MED-86288,Carbidopa-Levodopa,ALPHA-00687,Dr. Smith,oral,2024-07-03,discontinued
+600 mg,2024-03-28,as needed,MED-17179,Gabapentin,ALPHA-00075,Dr. Miller,oral,2024/02/14,completed
+850mg,"January 01, 2024",QD,MED-18280,Metformin,GAMMA-00531,Dr. Johansson,oral,10/31/2023,completed
+300mg,25 Jun 2022,three times daily,MED-77641,Gabapentin,ALPHA-00585,Dr. Johansson,oral,2022-04-05,on-hold
+30 units,,BID,MED-48614,Insulin Glargine,BETA-00541,Dr. Perez,subcutaneous,2024-08-12T00:00:00,discontinued
+100mg,01/27/2022,once daily,MED-32629,Sertraline,ALPHA-00677,Dr. Martinez,oral,2022-01-05T00:00:00,active
+100mg,,PRN,MED-37051,Sertraline,ALPHA-00766,Dr. Brown,oral,03/19/2023,active
+2.5mg,02/28/2023,twice daily,MED-34544,Amlodipine,BETA-00369,Dr. Davis,oral,01/04/2023,discontinued
+40mg,2025-01-20,three times daily,MED-47214,Omeprazole,ALPHA-00791,Dr. King,oral,12/30/2024,active
+25/100mg,10/17/2022,TID,MED-64269,Carbidopa-Levodopa,GAMMA-00758,Dr. Miller,oral,2022-07-26,active
+20mg,,QD,MED-83309,Furosemide,BETA-00058,Dr. Walker,oral,01/12/2024,discontinued
+25mcg,02/02/2024,TID,MED-81629,Levothyroxine,ALPHA-00516,Dr. Wilson,oral,2024/01/06,completed
+80mg,2022-09-12,PRN,MED-10936,Atorvastatin,GAMMA-00062,Dr. Clark,oral,2022-07-23,completed
+,25 Oct 2023,three times daily,MED-57482,Amlodipine,BETA-00223,Dr. Jones,oral,2023-07-27,on-hold
+20mg,2023-03-06,PRN,MED-75824,Furosemide,GAMMA-00337,Dr. Sharma,oral,2023-01-02,completed
+10mg,2024-08-16,BID,MED-79684,Amlodipine,BETA-00676,Dr. Harris,oral,07/18/2024,completed
+5mg,,BID,MED-32660,Lisinopril,GAMMA-00196,Dr. Rodriguez,oral,2022-12-14,completed
+90mcg,2022-05-13,three times daily,MED-31635,Albuterol,GAMMA-00723,Dr. Thompson,inhaled,02/24/2022,on-hold
+5mg,"July 29, 2023",three times daily,MED-92136,Amlodipine,BETA-00142,Dr. Jackson,oral,2023-07-25,discontinued
+90mcg,10/30/2022,once daily,MED-61728,Albuterol,GAMMA-00226,Dr. Tanaka,inhaled,11-10-2022,discontinued
+40MG,01/19/2023,three times daily,MED-51636,Furosemide,ALPHA-00118,Dr. Ramirez,oral,12/20/2022,completed
+40mg,06/07/2024,QD,MED-96973,Lisinopril,BETA-00199,Dr. Young,oral,2024-06-01,active
+10mg,2024-05-19,three times daily,MED-86056,Lisinopril,GAMMA-00351,Dr. Singh,oral,09-04-2024,on-hold
+25mg,05-05-2022,twice daily,MED-78890,Sertraline,ALPHA-00230,Dr. Hernandez,oral,03/27/2022,active
+20mg,2022-09-08T00:00:00,as needed,MED-24870,Prednisone,BETA-00169,Dr. Schmidt,oral,07/25/2022,discontinued
+180mcg,2024/10/28,BID,MED-76237,Albuterol,BETA-00009,Dr. Young,inhaled,08/17/2024,on-hold
+20 mg,05/21/2023,BID,MED-75357,Omeprazole,ALPHA-00536,Dr. Moore,oral,04/03/2023,on-hold
+100mg,03-03-2025,TID,MED-89640,Sertraline,BETA-00727,Dr. Wang,oral,2024-12-07,discontinued
+50/200mg,2023/05/04,QD,MED-81835,Carbidopa-Levodopa,ALPHA-00405,Dr. Lewis,oral,2023-04-12,completed
+90mcg,10-02-2023,twice daily,MED-63609,Albuterol,GAMMA-00503,Dr. Singh,inhaled,"November 12, 2022",completed
+20mg,2023-06-01,TID,MED-28615,Omeprazole,BETA-00394,Dr. Taylor,oral,04/16/2023,on-hold
+30 units,,QD,MED-29623,Insulin Glargine,GAMMA-00372,Dr. Jackson,subcutaneous,05/11/2024,completed
+50mg,13-04-2023,three times daily,MED-57414,Sertraline,GAMMA-00642,Dr. Rodriguez,oral,04/10/2023,discontinued
+1000mg,2022-10-25T00:00:00,twice daily,MED-84004,Metformin,BETA-00523,Dr. Kim,oral,09/06/2022,discontinued
+600mg,,BID,MED-12415,Gabapentin,GAMMA-00027,Dr. Mueller,oral,06/23/2024,completed
+25/100mg,11 May 2023,BID,MED-36333,Carbidopa-Levodopa,GAMMA-00394,Dr. Clark,oral,04/15/2023,completed
+50mg,01/02/2025,twice daily,MED-59114,Sertraline,ALPHA-00457,Dr. Lee,oral,22-10-2024,completed
+1mg,2022-04-17,PRN,MED-66091,Warfarin,BETA-00084,Dr. King,oral,2022-01-17,completed
+1mg,"March 20, 2023",QD,MED-86494,Warfarin,BETA-00690,Dr. Chen,oral,"February 01, 2023",on-hold
+100mg,2022/11/04,once daily,MED-29530,Sertraline,BETA-00409,Dr. Jackson,oral,10/08/2022,completed
+50mg,07/21/2023,TID,MED-97534,Sertraline,GAMMA-00085,Dr. Sharma,oral,2023-05-30,active
+10mg,2024-12-10,three times daily,MED-87469,Lisinopril,GAMMA-00727,Dr. King,oral,12/07/2024,completed
+1mg,11/08/2022,BID,MED-53170,Warfarin,BETA-00568,Dr. Taylor,oral,31-08-2022,completed
+500mg,2022-12-01,BID,MED-51526,Amoxicillin,GAMMA-00730,Dr. Thomas,oral,09/06/2022,on-hold
+500mg,01/07/2023,once daily,MED-51559,Metformin,ALPHA-00032,Dr. Clark,oral,01/02/2023,discontinued
+25mg,2023-01-16T00:00:00,as needed,MED-87163,Sertraline,GAMMA-00796,Dr. Rodriguez,oral,2022-11-17,on-hold
+25mcg,12/15/2023,PRN,MED-73032,Levothyroxine,ALPHA-00357,Dr. White,oral,10/14/2023,completed
+100mcg,10/31/2023,TID,MED-47956,Levothyroxine,GAMMA-00545,Dr. Martinez,oral,08/14/2023,on-hold
+50mcg,2022-09-26,TID,MED-57382,Levothyroxine,BETA-00580,Dr. Wilson,oral,2022/07/24,active
+40mg,"March 17, 2024",twice daily,MED-87899,Lisinopril,BETA-00629,Dr. Perez,oral,2023-12-30T00:00:00,on-hold
+10 units,"January 16, 2024",BID,MED-73982,Insulin Glargine,GAMMA-00779,Dr. Hernandez,subcutaneous,"December 24, 2023",active
+20mg,05/22/2022,TID,MED-80811,Atorvastatin,GAMMA-00247,Dr. Young,oral,2022/05/04,completed
+20mg,2024-03-23,twice daily,MED-63279,Omeprazole,ALPHA-00262,Dr. Harris,oral,05-01-2024,active
+50/200mg,"March 22, 2022",twice daily,MED-88842,Carbidopa-Levodopa,BETA-00477,Dr. Lewis,oral,2022-03-16,discontinued
+250mg,2023-01-31,PRN,MED-89383,Amoxicillin,ALPHA-00503,Dr. Johnson,oral,11/13/2022,on-hold
+300mg,05/07/2023,PRN,MED-65016,Gabapentin,GAMMA-00195,Dr. Lewis,oral,04/19/2023,active
+100mcg,,BID,MED-22253,Levothyroxine,ALPHA-00117,Dr. Johnson,oral,07/10/2024,completed
+25mg,09/10/2023,BID,MED-68377,Sertraline,GAMMA-00086,Dr. Lopez,oral,"August 29, 2023",active
+500mg,2025-01-03,QD,MED-19218,Metformin,BETA-00147,Dr. Mueller,oral,11/25/2024,active
+40mg,2024-09-21,twice daily,MED-14566,Furosemide,ALPHA-00156,Dr. Gupta,oral,22-08-2024,on-hold
+5mg,2023-07-31T00:00:00,BID,MED-34203,Lisinopril,ALPHA-00207,Dr. Harris,oral,07/03/2023,on-hold
+30 units,2022-12-26,TID,MED-26160,Insulin Glargine,ALPHA-00296,Dr. Lopez,subcutaneous,2022-10-05,on-hold
+100mg,22-12-2024,three times daily,MED-34338,Sertraline,BETA-00162,Dr. Tanaka,oral,2024-12-09,completed
+50/200mg,2024-03-31T00:00:00,PRN,MED-63073,Carbidopa-Levodopa,GAMMA-00335,Dr. Sharma,oral,02/28/2024,on-hold
+50mcg,19-04-2022,as needed,MED-56287,Levothyroxine,GAMMA-00203,Dr. Jackson,oral,09 Mar 2022,completed
+100mcg,12/14/2024,BID,MED-36227,Levothyroxine,BETA-00097,Dr. Brown,oral,03-12-2024,on-hold
+25mcg,04 Sep 2024,QD,MED-95168,Levothyroxine,GAMMA-00341,Dr. Kim,oral,06/27/2024,active
+20mg,02/06/2022,twice daily,MED-30164,Lisinopril,GAMMA-00515,Dr. Gonzalez,oral,01/10/2022,active
+5mg,12-09-2023,once daily,MED-10020,Lisinopril,ALPHA-00223,Dr. Miller,oral,2023-07-26T00:00:00,discontinued
+25mg,31-12-2022,BID,MED-49731,Sertraline,GAMMA-00598,Dr. Taylor,oral,16-10-2022,discontinued
+,2022-06-16,PRN,MED-83192,Amoxicillin,GAMMA-00433,Dr. Gonzalez,oral,10-06-2022,discontinued
+25mcg,08-11-2024,as needed,MED-59269,Levothyroxine,GAMMA-00001,Dr. Kumar,oral,2024-11-02,completed
+2mg,25-02-2024,TID,MED-81326,Warfarin,BETA-00742,Dr. Gonzalez,oral,02/20/2024,active
+1000mg,07/25/2022,once daily,MED-76887,Metformin,ALPHA-00382,Dr. Thomas,oral,27-06-2022,active
+250mg,,QD,MED-31363,Amoxicillin,GAMMA-00197,Dr. Shah,oral,24 Apr 2024,discontinued
+5mg,01 Oct 2024,as needed,MED-64555,Prednisone,ALPHA-00662,Dr. Sharma,oral,07/16/2024,completed
+80mg,"November 02, 2023",PRN,MED-70372,Atorvastatin,ALPHA-00213,Dr. Sharma,oral,10/08/2023,active
+20mg,11-01-2023,PRN,MED-23896,Atorvastatin,BETA-00693,Dr. Moore,oral,10/25/2022,on-hold
+180mcg,12-02-2023,once daily,MED-94902,Albuterol,BETA-00072,Dr. Anderson,inhaled,14 Nov 2022,completed
+10mg,10/27/2024,TID,MED-83440,Lisinopril,BETA-00215,Dr. Lee,oral,20-10-2024,discontinued
+5mg,,BID,MED-71489,Lisinopril,GAMMA-00555,Dr. Jones,oral,2024-10-03,active
+5mg,"August 13, 2022",BID,MED-39280,Prednisone,BETA-00537,Dr. Williams,oral,2022-07-21,on-hold
+500mg,01/20/2025,twice daily,MED-86414,Amoxicillin,BETA-00147,Dr. Chen,oral,11/26/2024,active
+20mg,2024/01/29,BID,MED-24180,Prednisone,GAMMA-00397,Dr. Gonzalez,oral,12/08/2023,on-hold
+100mg,09/02/2024,three times daily,MED-69066,Sertraline,GAMMA-00596,Dr. Thompson,oral,12-06-2024,discontinued
+250mg,10/21/2024,BID,MED-75236,Amoxicillin,GAMMA-00115,Dr. Garcia,oral,2024-08-18T00:00:00,discontinued
+10 units,02/22/2024,QD,MED-54064,Insulin Glargine,BETA-00132,Dr. Martinez,subcutaneous,01/10/2024,active
+10 units,01/24/2024,PRN,MED-50889,Insulin Glargine,ALPHA-00006,Dr. Thompson,subcutaneous,2023-10-29T00:00:00,on-hold
+300mg,10/28/2022,PRN,MED-40812,Gabapentin,BETA-00494,Dr. Sato,oral,"September 16, 2022",active
+600mg,23-11-2022,once daily,MED-93062,Gabapentin,ALPHA-00476,Dr. Taylor,oral,2022-11-14,on-hold
+80mg,2022/05/03,BID,MED-16782,Atorvastatin,BETA-00455,Dr. Taylor,oral,28 Mar 2022,active
+500mg,,BID,MED-31543,Metformin,BETA-00139,Dr. Rodriguez,oral,07/06/2024,on-hold
+500mg,2022/09/01,as needed,MED-68005,Amoxicillin,ALPHA-00064,Dr. Brown,oral,2022-08-24T00:00:00,discontinued
+30 units,2024-06-29T00:00:00,twice daily,MED-80849,Insulin Glargine,BETA-00186,Dr. Harris,subcutaneous,06/17/2024,active
+100mg,"September 14, 2024",BID,MED-98076,Sertraline,ALPHA-00664,Dr. Rodriguez,oral,06/28/2024,active
+20 units,12/10/2022,TID,MED-57457,Insulin Glargine,GAMMA-00243,Dr. Lopez,subcutaneous,2022-10-16,active
+20mg,03/16/2023,QD,MED-14860,Furosemide,ALPHA-00711,Dr. Tanaka,oral,2023-01-21,on-hold
+2.5mg,11/18/2023,BID,MED-72896,Amlodipine,GAMMA-00438,Dr. Thompson,oral,2023-10-26,completed
+10mg,05/20/2023,TID,MED-40432,Amlodipine,ALPHA-00041,Dr. Thompson,oral,05/06/2023,completed
+,2024/08/18,BID,MED-89041,Gabapentin,GAMMA-00676,Dr. Gonzalez,oral,18 Jul 2024,completed
+50mcg,2024-05-05,once daily,MED-40846,Levothyroxine,BETA-00579,Dr. Rodriguez,oral,"April 09, 2024",active
+90mcg,04/15/2022,TID,MED-23918,Albuterol,BETA-00529,Dr. Garcia,inhaled,30 Mar 2022,discontinued
+20mg,12/10/2023,BID,MED-99889,Omeprazole,GAMMA-00136,Dr. Taylor,oral,"November 13, 2023",completed
+20mg,,BID,MED-25984,Atorvastatin,GAMMA-00719,Dr. Ramirez,oral,"March 24, 2022",active
+500mg,"September 13, 2022",as needed,MED-38601,Amoxicillin,BETA-00571,Dr. Martinez,oral,07/07/2022,discontinued
+2.5mg,06/12/2022,three times daily,MED-85862,Amlodipine,BETA-00702,Dr. Tanaka,oral,05/13/2022,on-hold
+25/100mg,11/12/2023,TID,MED-24051,Carbidopa-Levodopa,BETA-00606,Dr. Lee,oral,2023-09-19,completed
+25mg,19-11-2022,as needed,MED-37538,Sertraline,BETA-00523,Dr. Martinez,oral,09/06/2022,active
+20mg,"December 24, 2023",twice daily,MED-63128,Prednisone,ALPHA-00134,Dr. King,oral,2023-11-27,discontinued
+10 units,04/04/2024,BID,MED-21040,Insulin Glargine,BETA-00413,Dr. Harris,subcutaneous,02/28/2024,discontinued
+40mg,05/27/2022,as needed,MED-11052,Atorvastatin,GAMMA-00364,Dr. White,oral,2022-03-23,on-hold
+10mg,06/30/2022,TID,MED-25708,Amlodipine,GAMMA-00585,Dr. Singh,oral,2022-04-03,completed
+10 units,12 Dec 2022,three times daily,MED-78038,Insulin Glargine,ALPHA-00409,Dr. Wilson,subcutaneous,2022/10/07,active
+25/100mg,05 Oct 2022,BID,MED-52570,Carbidopa-Levodopa,ALPHA-00764,Dr. Lee,oral,2022/09/18,discontinued
+850mg,2022-12-10T00:00:00,three times daily,MED-89310,Metformin,BETA-00503,Dr. Allen,oral,2022-11-14T00:00:00,active
+180mcg,04/14/2022,BID,MED-53818,Albuterol,ALPHA-00508,Dr. Anderson,inhaled,2022/01/18,on-hold
+500mg,2022-12-18T00:00:00,PRN,MED-48827,Metformin,GAMMA-00649,Dr. Miller,oral,2022/11/08,on-hold
+10mg,2022-05-27,three times daily,MED-32267,Atorvastatin,ALPHA-00723,Dr. Taylor,oral,"February 26, 2022",completed
+75mcg,,three times daily,MED-26398,Levothyroxine,ALPHA-00061,Dr. Gupta,oral,05/02/2024,discontinued
+80mg,2022-09-10,QD,MED-67808,Furosemide,GAMMA-00537,Dr. Perez,oral,20-07-2022,on-hold
+25mg,04/27/2022,once daily,MED-92866,Sertraline,BETA-00529,Dr. Kumar,oral,03/30/2022,active
+100mg,2023-04-01,QD,MED-37779,Sertraline,GAMMA-00178,Dr. Young,oral,2023/03/24,discontinued
+850mg,06-07-2023,twice daily,MED-85412,Metformin,GAMMA-00005,Dr. King,oral,03 Jul 2023,completed
+,07-02-2025,BID,MED-22313,Atorvastatin,ALPHA-00791,Dr. Sanchez,oral,01-01-2025,completed
+80mg,"August 18, 2023",three times daily,MED-62088,Furosemide,ALPHA-00406,Dr. Thomas,oral,08/13/2023,discontinued
+100mcg,21-04-2022,once daily,MED-65520,Levothyroxine,ALPHA-00321,Dr. Sanchez,oral,2022/04/06,active
+250mg,,QD,MED-21460,Amoxicillin,GAMMA-00754,Dr. Young,oral,2024-02-10,discontinued
+25mcg,08/25/2022,as needed,MED-33067,Levothyroxine,ALPHA-00112,Dr. Miller,oral,06/13/2022,active
+1mg,09/21/2022,QD,MED-92986,Warfarin,ALPHA-00263,Dr. Gonzalez,oral,2022-07-06,discontinued
+250mg,2023-04-28,QD,MED-48557,Amoxicillin,GAMMA-00179,Dr. Martin,oral,2023/02/21,discontinued
+20MG,2024-09-22,PRN,MED-33402,Prednisone,ALPHA-00635,Dr. Allen,oral,11 Jul 2024,active
+,2023-03-03,TID,MED-79902,Insulin Glargine,BETA-00592,Dr. Lewis,subcutaneous,15-02-2023,active
+20mg,03/31/2023,PRN,MED-87977,Prednisone,BETA-00311,Dr. Brown,oral,14 Feb 2023,active
+10mg,08/06/2024,as needed,MED-33716,Prednisone,ALPHA-00099,Dr. Martin,oral,07/18/2024,active
+40mg,18 Mar 2023,BID,MED-66147,Omeprazole,ALPHA-00711,Dr. Lewis,oral,"January 22, 2023",completed
+500MG,11/14/2024,BID,MED-32215,Amoxicillin,BETA-00083,Dr. Walker,oral,09/17/2024,discontinued
+5mg,21 Nov 2022,TID,MED-22059,Amlodipine,GAMMA-00743,Dr. Martinez,oral,"November 14, 2022",on-hold
+50mg,05/04/2022,twice daily,MED-34330,Sertraline,BETA-00465,Dr. Chen,oral,2022-03-15,discontinued
+10mg,2025-02-03,BID,MED-64460,Amlodipine,BETA-00105,Dr. Mueller,oral,22 Dec 2024,discontinued
+30 units,"October 18, 2024",twice daily,MED-77763,Insulin Glargine,ALPHA-00059,Dr. Smith,subcutaneous,04 Oct 2024,on-hold
+2.5mg,"November 12, 2022",once daily,MED-92822,Amlodipine,BETA-00064,Dr. Park,oral,2022/08/26,active
+5mg,2023-10-15,as needed,MED-33179,Lisinopril,GAMMA-00213,Dr. Wang,oral,10/07/2023,completed
+1mg,06/16/2024,twice daily,MED-14138,Warfarin,ALPHA-00222,Dr. Walker,oral,2024/06/04,active
+80mg,"July 24, 2022",QD,MED-85409,Furosemide,GAMMA-00436,Dr. Chen,oral,2022-06-21,on-hold
+80mg,07/18/2022,QD,MED-61976,Furosemide,GAMMA-00702,Dr. Shah,oral,"May 15, 2022",active
+10 units,01/22/2023,twice daily,MED-14113,Insulin Glargine,GAMMA-00729,Dr. Lee,subcutaneous,12-12-2022,discontinued
+500mg,2023-01-04,as needed,MED-19659,Metformin,ALPHA-00448,Dr. Davis,oral,2022-10-13T00:00:00,completed
+20 units,07-07-2024,PRN,MED-93289,Insulin Glargine,GAMMA-00687,Dr. Young,subcutaneous,"July 03, 2024",active
+40mg,2023/01/20,PRN,MED-91660,Atorvastatin,ALPHA-00472,Dr. Moore,oral,11/17/2022,discontinued
+30 units,"November 13, 2024",once daily,MED-34122,Insulin Glargine,ALPHA-00619,Dr. Garcia,subcutaneous,2024-09-22,completed
+5 mg,04/15/2024,BID,MED-63340,Amlodipine,GAMMA-00076,Dr. Patel,oral,22-02-2024,discontinued
+250mg,2024-12-04,twice daily,MED-71226,Amoxicillin,GAMMA-00593,Dr. Miller,oral,10/19/2024,discontinued
+1mg,2024/01/13,TID,MED-79311,Warfarin,ALPHA-00613,Dr. Anderson,oral,2023-10-27T00:00:00,completed
+10mg,01-10-2022,TID,MED-59239,Atorvastatin,GAMMA-00317,Dr. Kumar,oral,2022-08-05T00:00:00,completed
+5mg,,three times daily,MED-38764,Amlodipine,BETA-00137,Dr. Chen,oral,"October 15, 2024",discontinued
+10mg,2024-05-15,QD,MED-17004,Prednisone,BETA-00197,Dr. Garcia,oral,25-04-2024,active
+180mcg,2022-08-15T00:00:00,TID,MED-97036,Albuterol,BETA-00384,Dr. Rodriguez,inhaled,08/09/2022,discontinued
+5mg,2023/06/24,as needed,MED-74008,Lisinopril,GAMMA-00041,Dr. Johansson,oral,2023-05-05,active
+20mg,07/15/2024,PRN,MED-89004,Prednisone,ALPHA-00656,Dr. Patel,oral,05/22/2024,on-hold
+25/100mg,08-10-2023,TID,MED-58691,Carbidopa-Levodopa,GAMMA-00302,Dr. Hernandez,oral,"August 03, 2023",active
+20mg,2024/05/02,three times daily,MED-72128,Omeprazole,ALPHA-00443,Dr. Shah,oral,"March 06, 2024",on-hold
+250mg,2024/04/12,PRN,MED-27679,Amoxicillin,ALPHA-00413,Dr. Lee,oral,2024-02-28,on-hold
+40mg,2023-08-05,BID,MED-72856,Omeprazole,BETA-00054,Dr. Thompson,oral,07/20/2023,completed
+20mg,10/17/2023,BID,MED-30266,Omeprazole,ALPHA-00688,Dr. Davis,oral,09/11/2023,completed
+20mg,2022-10-15,three times daily,MED-44765,Omeprazole,BETA-00064,Dr. Martin,oral,2022-08-26,active
+50mg,09/11/2023,PRN,MED-17177,Sertraline,GAMMA-00628,Dr. Johnson,oral,29 Aug 2023,on-hold
+50/200mg,22 Oct 2024,as needed,MED-34900,Carbidopa-Levodopa,GAMMA-00137,Dr. Martin,oral,2024-10-15,completed
+850mg,,BID,MED-49231,Metformin,GAMMA-00571,Dr. Young,oral,2022-07-07,on-hold
+850mg,2024-03-07,BID,MED-84684,Metformin,GAMMA-00516,Dr. Jackson,oral,01/08/2024,on-hold
+180mcg,,once daily,MED-10205,Albuterol,BETA-00714,Dr. Moore,inhaled,08/30/2024,on-hold
+500mg,,as needed,MED-55611,Metformin,BETA-00756,Dr. Lewis,oral,07/29/2023,on-hold
+500mg,2023-03-27,once daily,MED-92571,Amoxicillin,GAMMA-00462,Dr. Lee,oral,2023-03-22,completed
+250mg,16-09-2023,PRN,MED-22445,Amoxicillin,ALPHA-00225,Dr. Patel,oral,"September 04, 2023",discontinued
+20mg,08/05/2022,PRN,MED-15329,Prednisone,BETA-00758,Dr. Ramirez,oral,2022/07/25,on-hold
+850mg,30-09-2022,BID,MED-47171,Metformin,GAMMA-00079,Dr. Lopez,oral,06-07-2022,discontinued
+2mg,05/07/2023,twice daily,MED-21703,Warfarin,BETA-00000,Dr. Johnson,oral,04/03/2023,on-hold
+500mg,2024-09-22,QD,MED-20424,Metformin,GAMMA-00266,Dr. Shah,oral,2024-08-04,active
+80mg,2022-11-11,twice daily,MED-60572,Furosemide,BETA-00488,Dr. Perez,oral,08/23/2022,completed
+5mg,2025-02-13T00:00:00,QD,MED-49324,Amlodipine,BETA-00097,Dr. Anderson,oral,2024/12/04,active
+20mg,01/19/2023,PRN,MED-78074,Furosemide,GAMMA-00393,Dr. Jones,oral,01/14/2023,active
+40mg,08/23/2022,BID,MED-14140,Lisinopril,GAMMA-00752,Dr. Martin,oral,2022/08/13,completed
+300mg,2022-11-16,BID,MED-55883,Gabapentin,BETA-00048,Dr. Sanchez,oral,2022-09-18,active
+80mg,2024-08-06,TID,MED-87294,Furosemide,GAMMA-00091,Dr. Thomas,oral,05/10/2024,active
+40mg,2022-10-19,QD,MED-91608,Omeprazole,GAMMA-00658,Dr. Mueller,oral,2022-09-18,discontinued
+25mg,08/22/2024,three times daily,MED-37089,Sertraline,ALPHA-00635,Dr. Garcia,oral,07/09/2024,discontinued
+80 MG,2022-07-07T00:00:00,as needed,MED-83673,Furosemide,ALPHA-00114,Dr. Schmidt,oral,06/04/2022,completed
+5mg,2023-06-22,TID,MED-51730,Amlodipine,ALPHA-00178,Dr. Jackson,oral,"March 24, 2023",completed
+10mg,2023-11-14,PRN,MED-91882,Amlodipine,BETA-00701,Dr. Robinson,oral,26-08-2023,discontinued
+5mg,05/19/2022,TID,MED-13320,Prednisone,BETA-00623,Dr. Kim,oral,24-04-2022,on-hold
+500mg,,once daily,MED-83666,Metformin,BETA-00271,Dr. Jackson,oral,03/08/2024,completed
+40mg,,TID,MED-33447,Omeprazole,GAMMA-00586,Dr. Martin,oral,2024-01-03T00:00:00,completed
+300mg,12/14/2022,three times daily,MED-28086,Gabapentin,GAMMA-00729,Dr. Johansson,oral,2022-12-10,completed
+100mcg,11/30/2024,three times daily,MED-36807,Levothyroxine,GAMMA-00774,Dr. Sanchez,oral,09/11/2024,discontinued
+20mg,2023-09-28T00:00:00,three times daily,MED-40588,Lisinopril,GAMMA-00606,Dr. Shah,oral,"September 20, 2023",completed
+20mg,04/27/2023,TID,MED-25406,Furosemide,GAMMA-00665,Dr. Lopez,oral,30 Jan 2023,discontinued
+180mcg,"March 11, 2024",QD,MED-18403,Albuterol,BETA-00335,Dr. Singh,inhaled,29 Feb 2024,on-hold
+500mg,09-01-2024,once daily,MED-30512,Amoxicillin,BETA-00613,Dr. Young,oral,25-10-2023,on-hold
+500mg,03/09/2023,PRN,MED-88897,Amoxicillin,GAMMA-00792,Dr. Ramirez,oral,26-12-2022,active
+80mg,01/22/2025,PRN,MED-32840,Atorvastatin,BETA-00067,Dr. Tanaka,oral,11/29/2024,active
+50/200mg,2023-04-24,as needed,MED-69870,Carbidopa-Levodopa,ALPHA-00255,Dr. Anderson,oral,2023-04-03,active
+25/100mg,2023-10-23T00:00:00,TID,MED-39581,Carbidopa-Levodopa,BETA-00550,Dr. Davis,oral,"October 11, 2023",on-hold
+90mcg,05/23/2022,BID,MED-28081,Albuterol,BETA-00150,Dr. Brown,inhaled,03/28/2022,discontinued
+5mg,2024-04-27T00:00:00,QD,MED-92405,Warfarin,BETA-00722,Dr. Rodriguez,oral,28 Jan 2024,discontinued
+10mg,08-12-2024,once daily,MED-59516,Lisinopril,BETA-00224,Dr. Patel,oral,2024-09-29,on-hold
+40mg,"February 17, 2022",as needed,MED-51301,Atorvastatin,GAMMA-00508,Dr. Park,oral,01/18/2022,completed
+100MG,12/28/2024,PRN,MED-52813,Gabapentin,ALPHA-00555,Dr. Smith,oral,10/03/2024,completed
+5 mg,02-08-2024,twice daily,MED-58283,Warfarin,BETA-00557,Dr. Johansson,oral,2024-05-18,completed
+5mg,07 May 2023,twice daily,MED-10190,Lisinopril,GAMMA-00176,Dr. White,oral,30 Apr 2023,active
+500mg,2022-12-20,TID,MED-16494,Amoxicillin,BETA-00274,Dr. Young,oral,2022-10-20,discontinued
+20mg,12-01-2024,once daily,MED-49668,Omeprazole,GAMMA-00331,Dr. Taylor,oral,12/01/2023,active
+80mg,2023-04-13T00:00:00,TID,MED-73403,Furosemide,ALPHA-00718,Dr. Mueller,oral,20-02-2023,completed
+300mg,2024-07-02,as needed,MED-63013,Gabapentin,ALPHA-00692,Dr. Johnson,oral,2024-06-12,active
+1000mg,,QD,MED-80441,Metformin,ALPHA-00791,Dr. Harris,oral,12/31/2024,on-hold
+10mg,05/27/2024,PRN,MED-73448,Amlodipine,GAMMA-00632,Dr. Brown,oral,04/09/2024,active
+20 mg,12/29/2022,three times daily,MED-40173,Omeprazole,BETA-00729,Dr. Kumar,oral,2022-12-11T00:00:00,active
+25mg,10/11/2024,BID,MED-78885,Sertraline,BETA-00266,Dr. Johansson,oral,04 Aug 2024,active
+20mg,,as needed,MED-65834,Lisinopril,GAMMA-00253,Dr. Park,oral,04/02/2022,discontinued
+25mg,2024/12/27,three times daily,MED-18259,Sertraline,ALPHA-00695,Dr. Shah,oral,10/13/2024,completed
+20mg,2023-04-10,TID,MED-82659,Lisinopril,GAMMA-00517,Dr. Ramirez,oral,20-02-2023,completed
+20mg,2023-10-28,PRN,MED-96145,Prednisone,GAMMA-00213,Dr. Park,oral,2023-10-08,active
+50mcg,04/01/2024,BID,MED-24042,Levothyroxine,BETA-00421,Dr. Rodriguez,oral,2024-03-06,on-hold
+40mg,19 Feb 2024,twice daily,MED-15452,Atorvastatin,ALPHA-00383,Dr. Moore,oral,12/15/2023,discontinued
+40mg,2024/11/21,as needed,MED-84833,Lisinopril,GAMMA-00593,Dr. Tanaka,oral,2024-10-19T00:00:00,completed
+500mg,,once daily,MED-46052,Metformin,ALPHA-00504,Dr. Park,oral,27-06-2023,completed
+20mg,02/07/2024,once daily,MED-86118,Omeprazole,BETA-00697,Dr. Lee,oral,01/08/2024,discontinued
+80mg,"May 11, 2023",once daily,MED-25108,Furosemide,GAMMA-00108,Dr. Anderson,oral,25 Feb 2023,active
+25mg,,twice daily,MED-69765,Sertraline,ALPHA-00573,Dr. Clark,oral,01/15/2023,on-hold
+10mg,"December 18, 2023",QD,MED-10058,Amlodipine,BETA-00170,Dr. Martinez,oral,2023-10-21,discontinued
+100mg,2023-06-08,TID,MED-21858,Sertraline,GAMMA-00447,Dr. Kim,oral,2023-04-13,on-hold
+40mg,2022/10/24,three times daily,MED-44985,Furosemide,GAMMA-00568,Dr. Smith,oral,09/01/2022,active
+850 mg,11/16/2024,once daily,MED-59968,Metformin,BETA-00040,Dr. Park,oral,"October 31, 2024",active
+250mg,,once daily,MED-13893,Amoxicillin,BETA-00261,Dr. Kumar,oral,2022-06-02T00:00:00,on-hold
+500mg,2024-10-24T00:00:00,PRN,MED-18870,Amoxicillin,ALPHA-00159,Dr. Clark,oral,10/21/2024,on-hold
+75mcg,,PRN,MED-22246,Levothyroxine,ALPHA-00056,Dr. Jones,oral,22 May 2024,active
+250mg,01/17/2023,QD,MED-53523,Amoxicillin,GAMMA-00490,Dr. Smith,oral,2022-11-02,active
+10mg,2025-02-21,BID,MED-38127,Atorvastatin,BETA-00475,Dr. Tanaka,oral,12-12-2024,on-hold
+50/200mg,07/17/2022,twice daily,MED-75782,Carbidopa-Levodopa,ALPHA-00705,Dr. Davis,oral,2022-06-24T00:00:00,discontinued
+1mg,2023-02-15,BID,MED-16188,Warfarin,ALPHA-00792,Dr. Garcia,oral,12/27/2022,discontinued
+25/100mg,10-10-2024,twice daily,MED-75613,Carbidopa-Levodopa,BETA-00370,Dr. Thompson,oral,23 Aug 2024,completed
+180MCG,12/15/2024,three times daily,MED-78947,Albuterol,GAMMA-00468,Dr. Robinson,inhaled,2024-12-02,discontinued
+40mg,24-09-2023,TID,MED-93809,Lisinopril,ALPHA-00456,Dr. Garcia,oral,2023-09-16,discontinued
+20mg,06/13/2022,PRN,MED-21974,Furosemide,ALPHA-00350,Dr. Ramirez,oral,2022-03-21,on-hold
+100 mcg,2024-09-21,three times daily,MED-60065,Levothyroxine,BETA-00679,Dr. Smith,oral,"August 05, 2024",discontinued
+500mg,06/25/2024,as needed,MED-47259,Metformin,GAMMA-00518,Dr. Lee,oral,2024-06-17T00:00:00,on-hold
+50mg,,PRN,MED-73938,Sertraline,ALPHA-00479,Dr. Walker,oral,"December 28, 2024",on-hold
+30 units,2024/04/29,BID,MED-47587,Insulin Glargine,GAMMA-00632,Dr. Brown,subcutaneous,2024-04-10,completed
+,2023-10-09,once daily,MED-71883,Prednisone,GAMMA-00146,Dr. Allen,oral,09/26/2023,on-hold
+50mcg,26 Mar 2022,PRN,MED-38560,Levothyroxine,BETA-00723,Dr. Jackson,oral,2022-02-25,active
+50mcg,2024-01-03T00:00:00,QD,MED-83018,Levothyroxine,GAMMA-00639,Dr. Wilson,oral,2023-11-26T00:00:00,completed
+10 units,2022-06-12T00:00:00,once daily,MED-26557,Insulin Glargine,ALPHA-00157,Dr. Hernandez,subcutaneous,04/04/2022,on-hold
+100mcg,"March 21, 2023",PRN,MED-77141,Levothyroxine,ALPHA-00698,Dr. King,oral,02 Jan 2023,on-hold
+250mg,,three times daily,MED-41905,Amoxicillin,ALPHA-00671,Dr. Clark,oral,09/19/2024,active
+5mg,13-08-2024,QD,MED-37047,Lisinopril,ALPHA-00028,Dr. Chen,oral,2024-05-31,active
+40mg,10/13/2024,once daily,MED-77435,Lisinopril,GAMMA-00671,Dr. Jones,oral,2024-09-19,completed
+1mg,03/19/2022,as needed,MED-39763,Warfarin,GAMMA-00723,Dr. Sanchez,oral,2022-02-26,active
+100mg,07/20/2024,twice daily,MED-42343,Sertraline,ALPHA-00797,Dr. Young,oral,"June 18, 2024",completed
+50/200mg,2023/11/21,PRN,MED-33765,Carbidopa-Levodopa,GAMMA-00225,Dr. Wang,oral,09/02/2023,discontinued
+300mg,2024-04-05T00:00:00,twice daily,MED-53964,Gabapentin,ALPHA-00344,Dr. Moore,oral,"January 06, 2024",active
+500mg,2023-09-22,twice daily,MED-11770,Metformin,BETA-00286,Dr. Wang,oral,2023-06-24,on-hold
+10 units,17-08-2023,QD,MED-20531,Insulin Glargine,GAMMA-00005,Dr. Miller,subcutaneous,2023-07-02,completed
+1000mg,18 Mar 2022,as needed,MED-41442,Metformin,ALPHA-00071,Dr. Garcia,oral,03-03-2022,discontinued
+250mg,2022-11-29,QD,MED-30665,Amoxicillin,ALPHA-00354,Dr. Thompson,oral,2022-10-17,active
+100MCG,2022-09-04,TID,MED-22773,Levothyroxine,ALPHA-00652,Dr. Lee,oral,07/11/2022,completed
+50/200mg,,once daily,MED-81941,Carbidopa-Levodopa,GAMMA-00587,Dr. Brown,oral,2022-08-23,on-hold
+10mg,2022-06-01,QD,MED-47050,Prednisone,BETA-00522,Dr. Lewis,oral,05/13/2022,discontinued
+180mcg,"December 10, 2022",QD,MED-15828,Albuterol,GAMMA-00490,Dr. Gupta,inhaled,2022-11-03,discontinued
+20mg,2022-05-01T00:00:00,twice daily,MED-43647,Omeprazole,ALPHA-00623,Dr. Tanaka,oral,04/24/2022,active
+10mg,2023-08-10,TID,MED-68424,Lisinopril,BETA-00793,Dr. Hernandez,oral,2023-05-29T00:00:00,completed
+250mg,02/16/2025,twice daily,MED-42486,Amoxicillin,ALPHA-00650,Dr. Wilson,oral,2024-12-16,completed
+25 mcg,"October 21, 2024",PRN,MED-50210,Levothyroxine,GAMMA-00363,Dr. Davis,oral,09/26/2024,discontinued
+50mg,2024-07-10T00:00:00,once daily,MED-71198,Sertraline,GAMMA-00287,Dr. Davis,oral,04/27/2024,on-hold
+250mg,,TID,MED-31635,Amoxicillin,GAMMA-00246,Dr. Rodriguez,oral,05/11/2024,completed
+10mg,06/01/2022,PRN,MED-49869,Amlodipine,GAMMA-00252,Dr. Ramirez,oral,2022-04-24T00:00:00,completed
+40mg,2022/08/22,once daily,MED-66170,Omeprazole,GAMMA-00630,Dr. Perez,oral,21 Jun 2022,discontinued
+25/100mg,06-03-2023,as needed,MED-62925,Carbidopa-Levodopa,BETA-00717,Dr. Singh,oral,02/27/2023,discontinued
+75mcg,03/24/2023,as needed,MED-62677,Levothyroxine,GAMMA-00238,Dr. Robinson,oral,20-02-2023,discontinued
+50/200mg,29-07-2023,TID,MED-29717,Carbidopa-Levodopa,GAMMA-00617,Dr. Jackson,oral,"June 26, 2023",completed
+40mg,"January 23, 2025",BID,MED-48191,Omeprazole,ALPHA-00235,Dr. Singh,oral,2024-11-21T00:00:00,active
+1MG,2023-01-19,as needed,MED-91623,Warfarin,BETA-00564,Dr. Johansson,oral,12/10/2022,completed
+5mg,"December 12, 2024",once daily,MED-81900,Amlodipine,GAMMA-00593,Dr. Jones,oral,10/19/2024,active
+250mg,25-03-2024,PRN,MED-80628,Amoxicillin,GAMMA-00669,Dr. King,oral,03/10/2024,active
+10mg,04/18/2022,once daily,MED-15858,Prednisone,BETA-00110,Dr. Moore,oral,2022-02-10T00:00:00,on-hold
+2mg,12/21/2023,as needed,MED-95672,Warfarin,ALPHA-00187,Dr. Walker,oral,10/19/2023,completed
+180mcg,,PRN,MED-73222,Albuterol,BETA-00460,Dr. Martin,inhaled,"November 04, 2022",on-hold
+20mg,06/10/2024,twice daily,MED-50087,Omeprazole,ALPHA-00667,Dr. Allen,oral,2024-05-01T00:00:00,on-hold
+10mg,08/17/2024,BID,MED-78250,Lisinopril,BETA-00139,Dr. Young,oral,07/04/2024,completed
+50/200mg,"December 03, 2022",twice daily,MED-98254,Carbidopa-Levodopa,ALPHA-00796,Dr. Robinson,oral,2022-11-15,on-hold
+500mg,2024-04-12,PRN,MED-65776,Amoxicillin,GAMMA-00293,Dr. Robinson,oral,"March 22, 2024",active
+25mg,09/12/2023,twice daily,MED-88684,Sertraline,ALPHA-00286,Dr. Martin,oral,06/26/2023,active
+1000mg,2023/02/20,TID,MED-78207,Metformin,BETA-00748,Dr. Park,oral,23 Jan 2023,completed
+25/100mg,08/25/2024,BID,MED-29542,Carbidopa-Levodopa,ALPHA-00551,Dr. Young,oral,2024/07/08,discontinued
+10mg,2023/11/05,PRN,MED-81264,Lisinopril,GAMMA-00688,Dr. Williams,oral,"September 12, 2023",active
+20mg,04/04/2023,BID,MED-30712,Omeprazole,BETA-00766,Dr. Young,oral,03/20/2023,discontinued
+300mg,2023-08-25,twice daily,MED-47773,Gabapentin,GAMMA-00343,Dr. Lopez,oral,06/09/2023,active
+20 units,,once daily,MED-78002,Insulin Glargine,GAMMA-00399,Dr. Moore,subcutaneous,2024-04-10T00:00:00,active
+50/200mg,03-03-2024,twice daily,MED-80887,Carbidopa-Levodopa,BETA-00407,Dr. Ramirez,oral,"February 06, 2024",discontinued
+,06 Nov 2024,BID,MED-45717,Furosemide,GAMMA-00001,Dr. Gonzalez,oral,10/31/2024,active
+1000mg,01/05/2024,TID,MED-87502,Metformin,BETA-00795,Dr. Clark,oral,2023-12-28,discontinued
+40mg,2024-12-22,once daily,MED-26097,Omeprazole,ALPHA-00398,Dr. Gonzalez,oral,12-11-2024,active
+25mcg,22-03-2022,QD,MED-16770,Levothyroxine,ALPHA-00375,Dr. Moore,oral,15 Jan 2022,on-hold
+500 mg,"August 02, 2022",three times daily,MED-32971,Amoxicillin,BETA-00205,Dr. Singh,oral,2022/06/05,discontinued
+90mcg,2024-04-10T00:00:00,twice daily,MED-30663,Albuterol,GAMMA-00421,Dr. Rodriguez,inhaled,05-03-2024,completed
+25/100mg,04/14/2024,TID,MED-35854,Carbidopa-Levodopa,GAMMA-00399,Dr. Martinez,oral,04/10/2024,active
+40mg,,QD,MED-36553,Furosemide,ALPHA-00185,Dr. Clark,oral,2024-05-10,discontinued
+180mcg,2022-12-27,three times daily,MED-71546,Albuterol,GAMMA-00721,Dr. Gupta,inhaled,2022-11-22,discontinued
+10mg,01 Jul 2023,once daily,MED-99235,Lisinopril,GAMMA-00668,Dr. Johnson,oral,2023-06-10,completed
+250mg,08/18/2023,TID,MED-68639,Amoxicillin,ALPHA-00681,Dr. Kim,oral,2023-07-24T00:00:00,active
+,2023-03-28,once daily,MED-47828,Lisinopril,GAMMA-00482,Dr. Singh,oral,2023-01-03,discontinued
+25/100mg,02 Mar 2023,three times daily,MED-60088,Carbidopa-Levodopa,GAMMA-00524,Dr. Gupta,oral,2022-12-12,on-hold
+100mg,02/21/2025,once daily,MED-91678,Sertraline,ALPHA-00313,Dr. Allen,oral,09-12-2024,completed
+50/200mg,11 Apr 2023,twice daily,MED-77094,Carbidopa-Levodopa,ALPHA-00000,Dr. Anderson,oral,2023-04-05T00:00:00,discontinued
+40mg,07/08/2022,three times daily,MED-96058,Furosemide,ALPHA-00315,Dr. Martinez,oral,04/10/2022,on-hold
+25mg,10/31/2024,TID,MED-90861,Sertraline,GAMMA-00009,Dr. Lopez,oral,08/17/2024,on-hold
+2.5mg,2023-08-09,PRN,MED-13286,Amlodipine,GAMMA-00066,Dr. White,oral,05/30/2023,on-hold
+500mg,04/25/2022,three times daily,MED-51514,Amoxicillin,ALPHA-00055,Dr. Gupta,oral,05 Feb 2022,completed
+250mg,2022-11-21,PRN,MED-57059,Amoxicillin,GAMMA-00109,Dr. Williams,oral,2022/09/23,on-hold
+500mg,11/03/2023,twice daily,MED-40213,Metformin,ALPHA-00628,Dr. Ramirez,oral,2023-08-31,completed
+100mg,,PRN,MED-36201,Sertraline,BETA-00103,Dr. Kim,oral,08/12/2022,discontinued
+10mg,2024-09-14T00:00:00,TID,MED-34580,Prednisone,ALPHA-00003,Dr. Jones,oral,"July 29, 2024",on-hold
+20mg,09/04/2022,TID,MED-63877,Omeprazole,GAMMA-00705,Dr. Hernandez,oral,2022-06-22,on-hold
+5mg,2025-01-15,QD,MED-89998,Warfarin,GAMMA-00479,Dr. Wilson,oral,"December 28, 2024",on-hold
+500mg,09/11/2022,TID,MED-40435,Amoxicillin,BETA-00263,Dr. White,oral,07/06/2022,on-hold
+300mg,,three times daily,MED-38199,Gabapentin,ALPHA-00115,Dr. Sharma,oral,19 Aug 2024,active
+50mcg,05/08/2023,QD,MED-80807,Levothyroxine,GAMMA-00578,Dr. Wilson,oral,2023/02/15,active
+5mg,03-09-2024,as needed,MED-68432,Warfarin,GAMMA-00186,Dr. Kim,oral,2024-06-17,discontinued
+20mg,11/08/2024,as needed,MED-46004,Furosemide,GAMMA-00790,Dr. Chen,oral,2024-09-11T00:00:00,on-hold
+100mg,09/15/2024,once daily,MED-18148,Sertraline,ALPHA-00027,Dr. Anderson,oral,06/24/2024,completed
+500mg,2023-05-07,TID,MED-80822,Amoxicillin,GAMMA-00388,Dr. Kumar,oral,02/14/2023,completed
+10mg,"September 03, 2024",as needed,MED-54836,Atorvastatin,ALPHA-00797,Dr. Lewis,oral,2024-06-18,active
+50mcg,10/17/2022,once daily,MED-95836,Levothyroxine,GAMMA-00643,Dr. Davis,oral,08/03/2022,discontinued
+5mg,"September 24, 2022",PRN,MED-40024,Amlodipine,ALPHA-00103,Dr. Kumar,oral,08/10/2022,on-hold
+10mg,2022-12-05,BID,MED-14399,Amlodipine,BETA-00472,Dr. Kim,oral,11/15/2022,on-hold
+90mcg,05/15/2024,TID,MED-54411,Albuterol,GAMMA-00318,Dr. Young,inhaled,2024-04-19,active
+10mg,01/07/2023,three times daily,MED-47251,Prednisone,ALPHA-00721,Dr. Gonzalez,oral,21 Nov 2022,completed
+50mcg,2023-06-06T00:00:00,QD,MED-92543,Levothyroxine,GAMMA-00720,Dr. Ramirez,oral,05/28/2023,on-hold
+50 mg,2024-04-07,QD,MED-67075,Sertraline,GAMMA-00659,Dr. Rodriguez,oral,2024-01-29T00:00:00,completed
+10 units,2024-11-26T00:00:00,QD,MED-95199,Insulin Glargine,GAMMA-00220,Dr. Gupta,subcutaneous,"September 03, 2024",discontinued
+25mcg,,once daily,MED-98286,Levothyroxine,GAMMA-00430,Dr. Ramirez,oral,2023-03-17,on-hold
+50mcg,26 Sep 2022,once daily,MED-87251,Levothyroxine,BETA-00328,Dr. Davis,oral,02-07-2022,completed
+180mcg,2023-12-12,as needed,MED-88220,Albuterol,GAMMA-00550,Dr. Mueller,inhaled,2023-10-12,completed
+25/100mg,2022-10-22,once daily,MED-69450,Carbidopa-Levodopa,BETA-00023,Dr. Young,oral,09/27/2022,active
+100mg,11/11/2024,three times daily,MED-54319,Sertraline,ALPHA-00588,Dr. Gonzalez,oral,2024/08/21,on-hold
+600mg,2022-07-10,PRN,MED-77028,Gabapentin,ALPHA-00328,Dr. Kim,oral,"June 30, 2022",discontinued
+25/100mg,03/05/2024,three times daily,MED-90791,Carbidopa-Levodopa,ALPHA-00397,Dr. Sanchez,oral,2023-12-08,completed
+10mg,2022/10/13,once daily,MED-13615,Prednisone,GAMMA-00611,Dr. Shah,oral,09/24/2022,discontinued
+2.5mg,2023-07-24,three times daily,MED-21469,Amlodipine,ALPHA-00668,Dr. Taylor,oral,06/08/2023,completed
+90mcg,2022-05-27,three times daily,MED-14653,Albuterol,BETA-00180,Dr. Johansson,inhaled,04/24/2022,active
+20mg,2024-08-20,once daily,MED-15383,Prednisone,ALPHA-00654,Dr. Harris,oral,2024-07-19,on-hold
+50/200mg,19-04-2024,once daily,MED-69251,Carbidopa-Levodopa,GAMMA-00755,Dr. Harris,oral,27-03-2024,on-hold
+10mg,03/07/2023,BID,MED-40425,Amlodipine,BETA-00482,Dr. Gonzalez,oral,01/04/2023,active
+20mg,17-09-2024,TID,MED-24277,Lisinopril,ALPHA-00152,Dr. Sharma,oral,2024-08-11,on-hold
+80mg,2024-05-25,three times daily,MED-85719,Furosemide,GAMMA-00090,Dr. Gonzalez,oral,04/17/2024,completed
+40mg,,BID,MED-23211,Furosemide,GAMMA-00457,Dr. Hernandez,oral,2024-10-23,discontinued
+50mg,2024/07/15,as needed,MED-25326,Sertraline,BETA-00139,Dr. Kim,oral,07/05/2024,active
+180mcg,26-04-2023,as needed,MED-35695,Albuterol,GAMMA-00665,Dr. Hernandez,inhaled,01/31/2023,completed
+20mg,03/21/2024,TID,MED-58870,Furosemide,ALPHA-00042,Dr. Kim,oral,2024-02-25T00:00:00,discontinued
+90MCG,10-02-2025,QD,MED-61085,Albuterol,ALPHA-00348,Dr. Brown,inhaled,11/20/2024,completed
+90mcg,2024-12-18,twice daily,MED-39798,Albuterol,BETA-00237,Dr. Gupta,inhaled,20-09-2024,on-hold
+250mg,"June 18, 2023",three times daily,MED-31673,Amoxicillin,GAMMA-00176,Dr. Robinson,oral,04/29/2023,on-hold
+1000mg,,as needed,MED-27950,Metformin,GAMMA-00095,Dr. Clark,oral,08/14/2022,discontinued
+50mg,2022-11-30,as needed,MED-76933,Sertraline,BETA-00210,Dr. Gonzalez,oral,2022-10-14T00:00:00,discontinued
+10mg,,QD,MED-73480,Prednisone,ALPHA-00480,Dr. Wilson,oral,29-07-2022,discontinued
+80mg,03/26/2023,once daily,MED-16399,Atorvastatin,GAMMA-00700,Dr. Johansson,oral,01/25/2023,active
+5mg,26-05-2023,QD,MED-99820,Prednisone,BETA-00000,Dr. Patel,oral,"April 04, 2023",completed
+90mcg,2023-05-25,as needed,MED-78296,Albuterol,BETA-00094,Dr. Robinson,inhaled,2023/03/02,completed
+100 mg,06/23/2022,as needed,MED-81307,Gabapentin,GAMMA-00726,Dr. Kumar,oral,2022-06-10T00:00:00,discontinued
+1mg,04/02/2022,TID,MED-24735,Warfarin,ALPHA-00043,Dr. Gupta,oral,"February 10, 2022",completed
+500mg,16 Mar 2023,as needed,MED-40630,Metformin,GAMMA-00337,Dr. Clark,oral,2023/01/01,on-hold
+500mg,"November 29, 2023",three times daily,MED-73324,Amoxicillin,BETA-00358,Dr. Gupta,oral,10/06/2023,on-hold
+5mg,06/03/2024,once daily,MED-77281,Lisinopril,BETA-00163,Dr. Perez,oral,2024-05-09T00:00:00,completed
+20mg,11/01/2023,TID,MED-27476,Omeprazole,BETA-00357,Dr. Rodriguez,oral,10/13/2023,active
+20mg,04/07/2024,BID,MED-66372,Omeprazole,ALPHA-00132,Dr. Rodriguez,oral,01/10/2024,completed
+50/200mg,09/10/2023,twice daily,MED-70312,Carbidopa-Levodopa,BETA-00149,Dr. Chen,oral,2023-07-19,on-hold
+20MG,,TID,MED-38493,Prednisone,ALPHA-00062,Dr. Hernandez,oral,24-07-2022,discontinued
+5mg,,BID,MED-47097,Lisinopril,BETA-00354,Dr. Lee,oral,10/17/2022,discontinued
+50/200mg,07/05/2022,three times daily,MED-32337,Carbidopa-Levodopa,ALPHA-00342,Dr. Park,oral,2022-06-04T00:00:00,discontinued
+600mg,08/19/2023,QD,MED-29449,Gabapentin,BETA-00668,Dr. Lewis,oral,10-06-2023,completed
+1000mg,2023-12-15,TID,MED-20043,Metformin,GAMMA-00548,Dr. Taylor,oral,2023-09-21,on-hold
+10mg,05/30/2024,as needed,MED-39435,Atorvastatin,ALPHA-00710,Dr. Hernandez,oral,26 Mar 2024,on-hold
+75mcg,07 Sep 2024,PRN,MED-14639,Levothyroxine,ALPHA-00654,Dr. Gupta,oral,07/17/2024,active
+80mg,,twice daily,MED-81104,Atorvastatin,ALPHA-00262,Dr. Perez,oral,2024-01-04,active
+40 mg,,twice daily,MED-24284,Lisinopril,BETA-00032,Dr. Walker,oral,2023-01-03,discontinued
+50/200mg,03/15/2023,once daily,MED-33093,Carbidopa-Levodopa,BETA-00738,Dr. Park,oral,01/31/2023,active
+20mg,2024-04-15,twice daily,MED-67083,Lisinopril,GAMMA-00414,Dr. Anderson,oral,2024-03-08,discontinued
+180mcg,29-01-2024,BID,MED-48057,Albuterol,BETA-00231,Dr. Jones,inhaled,12/17/2023,discontinued
+300mg,2025-01-13,BID,MED-63667,Gabapentin,GAMMA-00398,Dr. Walker,oral,11/11/2024,discontinued
+5mg,08-01-2025,three times daily,MED-17963,Prednisone,BETA-00067,Dr. Kim,oral,2024-11-30,discontinued
+25mg,"September 01, 2022",twice daily,MED-45534,Sertraline,ALPHA-00382,Dr. Lewis,oral,29 Jun 2022,on-hold
+20mg,2023-09-21,TID,MED-20258,Furosemide,ALPHA-00207,Dr. Harris,oral,07/03/2023,active
+5mg,02/07/2023,three times daily,MED-52591,Warfarin,BETA-00732,Dr. Gonzalez,oral,12/18/2022,completed
+5mg,10/24/2022,PRN,MED-33891,Lisinopril,GAMMA-00384,Dr. Lewis,oral,08/09/2022,completed
+90mcg,03/01/2024,three times daily,MED-25247,Albuterol,GAMMA-00047,Dr. White,inhaled,2023-12-20T00:00:00,active
+80mg,"October 21, 2024",three times daily,MED-13786,Furosemide,ALPHA-00437,Dr. Allen,oral,11 Sep 2024,on-hold
+40mg,09/14/2023,QD,MED-76118,Omeprazole,GAMMA-00620,Dr. Sato,oral,2023/07/14,completed
+600mg,"March 11, 2022",three times daily,MED-95872,Gabapentin,GAMMA-00716,Dr. Hernandez,oral,23-01-2022,discontinued
+25mcg,2024-11-17,BID,MED-49113,Levothyroxine,GAMMA-00269,Dr. Sharma,oral,2024/09/21,on-hold
+50/200mg,06/21/2023,as needed,MED-46885,Carbidopa-Levodopa,BETA-00642,Dr. Smith,oral,2023-04-11T00:00:00,on-hold
+2mg,17-06-2022,as needed,MED-59222,Warfarin,ALPHA-00339,Dr. King,oral,10-05-2022,on-hold
+10 units,01/24/2023,twice daily,MED-61227,Insulin Glargine,GAMMA-00337,Dr. Mueller,subcutaneous,01/01/2023,completed
+20mg,2025-01-11T00:00:00,TID,MED-32367,Furosemide,ALPHA-00782,Dr. Smith,oral,2024-11-15T00:00:00,completed
+20mg,12/21/2022,as needed,MED-77436,Lisinopril,ALPHA-00503,Dr. Hernandez,oral,11/14/2022,on-hold
+5 mg,2022-08-28T00:00:00,twice daily,MED-82834,Warfarin,GAMMA-00758,Dr. Park,oral,07/25/2022,completed
+100mg,2023-05-04,twice daily,MED-73976,Gabapentin,ALPHA-00176,Dr. Harris,oral,2023-04-30T00:00:00,discontinued
+80mg,03/27/2022,twice daily,MED-61282,Furosemide,GAMMA-00723,Dr. Brown,oral,2022-02-25T00:00:00,active
+600mg,2024/07/13,once daily,MED-24299,Gabapentin,ALPHA-00518,Dr. Smith,oral,06/17/2024,active
+500mg,,twice daily,MED-42689,Amoxicillin,ALPHA-00186,Dr. White,oral,06/18/2024,completed
+100mg,23 Jan 2023,TID,MED-50263,Sertraline,BETA-00196,Dr. Young,oral,12/13/2022,discontinued
+10mg,01 May 2024,PRN,MED-21159,Lisinopril,GAMMA-00281,Dr. Thompson,oral,2024-02-08,on-hold
+10mg,11/24/2023,QD,MED-65731,Prednisone,GAMMA-00763,Dr. Wilson,oral,10/04/2023,completed
+50mg,,as needed,MED-32932,Sertraline,GAMMA-00116,Dr. Schmidt,oral,27-04-2022,completed
+25/100mg,2022-04-28,twice daily,MED-97308,Carbidopa-Levodopa,GAMMA-00203,Dr. Robinson,oral,10 Mar 2022,active
+20mg,2022/03/06,BID,MED-78425,Omeprazole,GAMMA-00131,Dr. Lopez,oral,02/04/2022,on-hold
+2.5mg,01/07/2025,TID,MED-77820,Amlodipine,GAMMA-00215,Dr. Gupta,oral,2024-10-20,on-hold
+180 mcg,09/03/2022,three times daily,MED-83479,Albuterol,GAMMA-00646,Dr. Lopez,inhaled,2022-06-26,completed
+10 units,10/18/2022,BID,MED-93421,Insulin Glargine,GAMMA-00251,Dr. Singh,subcutaneous,01 Sep 2022,discontinued
+5mg,"May 24, 2024",QD,MED-46805,Amlodipine,GAMMA-00546,Dr. Perez,oral,04-05-2024,active
+75mcg,21 Jan 2024,once daily,MED-64210,Levothyroxine,GAMMA-00531,Dr. Martinez,oral,2023-10-31,active
+10mg,2023-04-10,QD,MED-64986,Prednisone,GAMMA-00238,Dr. Martin,oral,19 Feb 2023,active
+5mg,,twice daily,MED-87656,Prednisone,GAMMA-00244,Dr. Harris,oral,08/09/2023,active
+25/100mg,2022-06-24,twice daily,MED-67393,Carbidopa-Levodopa,GAMMA-00321,Dr. Sanchez,oral,2022-04-04,discontinued
+100 mg,05/26/2023,as needed,MED-14789,Sertraline,BETA-00255,Dr. Ramirez,oral,04-04-2023,discontinued
+40mg,"December 23, 2022",QD,MED-72299,Furosemide,GAMMA-00565,Dr. Jackson,oral,10/24/2022,active
+40mg,10/22/2023,three times daily,MED-14930,Atorvastatin,BETA-00500,Dr. Lopez,oral,2023-09-16,active
+25/100mg,2023-06-11,as needed,MED-22443,Carbidopa-Levodopa,BETA-00124,Dr. Mueller,oral,05/02/2023,completed
+25/100mg,05/15/2024,QD,MED-88292,Carbidopa-Levodopa,ALPHA-00579,Dr. Chen,oral,04/10/2024,on-hold
+5mg,10/30/2022,PRN,MED-70679,Prednisone,GAMMA-00064,Dr. Lee,oral,"August 25, 2022",on-hold
+1mg,2024-05-02,BID,MED-95545,Warfarin,BETA-00454,Dr. Jones,oral,02/21/2024,on-hold
+40mg,11/05/2024,BID,MED-38063,Furosemide,GAMMA-00083,Dr. Brown,oral,09/16/2024,on-hold
+1mg,2022-04-13,TID,MED-81694,Warfarin,BETA-00477,Dr. Moore,oral,03/16/2022,active
+25/100mg,10/27/2024,PRN,MED-31109,Carbidopa-Levodopa,ALPHA-00003,Dr. Tanaka,oral,"July 31, 2024",active
+100mg,"August 25, 2022",TID,MED-95044,Gabapentin,GAMMA-00062,Dr. White,oral,2022-07-24,active
+10mg,02/17/2023,once daily,MED-25984,Atorvastatin,GAMMA-00196,Dr. Johnson,oral,12/13/2022,on-hold
+5mg,,TID,MED-76683,Warfarin,BETA-00621,Dr. Johnson,oral,2022-02-25,discontinued
+500mg,2022-05-05T00:00:00,twice daily,MED-96983,Amoxicillin,ALPHA-00167,Dr. Taylor,oral,2022-03-28,discontinued
+80mg,05/19/2023,twice daily,MED-61691,Atorvastatin,GAMMA-00089,Dr. Wilson,oral,2023-04-26,active
+180mcg,"August 16, 2022",PRN,MED-67770,Albuterol,BETA-00078,Dr. Clark,inhaled,06/15/2022,active
+50mcg,07/16/2022,as needed,MED-21594,Levothyroxine,GAMMA-00079,Dr. Hernandez,oral,07/07/2022,on-hold
+1mg,01/29/2024,three times daily,MED-34810,Warfarin,GAMMA-00331,Dr. Williams,oral,2023-12-01,active
+100mcg,25 Mar 2024,three times daily,MED-63361,Levothyroxine,BETA-00722,Dr. Chen,oral,2024-01-27T00:00:00,discontinued
+20 units,02/12/2023,QD,MED-34434,Insulin Glargine,GAMMA-00564,Dr. Patel,subcutaneous,"December 09, 2022",discontinued
+20mg,18-07-2022,as needed,MED-93190,Lisinopril,BETA-00180,Dr. Gonzalez,oral,04/26/2022,discontinued
+10 units,01/15/2025,three times daily,MED-57919,Insulin Glargine,GAMMA-00657,Dr. Jones,subcutaneous,11/29/2024,active
+20mg,05-07-2024,twice daily,MED-66964,Lisinopril,ALPHA-00051,Dr. Lewis,oral,05/10/2024,active
+5mg,2022-03-17,QD,MED-28249,Prednisone,BETA-00621,Dr. Sharma,oral,02/25/2022,on-hold
+40mg,19 Oct 2024,TID,MED-67539,Atorvastatin,GAMMA-00009,Dr. Moore,oral,17-08-2024,completed
+600mg,02/13/2024,three times daily,MED-45618,Gabapentin,BETA-00481,Dr. Gupta,oral,11/25/2023,completed
+90mcg,2023-10-06T00:00:00,QD,MED-75022,Albuterol,ALPHA-00603,Dr. Williams,inhaled,2023-09-11,completed
+20mg,2024-03-13,BID,MED-76722,Prednisone,ALPHA-00053,Dr. Davis,oral,17 Feb 2024,discontinued
+100mg,,PRN,MED-50043,Gabapentin,BETA-00066,Dr. Lee,oral,28-05-2023,on-hold
+1000mg,,BID,MED-75574,Metformin,BETA-00733,Dr. Wang,oral,2024-09-16,discontinued
+5mg,2024-10-05T00:00:00,PRN,MED-74383,Amlodipine,BETA-00122,Dr. Gupta,oral,23 Sep 2024,completed
+10mg,2022-11-10T00:00:00,three times daily,MED-77804,Lisinopril,ALPHA-00488,Dr. Thomas,oral,08/23/2022,discontinued
+850mg,15 Apr 2023,once daily,MED-92505,Metformin,BETA-00218,Dr. Brown,oral,03/31/2023,active
+25/100MG,,BID,MED-99692,Carbidopa-Levodopa,GAMMA-00492,Dr. Jones,oral,2022-01-04,active
+1000mg,19 May 2023,twice daily,MED-52700,Metformin,ALPHA-00124,Dr. Walker,oral,2023-05-04,completed
+,08/03/2023,QD,MED-98844,Albuterol,GAMMA-00158,Dr. Brown,inhaled,28-07-2023,active
+20mg,12/16/2023,QD,MED-64548,Omeprazole,BETA-00254,Dr. Sanchez,oral,24-10-2023,completed
+30 UNITS,,QD,MED-52535,Insulin Glargine,GAMMA-00499,Dr. Clark,subcutaneous,08/19/2024,discontinued
+80mg,2025/01/19,TID,MED-10901,Furosemide,GAMMA-00348,Dr. Singh,oral,11/19/2024,discontinued
+600mg,08/06/2023,once daily,MED-56945,Gabapentin,BETA-00292,Dr. Lee,oral,06/27/2023,active
+30 units,2023-07-05T00:00:00,three times daily,MED-83421,Insulin Glargine,BETA-00728,Dr. Harris,subcutaneous,2023/05/06,on-hold
+20 mg,22 Dec 2022,once daily,MED-41198,Prednisone,ALPHA-00490,Dr. Martin,oral,02 Nov 2022,completed
+25/100mg,12-02-2024,as needed,MED-27341,Carbidopa-Levodopa,ALPHA-00058,Dr. Chen,oral,"January 11, 2024",completed
+50/200mg,15 May 2023,once daily,MED-48274,Carbidopa-Levodopa,ALPHA-00536,Dr. Patel,oral,"April 01, 2023",discontinued
+10mg,2022-08-15,PRN,MED-92952,Amlodipine,GAMMA-00345,Dr. Johansson,oral,09-07-2022,on-hold
+30 units,05/05/2022,TID,MED-68582,Insulin Glargine,BETA-00463,Dr. Martinez,subcutaneous,04/12/2022,on-hold
+20mg,08/15/2022,PRN,MED-38168,Atorvastatin,GAMMA-00112,Dr. Lopez,oral,2022/06/11,completed
+20 mg,2022-11-23,as needed,MED-85966,Prednisone,ALPHA-00354,Dr. Walker,oral,2022-10-17T00:00:00,completed
+25/100mg,"December 14, 2022",twice daily,MED-99331,Carbidopa-Levodopa,BETA-00607,Dr. Garcia,oral,03 Oct 2022,discontinued
+40 mg,2023-09-30,three times daily,MED-33622,Omeprazole,ALPHA-00305,Dr. Young,oral,09/07/2023,discontinued
+180mcg,06/12/2023,BID,MED-53686,Albuterol,BETA-00133,Dr. Lewis,inhaled,2023-06-06,on-hold
+50mcg,07/09/2022,as needed,MED-81214,Levothyroxine,ALPHA-00522,Dr. Jones,oral,"May 12, 2022",on-hold
+850mg,2023-06-19T00:00:00,BID,MED-85439,Metformin,BETA-00666,Dr. Davis,oral,05/19/2023,completed
+40mg,,as needed,MED-83225,Lisinopril,ALPHA-00786,Dr. Martin,oral,06 Apr 2024,on-hold
+50/200mg,22 Dec 2024,three times daily,MED-92659,Carbidopa-Levodopa,BETA-00174,Dr. Patel,oral,11/21/2024,active
+10 units,04/26/2023,as needed,MED-52364,Insulin Glargine,GAMMA-00462,Dr. Rodriguez,subcutaneous,03/21/2023,on-hold
+250 mg,17 Jul 2024,QD,MED-92883,Amoxicillin,ALPHA-00403,Dr. Jones,oral,06/26/2024,discontinued
+20mg,03/25/2024,twice daily,MED-14738,Furosemide,GAMMA-00586,Dr. Singh,oral,01/02/2024,active
+5mg,2024/01/10,as needed,MED-55785,Lisinopril,ALPHA-00481,Dr. Chen,oral,11/25/2023,on-hold
+2.5mg,2023-07-08T00:00:00,once daily,MED-55887,Amlodipine,BETA-00207,Dr. Robinson,oral,07/04/2023,completed
+100mg,,TID,MED-87416,Gabapentin,BETA-00239,Dr. Park,oral,2024-03-22,on-hold
+40mg,"December 13, 2022",as needed,MED-69604,Omeprazole,ALPHA-00275,Dr. Gonzalez,oral,10/08/2022,on-hold
+40mg,07-09-2024,PRN,MED-67819,Omeprazole,GAMMA-00781,Dr. Wang,oral,2024/07/24,on-hold
+30 units,19 Jun 2024,three times daily,MED-42338,Insulin Glargine,GAMMA-00038,Dr. Moore,subcutaneous,2024-04-28,discontinued
+100mcg,2024-10-29,three times daily,MED-72202,Levothyroxine,ALPHA-00228,Dr. Wang,oral,10/11/2024,discontinued
+25 mg,"March 12, 2024",three times daily,MED-52910,Sertraline,BETA-00132,Dr. Walker,oral,2024-01-10T00:00:00,active
+20mg,,three times daily,MED-34168,Lisinopril,GAMMA-00115,Dr. Gupta,oral,08/18/2024,on-hold
+10mg,08/08/2024,twice daily,MED-49849,Prednisone,ALPHA-00610,Dr. Thomas,oral,2024-07-18T00:00:00,completed
+80 mg,2024-07-24,three times daily,MED-66152,Furosemide,ALPHA-00260,Dr. Davis,oral,09 Jun 2024,completed
+25mcg,"July 13, 2022",TID,MED-11638,Levothyroxine,ALPHA-00789,Dr. Taylor,oral,14-06-2022,discontinued
+90 mcg,03/12/2022,as needed,MED-92734,Albuterol,GAMMA-00713,Dr. Miller,inhaled,03/09/2022,completed
+90MCG,2023/09/18,as needed,MED-34461,Albuterol,BETA-00466,Dr. Johansson,inhaled,07/17/2023,discontinued
+1000mg,2024-12-14,once daily,MED-17139,Metformin,ALPHA-00026,Dr. Kim,oral,09/29/2024,on-hold
+2mg,05/27/2024,three times daily,MED-18926,Warfarin,ALPHA-00443,Dr. Sharma,oral,08-03-2024,on-hold
+500mg,08-04-2024,PRN,MED-51375,Amoxicillin,ALPHA-00271,Dr. Sato,oral,2024-03-07T00:00:00,completed
+25mcg,08/23/2024,PRN,MED-44545,Levothyroxine,ALPHA-00018,Dr. Davis,oral,06-08-2024,on-hold
+5mg,09/18/2024,BID,MED-57801,Prednisone,ALPHA-00117,Dr. Allen,oral,2024-07-12,discontinued
+50/200mg,2023-08-17T00:00:00,as needed,MED-79848,Carbidopa-Levodopa,GAMMA-00401,Dr. Thomas,oral,2023-06-01,completed
+500mg,18-07-2022,PRN,MED-12961,Amoxicillin,GAMMA-00339,Dr. Wang,oral,"May 09, 2022",discontinued
+10 units,11/18/2024,once daily,MED-66974,Insulin Glargine,ALPHA-00352,Dr. Gupta,subcutaneous,10/27/2024,active
+250mg,03/11/2024,BID,MED-68142,Amoxicillin,BETA-00697,Dr. Rodriguez,oral,10-01-2024,discontinued
+1000mg,,three times daily,MED-71302,Metformin,ALPHA-00557,Dr. Kumar,oral,05/18/2024,discontinued
+5mg,,once daily,MED-22596,Warfarin,ALPHA-00491,Dr. Williams,oral,12/07/2023,active
+5mg,"November 27, 2022",TID,MED-87045,Amlodipine,BETA-00192,Dr. Robinson,oral,2022-08-29,active
+180mcg,2024-03-01,TID,MED-85894,Albuterol,ALPHA-00417,Dr. Rodriguez,inhaled,12/31/2023,completed
+100mg,07/07/2022,three times daily,MED-61468,Sertraline,GAMMA-00060,Dr. Martin,oral,2022-05-15T00:00:00,completed
+40mg,2024-01-20,three times daily,MED-93529,Omeprazole,ALPHA-00775,Dr. Wilson,oral,"October 29, 2023",completed
+10mg,2024-07-24,PRN,MED-81820,Prednisone,BETA-00038,Dr. Rodriguez,oral,04/28/2024,on-hold
+25/100mg,2025/01/12,twice daily,MED-87054,Carbidopa-Levodopa,BETA-00449,Dr. Hernandez,oral,2024-12-29,on-hold
+,2023-04-04,TID,MED-36486,Omeprazole,BETA-00179,Dr. Lee,oral,"February 19, 2023",completed
+5mg,,once daily,MED-54274,Warfarin,ALPHA-00638,Dr. Mueller,oral,12/12/2023,active
+40mg,2023-04-17T00:00:00,once daily,MED-99983,Omeprazole,BETA-00108,Dr. Moore,oral,2023/02/23,active
+500mg,2023-12-17,QD,MED-79102,Amoxicillin,ALPHA-00445,Dr. Gonzalez,oral,16 Nov 2023,discontinued
+850mg,04/22/2022,three times daily,MED-61654,Metformin,BETA-00585,Dr. Walker,oral,2022/04/03,discontinued
+40mg,"May 09, 2023",PRN,MED-35047,Furosemide,BETA-00135,Dr. Wilson,oral,2023-02-13,discontinued
+5mg,2022-08-08,TID,MED-45408,Prednisone,ALPHA-00726,Dr. Moore,oral,06/08/2022,completed
+5mg,2023-12-27,as needed,MED-80144,Warfarin,GAMMA-00161,Dr. Allen,oral,2023/11/12,active
+180mcg,2024-03-09,TID,MED-12274,Albuterol,ALPHA-00281,Dr. Brown,inhaled,10 Feb 2024,active
+50mcg,03/29/2023,three times daily,MED-72999,Levothyroxine,ALPHA-00517,Dr. Jackson,oral,21 Feb 2023,discontinued
+1000mg,27 Jun 2024,three times daily,MED-50564,Metformin,BETA-00576,Dr. Singh,oral,2024-05-28,active
+25/100mg,08/25/2023,three times daily,MED-39419,Carbidopa-Levodopa,BETA-00720,Dr. Thompson,oral,2023-05-28,discontinued
+50mcg,2022-12-02T00:00:00,twice daily,MED-32063,Levothyroxine,ALPHA-00598,Dr. Williams,oral,2022/10/15,discontinued
+40mg,10/03/2024,as needed,MED-48229,Furosemide,GAMMA-00467,Dr. Tanaka,oral,09/18/2024,discontinued
+5mg,2024/03/06,as needed,MED-38674,Lisinopril,GAMMA-00397,Dr. Martinez,oral,07 Dec 2023,on-hold
+300mg,06/20/2024,PRN,MED-57686,Gabapentin,ALPHA-00194,Dr. Robinson,oral,04/28/2024,discontinued
+10mg,23-04-2022,once daily,MED-35205,Atorvastatin,ALPHA-00315,Dr. Lewis,oral,2022-04-11,on-hold
+300mg,"August 17, 2022",BID,MED-25339,Gabapentin,ALPHA-00538,Dr. Park,oral,"July 06, 2022",discontinued
+850mg,2025-01-05,TID,MED-71284,Metformin,BETA-00096,Dr. Martinez,oral,2024-12-13,completed
+50mg,2022-11-21,twice daily,MED-77001,Sertraline,ALPHA-00303,Dr. Smith,oral,11/05/2022,on-hold
+10 units,13 Sep 2022,QD,MED-18963,Insulin Glargine,ALPHA-00784,Dr. Sato,subcutaneous,22-07-2022,discontinued
+100mg,02/04/2024,TID,MED-85014,Sertraline,ALPHA-00779,Dr. Moore,oral,12/25/2023,on-hold
+30 units,02/07/2023,as needed,MED-84177,Insulin Glargine,ALPHA-00029,Dr. Kim,subcutaneous,2022-11-13,completed
+25/100mg,2022/06/21,as needed,MED-77045,Carbidopa-Levodopa,GAMMA-00416,Dr. Chen,oral,03/30/2022,on-hold
+2.5mg,2022-12-09,twice daily,MED-28542,Amlodipine,BETA-00274,Dr. Martinez,oral,18-10-2022,on-hold
+1mg,2024-03-14,PRN,MED-21631,Warfarin,BETA-00217,Dr. Tanaka,oral,12/31/2023,on-hold
+80mg,2025-01-05,as needed,MED-96220,Atorvastatin,ALPHA-00684,Dr. Smith,oral,2024-12-27,on-hold
+250mg,2023-01-10,once daily,MED-52957,Amoxicillin,ALPHA-00524,Dr. Garcia,oral,"December 11, 2022",active
+80mg,2023/12/03,as needed,MED-75698,Furosemide,ALPHA-00358,Dr. Singh,oral,2023-10-05,completed
+100mg,2022-09-28T00:00:00,PRN,MED-10215,Gabapentin,BETA-00093,Dr. Johnson,oral,09/08/2022,discontinued
+20mg,22-08-2022,once daily,MED-83425,Atorvastatin,GAMMA-00580,Dr. Martin,oral,07/24/2022,discontinued
+50/200mg,07/31/2024,as needed,MED-27169,Carbidopa-Levodopa,GAMMA-00099,Dr. Williams,oral,07/20/2024,on-hold
+40mg,2022-08-17,as needed,MED-49110,Atorvastatin,ALPHA-00758,Dr. Moore,oral,07/26/2022,active
+10mg,27-09-2024,QD,MED-72750,Amlodipine,ALPHA-00117,Dr. Lee,oral,11 Jul 2024,completed
+25mg,03/08/2023,BID,MED-58506,Sertraline,GAMMA-00540,Dr. Lee,oral,03/02/2023,completed
+40mg,18 Jun 2023,twice daily,MED-90134,Atorvastatin,BETA-00668,Dr. Lewis,oral,2023-06-08,completed
+10mg,2023-07-10,PRN,MED-95301,Atorvastatin,GAMMA-00720,Dr. Miller,oral,28-05-2023,discontinued
+40MG,2024-01-16,QD,MED-94520,Omeprazole,BETA-00795,Dr. Allen,oral,30 Dec 2023,completed
+5mg,25 May 2023,once daily,MED-58064,Amlodipine,BETA-00124,Dr. Davis,oral,05/02/2023,active
+5mg,"November 14, 2024",three times daily,MED-12818,Lisinopril,ALPHA-00532,Dr. Williams,oral,2024/09/20,completed
+20mg,18 Nov 2024,BID,MED-96904,Furosemide,BETA-00016,Dr. Thompson,oral,08/28/2024,on-hold
+600mg,2023-11-13,PRN,MED-90047,Gabapentin,BETA-00356,Dr. Jackson,oral,08/19/2023,active
+100mcg,04/01/2024,PRN,MED-50277,Levothyroxine,BETA-00754,Dr. Allen,oral,2024-02-10T00:00:00,active
+100 mcg,20 May 2022,TID,MED-74521,Levothyroxine,BETA-00191,Dr. Johnson,oral,03/23/2022,completed
+90mcg,2023-02-02,twice daily,MED-91412,Albuterol,ALPHA-00299,Dr. Thomas,inhaled,12/01/2022,active
+180mcg,11/29/2023,as needed,MED-27951,Albuterol,GAMMA-00445,Dr. Thompson,inhaled,2023-11-17,completed
+80mg,2022-09-18,PRN,MED-16753,Furosemide,GAMMA-00494,Dr. Johansson,oral,2022-09-15T00:00:00,completed
+2.5mg,04/22/2023,BID,MED-68759,Amlodipine,ALPHA-00238,Dr. Davis,oral,2023-02-20T00:00:00,active
+80mg,,BID,MED-54471,Atorvastatin,BETA-00239,Dr. Smith,oral,"March 24, 2024",discontinued
+40mg,01/26/2025,PRN,MED-71789,Omeprazole,ALPHA-00520,Dr. Garcia,oral,12/07/2024,active
+100mg,2024/12/14,PRN,MED-20559,Sertraline,ALPHA-00444,Dr. King,oral,20 Sep 2024,on-hold
+5mg,,BID,MED-93558,Lisinopril,GAMMA-00016,Dr. Wang,oral,2024-08-26T00:00:00,discontinued
+30 units,2023-12-28T00:00:00,once daily,MED-24656,Insulin Glargine,ALPHA-00331,Dr. Johnson,subcutaneous,2023-12-03T00:00:00,completed
+10 units,,PRN,MED-75334,Insulin Glargine,BETA-00000,Dr. Anderson,subcutaneous,04/04/2023,on-hold
+250mg,,QD,MED-93069,Amoxicillin,BETA-00654,Dr. Clark,oral,07/18/2024,completed
+1000mg,2022/08/01,three times daily,MED-48202,Metformin,BETA-00446,Dr. Young,oral,05/08/2022,active
+600mg,05-01-2025,as needed,MED-24970,Gabapentin,GAMMA-00105,Dr. Thomas,oral,"December 24, 2024",completed
+40mg,07/22/2023,TID,MED-44202,Lisinopril,ALPHA-00181,Dr. Anderson,oral,2023-06-08,completed
+300mg,12/07/2023,BID,MED-54282,Gabapentin,BETA-00111,Dr. Tanaka,oral,2023-10-29,on-hold
+10mg,"May 04, 2023",three times daily,MED-92952,Amlodipine,BETA-00766,Dr. Gupta,oral,"March 18, 2023",on-hold
+2mg,11/06/2024,QD,MED-32541,Warfarin,ALPHA-00395,Dr. Taylor,oral,2024-10-21,on-hold
+80mg,03/13/2022,PRN,MED-22594,Furosemide,GAMMA-00250,Dr. Sanchez,oral,01/26/2022,active
+40mg,02/05/2023,twice daily,MED-35331,Lisinopril,ALPHA-00010,Dr. Young,oral,2022-11-20T00:00:00,on-hold
+,11-09-2023,as needed,MED-29786,Amlodipine,GAMMA-00149,Dr. Sanchez,oral,07/17/2023,discontinued
+100mg,09/07/2022,twice daily,MED-69996,Gabapentin,ALPHA-00653,Dr. Perez,oral,16 Aug 2022,on-hold
+25mcg,2023/07/04,BID,MED-10782,Levothyroxine,BETA-00085,Dr. Young,oral,05/31/2023,discontinued
+20mg,04/07/2022,QD,MED-60738,Prednisone,GAMMA-00465,Dr. King,oral,2022-03-17,on-hold
+25mg,19 May 2022,PRN,MED-64075,Sertraline,GAMMA-00015,Dr. Martin,oral,05/02/2022,discontinued
+10 units,2025-01-15T00:00:00,three times daily,MED-55298,Insulin Glargine,ALPHA-00162,Dr. Harris,subcutaneous,10 Dec 2024,discontinued
+1mg,2024-10-14T00:00:00,as needed,MED-85789,Warfarin,BETA-00063,Dr. Harris,oral,22 Aug 2024,active
+50mcg,28-06-2023,PRN,MED-17970,Levothyroxine,ALPHA-00362,Dr. Taylor,oral,2023/05/07,active
+10mg,"September 22, 2024",three times daily,MED-54118,Amlodipine,GAMMA-00403,Dr. Shah,oral,06/28/2024,on-hold
+50mcg,08/24/2023,twice daily,MED-82786,Levothyroxine,ALPHA-00181,Dr. Wilson,oral,06/06/2023,on-hold
+25/100mg,06/12/2023,BID,MED-80458,Carbidopa-Levodopa,ALPHA-00430,Dr. Mueller,oral,17 Mar 2023,on-hold
+25mg,2022-08-18,three times daily,MED-24188,Sertraline,GAMMA-00328,Dr. Ramirez,oral,30 Jun 2022,active
+180mcg,2022/08/22,QD,MED-79784,Albuterol,BETA-00480,Dr. Smith,inhaled,"July 31, 2022",completed
+20mg,29 Oct 2022,BID,MED-67251,Omeprazole,ALPHA-00448,Dr. Kumar,oral,2022-10-11,active
+50/200mg,2023-05-18,once daily,MED-35013,Carbidopa-Levodopa,BETA-00647,Dr. Young,oral,04/13/2023,discontinued
+180mcg,,once daily,MED-11465,Albuterol,ALPHA-00410,Dr. Harris,inhaled,2022-04-13,discontinued
+2.5mg,10/31/2023,once daily,MED-52899,Amlodipine,ALPHA-00050,Dr. Miller,oral,2023-09-11T00:00:00,completed
+25/100mg,2023-09-23,twice daily,MED-78034,Carbidopa-Levodopa,BETA-00356,Dr. Thomas,oral,20-08-2023,completed
+80mg,2022-11-22,BID,MED-64718,Furosemide,ALPHA-00354,Dr. Chen,oral,19 Oct 2022,discontinued
+50mg,04/05/2022,QD,MED-61631,Sertraline,ALPHA-00043,Dr. Garcia,oral,2022-02-12,completed
+5mg,,PRN,MED-47378,Amlodipine,BETA-00086,Dr. Williams,oral,2023-08-29T00:00:00,discontinued
+180 mcg,05/20/2024,once daily,MED-86218,Albuterol,ALPHA-00290,Dr. Clark,inhaled,03/07/2024,active
+50/200mg,17 Jan 2025,three times daily,MED-46860,Carbidopa-Levodopa,GAMMA-00657,Dr. Moore,oral,11/28/2024,active
+,2024-12-22,PRN,MED-79339,Warfarin,GAMMA-00096,Dr. King,oral,2024-12-14,discontinued
+50/200mg,"September 14, 2024",as needed,MED-66263,Carbidopa-Levodopa,GAMMA-00016,Dr. White,oral,"August 26, 2024",completed
+500mg,04 Aug 2023,TID,MED-28424,Metformin,GAMMA-00793,Dr. Patel,oral,05/28/2023,active
+25mcg,28-12-2022,once daily,MED-14616,Levothyroxine,BETA-00196,Dr. Kim,oral,13 Dec 2022,discontinued
+10mg,10/26/2023,once daily,MED-21970,Lisinopril,ALPHA-00765,Dr. Sanchez,oral,08/05/2023,active
+250mg,04/16/2024,BID,MED-74645,Amoxicillin,ALPHA-00632,Dr. Sanchez,oral,2024-04-09T00:00:00,active
+100mg,06/17/2022,twice daily,MED-85301,Gabapentin,GAMMA-00455,Dr. Moore,oral,"March 28, 2022",discontinued
+50/200mg,,BID,MED-63891,Carbidopa-Levodopa,ALPHA-00622,Dr. Johnson,oral,"July 07, 2023",active
+90mcg,2023-10-29T00:00:00,BID,MED-32019,Albuterol,GAMMA-00485,Dr. Kumar,inhaled,2023-08-02,completed
+50mg,2024-11-03T00:00:00,three times daily,MED-63572,Sertraline,ALPHA-00788,Dr. Clark,oral,2024-10-25,active
+600mg,,QD,MED-41284,Gabapentin,BETA-00129,Dr. Lewis,oral,08/19/2024,discontinued
+300mg,2023-12-07,QD,MED-83101,Gabapentin,ALPHA-00187,Dr. Davis,oral,2023-10-20,on-hold
+25mg,2024-01-25,twice daily,MED-85090,Sertraline,ALPHA-00006,Dr. Johnson,oral,"October 29, 2023",discontinued
+25/100mg,01/17/2023,twice daily,MED-99841,Carbidopa-Levodopa,ALPHA-00013,Dr. Johansson,oral,12/06/2022,active
+50mcg,2024-05-05,PRN,MED-89054,Levothyroxine,ALPHA-00706,Dr. Sharma,oral,2024-04-18T00:00:00,on-hold
+20 units,13-10-2023,three times daily,MED-65156,Insulin Glargine,GAMMA-00680,Dr. Shah,subcutaneous,2023-09-13T00:00:00,active
+1mg,2022-08-26T00:00:00,twice daily,MED-65689,Warfarin,GAMMA-00784,Dr. Davis,oral,07/21/2022,completed
+500mg,2022-10-19,twice daily,MED-47807,Amoxicillin,BETA-00192,Dr. Singh,oral,"August 31, 2022",discontinued
+50/200mg,2023-08-22,as needed,MED-29024,Carbidopa-Levodopa,BETA-00376,Dr. Park,oral,06 Jun 2023,discontinued
+20 units,2022/08/07,QD,MED-60121,Insulin Glargine,BETA-00646,Dr. Wang,subcutaneous,"June 26, 2022",completed
+100mg,,BID,MED-12570,Gabapentin,ALPHA-00095,Dr. Johansson,oral,2022-08-16,active
+30 units,30 Jan 2024,PRN,MED-24951,Insulin Glargine,BETA-00387,Dr. Robinson,subcutaneous,2023-12-03T00:00:00,on-hold
+20 units,"December 17, 2023",QD,MED-54376,Insulin Glargine,GAMMA-00111,Dr. Anderson,subcutaneous,30-10-2023,completed
+850MG,,QD,MED-56818,Metformin,BETA-00438,Dr. Ramirez,oral,25 Oct 2023,active
+25mg,2022/07/26,QD,MED-79891,Sertraline,GAMMA-00345,Dr. Lopez,oral,07/10/2022,discontinued
+40MG,2022-07-27T00:00:00,once daily,MED-63978,Omeprazole,ALPHA-00440,Dr. Wilson,oral,2022-06-25,on-hold
+5mg,2023-07-03,TID,MED-28685,Lisinopril,ALPHA-00394,Dr. Martinez,oral,04/15/2023,completed
+2mg,11/14/2024,TID,MED-89523,Warfarin,GAMMA-00389,Dr. King,oral,06-10-2024,completed
+250mg,12 Nov 2023,as needed,MED-23491,Amoxicillin,BETA-00545,Dr. Mueller,oral,"August 16, 2023",completed
+2.5mg,,BID,MED-11479,Amlodipine,BETA-00479,Dr. Kim,oral,2024-12-27,completed
+1mg,2022-05-01,twice daily,MED-39529,Warfarin,BETA-00022,Dr. Brown,oral,23-03-2022,active
+5mg,06-03-2023,BID,MED-40153,Amlodipine,ALPHA-00104,Dr. Perez,oral,05-01-2023,on-hold
+80mg,08/19/2024,as needed,MED-72935,Furosemide,ALPHA-00282,Dr. Chen,oral,2024/06/08,completed
+20mg,2024-02-02,as needed,MED-20509,Omeprazole,BETA-00123,Dr. Patel,oral,2023-11-21,active
+300mg,2025/02/05,three times daily,MED-76963,Gabapentin,GAMMA-00648,Dr. Park,oral,2024-11-27,discontinued
+90mcg,09/12/2023,once daily,MED-69042,Albuterol,ALPHA-00404,Dr. Thomas,inhaled,2023/07/13,discontinued
+30 units,,TID,MED-91254,Insulin Glargine,ALPHA-00523,Dr. Anderson,subcutaneous,2022-09-07,completed
+1000mg,2024-12-27,TID,MED-30393,Metformin,GAMMA-00174,Dr. Anderson,oral,2024-11-21,active
+50mg,"October 23, 2024",as needed,MED-51733,Sertraline,GAMMA-00224,Dr. Davis,oral,09/29/2024,discontinued
+5mg,09 Aug 2022,PRN,MED-56688,Prednisone,ALPHA-00306,Dr. Martinez,oral,2022-07-02,active
+100mg,03/26/2023,three times daily,MED-99801,Sertraline,BETA-00711,Dr. Gonzalez,oral,"January 20, 2023",on-hold
+250mg,2023/06/01,twice daily,MED-76970,Amoxicillin,GAMMA-00600,Dr. Rodriguez,oral,03/15/2023,active
+500mg,2024-11-27T00:00:00,twice daily,MED-56088,Amoxicillin,ALPHA-00174,Dr. Kim,oral,2024-11-21,active
+1mg,,BID,MED-67053,Warfarin,ALPHA-00277,Dr. Young,oral,03/31/2023,discontinued
+25/100mg,2023/09/29,three times daily,MED-96491,Carbidopa-Levodopa,GAMMA-00681,Dr. Wang,oral,2023-07-24,active
+5mg,,TID,MED-64578,Prednisone,ALPHA-00044,Dr. Patel,oral,2024-06-13,completed
+80mg,02/05/2023,BID,MED-85602,Atorvastatin,ALPHA-00732,Dr. Young,oral,12/18/2022,active
+5mg,26-04-2024,three times daily,MED-54194,Warfarin,BETA-00288,Dr. Robinson,oral,19 Mar 2024,active
+40mg,"May 08, 2024",three times daily,MED-85130,Furosemide,GAMMA-00768,Dr. Schmidt,oral,"March 14, 2024",active
+500mg,,as needed,MED-43819,Amoxicillin,GAMMA-00481,Dr. Miller,oral,27-11-2023,on-hold
+20mg,27-09-2023,QD,MED-98663,Omeprazole,BETA-00182,Dr. Rodriguez,oral,08/11/2023,discontinued
+5mg,,BID,MED-66126,Amlodipine,ALPHA-00732,Dr. Martinez,oral,2022-12-18T00:00:00,completed
+80mg,06/24/2023,QD,MED-56893,Atorvastatin,GAMMA-00514,Dr. Johansson,oral,2023-05-30,active
+100mg,03/19/2022,BID,MED-34339,Sertraline,BETA-00621,Dr. Singh,oral,23 Feb 2022,discontinued
+40mg,20 Jan 2022,twice daily,MED-96566,Furosemide,GAMMA-00778,Dr. Jones,oral,"January 02, 2022",discontinued
+20 mg,02/26/2025,TID,MED-83576,Furosemide,ALPHA-00162,Dr. Walker,oral,2024/12/09,completed
+5mg,01/22/2025,QD,MED-14431,Prednisone,GAMMA-00682,Dr. Young,oral,12/07/2024,on-hold
+850mg,"November 30, 2024",twice daily,MED-37267,Metformin,ALPHA-00237,Dr. Walker,oral,09/22/2024,on-hold
+250mg,03/27/2025,PRN,MED-14758,Amoxicillin,GAMMA-00236,Dr. Anderson,oral,12/31/2024,on-hold
+2.5 mg,"January 18, 2024",QD,MED-25148,Amlodipine,BETA-00516,Dr. Clark,oral,01/08/2024,on-hold
+180mcg,06/16/2023,as needed,MED-81775,Albuterol,BETA-00089,Dr. Anderson,inhaled,04/26/2023,active
+300mg,2025-02-21,BID,MED-11365,Gabapentin,BETA-00475,Dr. Chen,oral,2024-12-12T00:00:00,discontinued
+180mcg,30-04-2024,three times daily,MED-18809,Albuterol,ALPHA-00119,Dr. Thompson,inhaled,19 Apr 2024,discontinued
+20mg,2023-10-19,as needed,MED-30667,Lisinopril,ALPHA-00158,Dr. Harris,oral,"July 27, 2023",discontinued
+100mcg,2023-04-24,TID,MED-11200,Levothyroxine,ALPHA-00011,Dr. Jackson,oral,2023/02/14,on-hold
+50mcg,08/30/2023,as needed,MED-41761,Levothyroxine,BETA-00617,Dr. Taylor,oral,2023-06-25,discontinued
+75MCG,2022-12-04,three times daily,MED-46731,Levothyroxine,ALPHA-00565,Dr. Gonzalez,oral,2022/10/24,active
+500mg,11/14/2024,as needed,MED-72505,Amoxicillin,GAMMA-00198,Dr. Taylor,oral,2024-09-27,completed
+300mg,07/28/2024,twice daily,MED-62042,Gabapentin,BETA-00610,Dr. Sato,oral,07/18/2024,completed
+180mcg,09/18/2024,BID,MED-13047,Albuterol,BETA-00284,Dr. Mueller,inhaled,09/12/2024,discontinued
+20mg,08/31/2022,twice daily,MED-65335,Atorvastatin,GAMMA-00384,Dr. Johansson,oral,2022-08-08,completed
+5mg,2022/12/28,PRN,MED-92224,Prednisone,ALPHA-00226,Dr. Lewis,oral,10/11/2022,completed
+50/200mg,21 Jul 2022,three times daily,MED-65547,Carbidopa-Levodopa,ALPHA-00570,Dr. Sanchez,oral,18 May 2022,completed
+1 mg,2023-05-01T00:00:00,three times daily,MED-88716,Warfarin,ALPHA-00094,Dr. Johansson,oral,01 Mar 2023,active
+100mcg,18 Oct 2024,BID,MED-47732,Levothyroxine,GAMMA-00411,Dr. Walker,oral,2024-10-08,completed
+300mg,09/03/2023,TID,MED-90580,Gabapentin,GAMMA-00765,Dr. Brown,oral,08/06/2023,active
+25mg,10/23/2022,once daily,MED-95672,Sertraline,ALPHA-00542,Dr. Brown,oral,08/22/2022,completed
+600mg,"December 01, 2024",QD,MED-85149,Gabapentin,BETA-00269,Dr. Jones,oral,2024-09-20T00:00:00,active
+180mcg,06/22/2022,BID,MED-40911,Albuterol,GAMMA-00521,Dr. Clark,inhaled,05-04-2022,discontinued
+1mg,23-09-2023,three times daily,MED-71921,Warfarin,ALPHA-00412,Dr. Jones,oral,2023-07-02,completed
+50/200mg,2025/01/06,BID,MED-34696,Carbidopa-Levodopa,GAMMA-00348,Dr. Schmidt,oral,2024-11-18,discontinued
+180mcg,17 Jun 2023,BID,MED-87332,Albuterol,GAMMA-00301,Dr. Singh,inhaled,2023-06-03,on-hold
+500mg,"September 15, 2024",QD,MED-99949,Metformin,ALPHA-00452,Dr. Robinson,oral,"August 30, 2024",completed
+50mg,09/11/2022,TID,MED-23448,Sertraline,ALPHA-00599,Dr. Park,oral,09/08/2022,active
+25MG,09/12/2024,TID,MED-99036,Sertraline,GAMMA-00016,Dr. Park,oral,2024-08-28T00:00:00,completed
+600mg,09/17/2022,twice daily,MED-70009,Gabapentin,ALPHA-00523,Dr. Jackson,oral,2022-09-06,completed
+500mg,,BID,MED-16236,Metformin,BETA-00198,Dr. Lewis,oral,2024-09-28,discontinued
+20mg,07 Oct 2024,BID,MED-74250,Omeprazole,ALPHA-00551,Dr. Perez,oral,2024-07-09T00:00:00,completed
+20 units,2023-05-15,once daily,MED-17434,Insulin Glargine,BETA-00176,Dr. Smith,subcutaneous,30-04-2023,discontinued
+25mcg,08/27/2024,QD,MED-55411,Levothyroxine,GAMMA-00664,Dr. King,oral,06/28/2024,active
+20mg,13-04-2023,once daily,MED-83537,Prednisone,GAMMA-00665,Dr. Robinson,oral,2023-01-30,completed
+250mg,01/12/2025,three times daily,MED-99033,Amoxicillin,BETA-00552,Dr. Johnson,oral,06-11-2024,discontinued
+10MG,2022-05-19,TID,MED-15646,Lisinopril,ALPHA-00339,Dr. Martin,oral,2022-05-10,active
+25/100mg,11/16/2024,QD,MED-40162,Carbidopa-Levodopa,BETA-00398,Dr. Robinson,oral,"November 11, 2024",discontinued
+50mcg,29-11-2022,PRN,MED-53260,Levothyroxine,GAMMA-00693,Dr. Tanaka,oral,10/24/2022,active
+250mg,2025-03-14,as needed,MED-44813,Amoxicillin,BETA-00544,Dr. Jackson,oral,2024-12-28,active
+5mg,09/15/2024,TID,MED-73776,Amlodipine,ALPHA-00679,Dr. Kumar,oral,07-08-2024,completed
+2mg,2022-09-19,once daily,MED-40652,Warfarin,ALPHA-00221,Dr. Perez,oral,14-08-2022,active
+10mg,2023-11-19T00:00:00,BID,MED-71990,Lisinopril,GAMMA-00121,Dr. White,oral,11/06/2023,on-hold
+5mg,09/23/2022,PRN,MED-51024,Amlodipine,ALPHA-00494,Dr. Jones,oral,2022-09-16,discontinued
+2.5mg,03/02/2022,as needed,MED-49027,Amlodipine,GAMMA-00250,Dr. Clark,oral,01/27/2022,on-hold
+5mg,2022-03-18,PRN,MED-77930,Warfarin,ALPHA-00110,Dr. Ramirez,oral,02/09/2022,completed
+250mg,18-05-2022,once daily,MED-11747,Amoxicillin,BETA-00446,Dr. Walker,oral,05/08/2022,completed
+5mg,2023-07-23T00:00:00,twice daily,MED-18393,Lisinopril,BETA-00085,Dr. Gonzalez,oral,2023-05-30T00:00:00,on-hold
+10mg,2024-05-23T00:00:00,twice daily,MED-98979,Prednisone,ALPHA-00434,Dr. Garcia,oral,2024/02/24,completed
+10mg,2024-06-17,PRN,MED-63150,Atorvastatin,BETA-00496,Dr. Johnson,oral,05/21/2024,completed
+2.5mg,2024-02-16,twice daily,MED-31810,Amlodipine,GAMMA-00418,Dr. Martin,oral,2024/02/13,completed
+40 mg,09 Jan 2024,PRN,MED-19872,Atorvastatin,ALPHA-00144,Dr. Wang,oral,"December 15, 2023",discontinued
+80mg,2024-03-25,as needed,MED-17884,Atorvastatin,BETA-00434,Dr. Davis,oral,02/24/2024,on-hold
+20mg,2024-06-28,three times daily,MED-45948,Prednisone,GAMMA-00368,Dr. Johnson,oral,2024-04-23,on-hold
+40mg,09/22/2024,BID,MED-78447,Omeprazole,ALPHA-00117,Dr. Lee,oral,2024-07-12,active
+20mg,09/14/2023,once daily,MED-71467,Atorvastatin,ALPHA-00688,Dr. Thomas,oral,2023-09-11,active
+100mg,06-10-2022,twice daily,MED-40075,Gabapentin,ALPHA-00338,Dr. Williams,oral,2022/08/09,completed
+1mg,31-05-2024,once daily,MED-36221,Warfarin,GAMMA-00399,Dr. Park,oral,04/08/2024,completed
+600mg,,three times daily,MED-85900,Gabapentin,GAMMA-00289,Dr. Brown,oral,18 Sep 2022,on-hold
+10 units,12/24/2023,twice daily,MED-31298,Insulin Glargine,GAMMA-00613,Dr. Allen,subcutaneous,10/25/2023,completed
+1 mg,2023-09-23,once daily,MED-51458,Warfarin,BETA-00680,Dr. Martin,oral,09/15/2023,discontinued
+5mg,06/26/2023,BID,MED-11907,Amlodipine,GAMMA-00724,Dr. Young,oral,2023-05-31,discontinued
+5mg,27-08-2022,as needed,MED-86216,Warfarin,BETA-00062,Dr. Martin,oral,2022-07-23,discontinued
+500mg,15 Dec 2024,PRN,MED-66587,Metformin,ALPHA-00753,Dr. Robinson,oral,22 Sep 2024,active
+10 units,2024-01-04,PRN,MED-71697,Insulin Glargine,GAMMA-00357,Dr. Sanchez,subcutaneous,10/15/2023,on-hold
+75mcg,09/04/2024,BID,MED-55358,Levothyroxine,BETA-00420,Dr. Ramirez,oral,2024/07/20,active
+250mg,04/01/2023,BID,MED-99252,Amoxicillin,GAMMA-00458,Dr. Clark,oral,02/19/2023,discontinued
+500mg,2024-07-12,BID,MED-66028,Amoxicillin,GAMMA-00019,Dr. Clark,oral,"April 14, 2024",on-hold
+30 units,05 Jul 2022,QD,MED-85998,Insulin Glargine,BETA-00114,Dr. Ramirez,subcutaneous,"June 04, 2022",completed
+250mg,2023/06/28,once daily,MED-93990,Amoxicillin,GAMMA-00130,Dr. Martinez,oral,05/03/2023,completed
+30 units,,PRN,MED-80441,Insulin Glargine,ALPHA-00013,Dr. Brown,subcutaneous,2022-12-07,active
+25/100mg,2024-04-19T00:00:00,TID,MED-57628,Carbidopa-Levodopa,ALPHA-00290,Dr. Gonzalez,oral,05 Mar 2024,on-hold
+40 mg,01/08/2025,once daily,MED-17157,Lisinopril,GAMMA-00442,Dr. Johnson,oral,2024-12-16T00:00:00,on-hold
+500mg,"September 05, 2022",as needed,MED-65851,Amoxicillin,ALPHA-00625,Dr. Perez,oral,2022-07-17,completed
+500mg,15 Jan 2025,BID,MED-77139,Metformin,ALPHA-00727,Dr. Clark,oral,08-12-2024,discontinued
+20mg,,QD,MED-56837,Prednisone,BETA-00297,Dr. Lopez,oral,2024-01-25,active
+5mg,,once daily,MED-63082,Warfarin,ALPHA-00306,Dr. Kumar,oral,07/02/2022,active
+10 units,06/04/2023,three times daily,MED-71858,Insulin Glargine,BETA-00405,Dr. Ramirez,subcutaneous,2023-04-12,on-hold
+90mcg,2025-02-24,BID,MED-87654,Albuterol,BETA-00648,Dr. Park,inhaled,11/26/2024,on-hold
+180MCG,01-06-2023,as needed,MED-32542,Albuterol,BETA-00280,Dr. Mueller,inhaled,07-04-2023,active
+40mg,2023-12-15,PRN,MED-18117,Atorvastatin,BETA-00606,Dr. Moore,oral,2023-09-19T00:00:00,completed
+25mg,07/11/2023,BID,MED-89900,Sertraline,BETA-00124,Dr. Walker,oral,05/02/2023,discontinued
+2mg,13 Sep 2024,as needed,MED-92424,Warfarin,BETA-00794,Dr. Tanaka,oral,08/08/2024,on-hold
+40mg,2022-07-09,once daily,MED-51899,Furosemide,GAMMA-00640,Dr. Thomas,oral,2022-06-27,on-hold
+100mg,07/05/2024,QD,MED-33733,Gabapentin,ALPHA-00163,Dr. Harris,oral,2024/05/07,on-hold
+25/100mg,2024-09-18,BID,MED-73475,Carbidopa-Levodopa,BETA-00746,Dr. Martin,oral,05-09-2024,completed
+50/200mg,07/05/2024,once daily,MED-93679,Carbidopa-Levodopa,ALPHA-00090,Dr. Martin,oral,17 Apr 2024,active
+90mcg,2023/08/05,as needed,MED-81399,Albuterol,ALPHA-00054,Dr. Walker,inhaled,22 Jul 2023,active
+500mg,10/08/2024,TID,MED-58921,Amoxicillin,ALPHA-00184,Dr. Miller,oral,2024-08-07,completed
+20mg,08/04/2023,twice daily,MED-13120,Prednisone,GAMMA-00401,Dr. Wang,oral,06/02/2023,active
+5 mg,10/25/2023,as needed,MED-17915,Prednisone,BETA-00590,Dr. Smith,oral,"September 02, 2023",on-hold
+20mg,2024/03/18,as needed,MED-28776,Atorvastatin,GAMMA-00076,Dr. Chen,oral,2024-02-22T00:00:00,active
+1000mg,06/26/2023,once daily,MED-48003,Metformin,GAMMA-00647,Dr. Patel,oral,2023-04-13,on-hold
+90mcg,"March 21, 2023",three times daily,MED-42711,Albuterol,ALPHA-00578,Dr. Perez,inhaled,02/16/2023,discontinued
+2 mg,01-01-2025,TID,MED-47374,Warfarin,GAMMA-00544,Dr. White,oral,12/29/2024,active
+10MG,,three times daily,MED-70585,Lisinopril,GAMMA-00585,Dr. Walker,oral,2022-04-04T00:00:00,on-hold
+20mg,2022-06-28,TID,MED-34295,Furosemide,ALPHA-00646,Dr. Jackson,oral,2022-06-25,on-hold
+5 mg,2023-11-17,three times daily,MED-22241,Amlodipine,ALPHA-00613,Dr. Taylor,oral,10/25/2023,completed
+20mg,09-10-2023,TID,MED-54477,Furosemide,ALPHA-00456,Dr. Wilson,oral,"September 18, 2023",completed
+30 units,2022/06/19,once daily,MED-51901,Insulin Glargine,GAMMA-00022,Dr. Thomas,subcutaneous,03/23/2022,discontinued
+20mg,,as needed,MED-86333,Prednisone,BETA-00500,Dr. Miller,oral,2023/09/17,discontinued
+500mg,01/10/2023,once daily,MED-67598,Amoxicillin,ALPHA-00747,Dr. Martin,oral,2022-10-31,discontinued
+40mg,08/31/2022,TID,MED-77195,Omeprazole,BETA-00480,Dr. Harris,oral,2022-07-29,active
+300mg,"February 23, 2024",once daily,MED-48113,Gabapentin,BETA-00200,Dr. Hernandez,oral,02/04/2024,discontinued
+10mg,11-05-2023,TID,MED-95607,Prednisone,BETA-00728,Dr. Rodriguez,oral,2023-05-04,completed
+10 units,"September 20, 2024",once daily,MED-98834,Insulin Glargine,GAMMA-00679,Dr. Clark,subcutaneous,08/06/2024,active
+50mcg,10 Feb 2025,twice daily,MED-59362,Levothyroxine,GAMMA-00468,Dr. King,oral,2024/12/01,on-hold
+40mg,,twice daily,MED-56526,Omeprazole,ALPHA-00509,Dr. Smith,oral,01-02-2023,active
+250mg,,QD,MED-37552,Amoxicillin,ALPHA-00013,Dr. Jackson,oral,"December 06, 2022",active
+20mg,06-01-2025,PRN,MED-48788,Omeprazole,ALPHA-00140,Dr. Schmidt,oral,16-11-2024,active
+100mg,18-04-2023,QD,MED-83277,Gabapentin,BETA-00566,Dr. Smith,oral,"March 29, 2023",discontinued
+5mg,2022-11-20,twice daily,MED-67956,Warfarin,ALPHA-00214,Dr. Garcia,oral,2022/08/22,completed
+2.5MG,2023-03-27,QD,MED-27369,Amlodipine,GAMMA-00388,Dr. Brown,oral,02/13/2023,on-hold
+2mg,,three times daily,MED-33597,Warfarin,GAMMA-00728,Dr. Harris,oral,2023/05/05,completed
+250mg,2023-02-25,once daily,MED-73476,Amoxicillin,GAMMA-00011,Dr. Miller,oral,2023-02-13T00:00:00,discontinued
+325mg,,once daily,MED-94880,Aspirin,ALPHA-00638,Dr. Thompson,oral,12/12/2023,active
+25/100mg,25-03-2023,QD,MED-35742,Carbidopa-Levodopa,GAMMA-00032,Dr. Allen,oral,01/02/2023,on-hold
+10mg,12 Jun 2023,twice daily,MED-74793,Prednisone,GAMMA-00601,Dr. Allen,oral,05/20/2023,discontinued
+90mcg,2023-12-13T00:00:00,twice daily,MED-56716,Albuterol,ALPHA-00663,Dr. Lopez,inhaled,2023-10-29,active
+20mg,2024-10-09T00:00:00,twice daily,MED-21800,Atorvastatin,BETA-00733,Dr. Wang,oral,09/14/2024,completed
+25/100mg,10/16/2023,twice daily,MED-12883,Carbidopa-Levodopa,BETA-00219,Dr. Robinson,oral,"August 29, 2023",active
+40mg,28 Aug 2024,twice daily,MED-60321,Furosemide,ALPHA-00152,Dr. Anderson,oral,2024/08/11,on-hold
+40mg,"December 08, 2023",TID,MED-42834,Omeprazole,ALPHA-00603,Dr. Anderson,oral,2023-09-09,completed
+90mcg,07/02/2022,TID,MED-54158,Albuterol,BETA-00205,Dr. Moore,inhaled,"June 05, 2022",active
+25/100mg,2022-10-09,twice daily,MED-55990,Carbidopa-Levodopa,BETA-00103,Dr. Martinez,oral,2022/08/10,active
+100mg,,TID,MED-42228,Sertraline,BETA-00029,Dr. Schmidt,oral,14-11-2022,discontinued
+40mg,03/20/2023,BID,MED-13728,Lisinopril,BETA-00108,Dr. King,oral,2023-02-24,discontinued
+,09/19/2023,twice daily,MED-91159,Insulin Glargine,ALPHA-00735,Dr. Young,subcutaneous,09/02/2023,completed
+850mg,10/31/2023,QD,MED-69316,Metformin,BETA-00763,Dr. Davis,oral,2023-10-04,completed
+10mg,2023-01-20,TID,MED-61148,Prednisone,GAMMA-00472,Dr. Tanaka,oral,11/17/2022,discontinued
+100mg,"March 26, 2024",BID,MED-66100,Gabapentin,ALPHA-00428,Dr. Lee,oral,2024-02-02,discontinued
+5mg,01-02-2023,as needed,MED-76592,Lisinopril,ALPHA-00118,Dr. Taylor,oral,12/21/2022,active
+850mg,2022-05-29,PRN,MED-44319,Metformin,BETA-00180,Dr. Singh,oral,2022/04/26,discontinued
+30 units,,three times daily,MED-28057,Insulin Glargine,BETA-00756,Dr. Johansson,subcutaneous,07/29/2023,on-hold
+2.5mg,"January 24, 2023",PRN,MED-79218,Amlodipine,GAMMA-00439,Dr. Thomas,oral,"December 13, 2022",completed
+50mg,24 Oct 2023,three times daily,MED-88959,Sertraline,ALPHA-00765,Dr. Thomas,oral,2023-08-06,discontinued
+850mg,2023-08-24,as needed,MED-98597,Metformin,BETA-00404,Dr. Gonzalez,oral,07/13/2023,completed
+30 units,2022-06-21,as needed,MED-81122,Insulin Glargine,BETA-00416,Dr. Williams,subcutaneous,2022-03-29,on-hold
+5mg,12/22/2023,TID,MED-25944,Amlodipine,BETA-00441,Dr. Anderson,oral,2023-11-13T00:00:00,discontinued
+10mg,22 Aug 2024,BID,MED-69781,Lisinopril,GAMMA-00127,Dr. Moore,oral,06/14/2024,on-hold
+25/100mg,2023/10/09,QD,MED-70743,Carbidopa-Levodopa,ALPHA-00223,Dr. Thomas,oral,2023/07/27,on-hold
+500mg,18-03-2022,TID,MED-50406,Metformin,BETA-00689,Dr. Hernandez,oral,2022-01-22,on-hold
+25mcg,02-05-2024,TID,MED-52895,Levothyroxine,BETA-00287,Dr. Miller,oral,04/29/2024,discontinued
+50/200mg,2023/01/07,once daily,MED-16965,Carbidopa-Levodopa,ALPHA-00226,Dr. Taylor,oral,10/12/2022,on-hold
+75mcg,,TID,MED-37799,Levothyroxine,ALPHA-00571,Dr. Mueller,oral,07/06/2022,discontinued
+80mg,02/28/2024,twice daily,MED-26141,Atorvastatin,ALPHA-00506,Dr. Harris,oral,26-12-2023,discontinued
+25MG,,TID,MED-96087,Sertraline,ALPHA-00278,Dr. Sharma,oral,11/20/2023,active
+50/200MG,28 Aug 2024,as needed,MED-33272,Carbidopa-Levodopa,GAMMA-00662,Dr. Lee,oral,07/16/2024,active
+40mg,,once daily,MED-64356,Atorvastatin,ALPHA-00255,Dr. Walker,oral,04/04/2023,on-hold
+40mg,14 Jan 2023,once daily,MED-28542,Lisinopril,ALPHA-00729,Dr. Young,oral,2022-12-10,on-hold
+100mg,11/11/2024,TID,MED-95731,Gabapentin,BETA-00695,Dr. Smith,oral,13 Oct 2024,active
+600mg,2024-07-19,once daily,MED-39224,Gabapentin,BETA-00403,Dr. Allen,oral,2024-06-27,active
+2.5mg,,once daily,MED-66097,Amlodipine,ALPHA-00219,Dr. Clark,oral,30-08-2023,discontinued
+10 units,2024-10-27,three times daily,MED-32131,Insulin Glargine,ALPHA-00593,Dr. Martin,subcutaneous,10/20/2024,on-hold
+180mcg,2022/09/24,three times daily,MED-37767,Albuterol,GAMMA-00035,Dr. Young,inhaled,2022-09-18,on-hold
+5mg,2022-07-06T00:00:00,PRN,MED-12840,Lisinopril,BETA-00522,Dr. Johnson,oral,2022-05-13,active
+50/200mg,2022-12-08,three times daily,MED-23237,Carbidopa-Levodopa,BETA-00366,Dr. Patel,oral,"October 14, 2022",active
+90mcg,2024-02-03,once daily,MED-60061,Albuterol,GAMMA-00211,Dr. Robinson,inhaled,2024-01-12,on-hold
+80mg,20-02-2025,once daily,MED-50713,Furosemide,BETA-00650,Dr. Jones,oral,2024-12-18,on-hold
+100mg,06/07/2023,once daily,MED-36705,Sertraline,GAMMA-00195,Dr. Kumar,oral,2023-04-18T00:00:00,discontinued
+500mg,30-06-2022,TID,MED-40059,Amoxicillin,GAMMA-00265,Dr. Johnson,oral,2022-06-24,discontinued
+100mg,2022-04-04,PRN,MED-69309,Sertraline,BETA-00553,Dr. Sanchez,oral,03/24/2022,completed
+90mcg,2024-01-12T00:00:00,BID,MED-58425,Albuterol,BETA-00344,Dr. Kim,inhaled,05 Jan 2024,active
+75mcg,2024-10-31,as needed,MED-51900,Levothyroxine,GAMMA-00619,Dr. Jackson,oral,22-09-2024,active
+50mg,"June 09, 2024",once daily,MED-67423,Sertraline,ALPHA-00786,Dr. Sato,oral,04/06/2024,completed
+325mg,,once daily,MED-85984,Aspirin,ALPHA-00491,Dr. Singh,oral,12/07/2023,active
+1MG,10/05/2022,once daily,MED-36126,Warfarin,GAMMA-00752,Dr. Harris,oral,08/12/2022,on-hold
+40mg,"January 07, 2025",PRN,MED-43499,Furosemide,GAMMA-00174,Dr. Mueller,oral,2024-11-23T00:00:00,discontinued
+40mg,2023-06-19,BID,MED-80786,Omeprazole,BETA-00301,Dr. Jones,oral,2023-06-02,completed
+5mg,,three times daily,MED-73851,Warfarin,ALPHA-00182,Dr. Perez,oral,13-08-2023,completed
+5mg,07-11-2024,PRN,MED-95073,Warfarin,GAMMA-00714,Dr. Mueller,oral,2024-08-30T00:00:00,active
+50/200mg,08/26/2024,TID,MED-33596,Carbidopa-Levodopa,GAMMA-00063,Dr. Lee,oral,20-08-2024,completed
+250 mg,2023-03-06T00:00:00,three times daily,MED-31836,Amoxicillin,ALPHA-00196,Dr. Smith,oral,12/15/2022,on-hold
+25mg,2022-04-01T00:00:00,TID,MED-82338,Sertraline,BETA-00508,Dr. Allen,oral,2022-01-19T00:00:00,completed
+850mg,,once daily,MED-85197,Metformin,GAMMA-00130,Dr. Lee,oral,05/04/2023,completed
+600mg,,PRN,MED-97281,Gabapentin,BETA-00762,Dr. Brown,oral,2022-08-27,on-hold
+180 mcg,2024-01-13T00:00:00,TID,MED-71376,Albuterol,BETA-00639,Dr. Davis,inhaled,28-11-2023,discontinued
+20 units,2024/07/15,PRN,MED-98003,Insulin Glargine,GAMMA-00334,Dr. Johansson,subcutaneous,2024-06-05,active
+600mg,08/29/2024,twice daily,MED-98237,Gabapentin,GAMMA-00424,Dr. Ramirez,oral,08/17/2024,completed
+100mg,13 Jun 2023,once daily,MED-76968,Sertraline,ALPHA-00280,Dr. Shah,oral,04/07/2023,active
+40mg,"April 17, 2023",three times daily,MED-33961,Omeprazole,ALPHA-00094,Dr. Moore,oral,2023/03/01,discontinued
+10 units,25-02-2025,once daily,MED-37495,Insulin Glargine,GAMMA-00449,Dr. Wang,subcutaneous,"December 28, 2024",active
+50/200mg,11/15/2022,three times daily,MED-78809,Carbidopa-Levodopa,BETA-00274,Dr. Sharma,oral,2022-10-20,on-hold
+1mg,04/08/2024,PRN,MED-60330,Warfarin,GAMMA-00421,Dr. Miller,oral,"March 05, 2024",discontinued
+10 units,2023-08-19,BID,MED-23042,Insulin Glargine,ALPHA-00207,Dr. Young,subcutaneous,2023-07-04,completed
+180mcg,07/04/2023,once daily,MED-45316,Albuterol,ALPHA-00181,Dr. Moore,inhaled,2023-06-08,on-hold
+10mg,07/13/2022,TID,MED-15743,Lisinopril,BETA-00525,Dr. Martinez,oral,17-06-2022,discontinued
+1000mg,,three times daily,MED-64724,Metformin,ALPHA-00463,Dr. Wilson,oral,04/11/2022,discontinued
+100mcg,2024-06-26T00:00:00,TID,MED-24052,Levothyroxine,BETA-00372,Dr. Taylor,oral,2024-05-11,completed
+250mg,04/02/2023,BID,MED-86423,Amoxicillin,GAMMA-00108,Dr. Davis,oral,"February 24, 2023",on-hold
+500mg,19-04-2023,as needed,MED-38310,Amoxicillin,BETA-00094,Dr. Hernandez,oral,03/01/2023,completed
+500mg,2023/05/25,once daily,MED-87452,Metformin,ALPHA-00717,Dr. Robinson,oral,2023/02/27,on-hold
+25/100mg,09/14/2022,PRN,MED-80135,Carbidopa-Levodopa,BETA-00192,Dr. Shah,oral,08/29/2022,discontinued
+10mg,11/03/2022,QD,MED-74343,Prednisone,ALPHA-00338,Dr. Clark,oral,2022-08-08T00:00:00,discontinued
+90 mcg,,once daily,MED-16728,Albuterol,GAMMA-00039,Dr. Walker,inhaled,26 Nov 2024,active
+10mg,07-03-2025,three times daily,MED-52233,Prednisone,BETA-00627,Dr. Mueller,oral,12/17/2024,active
+20mg,,TID,MED-85832,Omeprazole,GAMMA-00648,Dr. Lewis,oral,2024-11-27T00:00:00,active
+20 mg,2023-07-29,once daily,MED-75840,Atorvastatin,ALPHA-00149,Dr. Walker,oral,2023-07-18T00:00:00,active
+600mg,14 Oct 2024,TID,MED-44936,Gabapentin,BETA-00739,Dr. Rodriguez,oral,08/16/2024,completed
+40mg,2022-03-28,QD,MED-57107,Furosemide,BETA-00131,Dr. Young,oral,2022-02-04,active
+5mg,,three times daily,MED-68538,Amlodipine,ALPHA-00074,Dr. Mueller,oral,08/05/2023,active
+40MG,07/14/2024,three times daily,MED-88947,Atorvastatin,ALPHA-00119,Dr. Mueller,oral,18-04-2024,discontinued
+600 mg,04/02/2022,once daily,MED-20848,Gabapentin,GAMMA-00713,Dr. Harris,oral,2022-03-09,on-hold
+75mcg,2023-04-04,twice daily,MED-41303,Levothyroxine,BETA-00145,Dr. Ramirez,oral,02/17/2023,on-hold
+50mcg,"September 26, 2022",twice daily,MED-98341,Levothyroxine,GAMMA-00317,Dr. Lopez,oral,08/05/2022,active
+1000mg,08/20/2022,three times daily,MED-33619,Metformin,ALPHA-00653,Dr. Rodriguez,oral,08/15/2022,active
+75mcg,2023-05-02,QD,MED-24835,Levothyroxine,GAMMA-00780,Dr. Sharma,oral,2023-03-19,on-hold
+5mg,01/31/2025,three times daily,MED-68666,Lisinopril,GAMMA-00520,Dr. Jones,oral,12/07/2024,discontinued
+40mg,19 Jan 2024,QD,MED-39747,Omeprazole,ALPHA-00111,Dr. Rodriguez,oral,10/29/2023,on-hold
+40mg,01/20/2022,three times daily,MED-52041,Omeprazole,ALPHA-00558,Dr. Gupta,oral,15-01-2022,on-hold
+90mcg,2023-03-06,PRN,MED-40014,Albuterol,GAMMA-00738,Dr. Wang,inhaled,01/30/2023,completed
+10 units,06/14/2022,BID,MED-48607,Insulin Glargine,ALPHA-00410,Dr. White,subcutaneous,"April 14, 2022",completed
+20MG,2023-08-01,as needed,MED-72286,Omeprazole,ALPHA-00327,Dr. Kim,oral,2023-07-25,on-hold
+40mg,2024-05-29T00:00:00,TID,MED-97783,Omeprazole,BETA-00271,Dr. Clark,oral,2024-03-07,active
+50mcg,2024-08-17,three times daily,MED-61060,Levothyroxine,BETA-00127,Dr. Clark,oral,06/15/2024,completed
+25mcg,2024-10-13T00:00:00,QD,MED-87556,Levothyroxine,GAMMA-00739,Dr. Sharma,oral,08/14/2024,active
+180 mcg,2022-11-16,BID,MED-42527,Albuterol,BETA-00303,Dr. Allen,inhaled,11/04/2022,discontinued
+600mg,2022-06-22,TID,MED-92601,Gabapentin,BETA-00615,Dr. White,oral,2022-03-27T00:00:00,on-hold
+10mg,10/02/2023,three times daily,MED-77358,Atorvastatin,GAMMA-00519,Dr. Thomas,oral,09/25/2023,discontinued
+20mg,10/13/2023,twice daily,MED-80631,Lisinopril,BETA-00086,Dr. Gupta,oral,29-08-2023,on-hold
+500mg,2023-02-08,as needed,MED-34024,Amoxicillin,ALPHA-00032,Dr. Jones,oral,01/01/2023,on-hold
+500mg,,BID,MED-21275,Amoxicillin,ALPHA-00538,Dr. Jackson,oral,07-07-2022,active
+2.5mg,09/30/2023,QD,MED-15728,Amlodipine,GAMMA-00302,Dr. Gupta,oral,02 Aug 2023,on-hold
+5mg,"September 30, 2024",once daily,MED-45587,Prednisone,GAMMA-00541,Dr. Young,oral,2024/08/12,discontinued
+10mg,,PRN,MED-74667,Lisinopril,ALPHA-00630,Dr. Chen,oral,20-06-2022,on-hold
+25mcg,12-02-2024,three times daily,MED-56070,Levothyroxine,ALPHA-00445,Dr. Park,oral,15-11-2023,active
+40mg,2023-03-17,TID,MED-71221,Atorvastatin,ALPHA-00718,Dr. White,oral,2023/02/18,on-hold
+10 units,08/29/2022,TID,MED-15186,Insulin Glargine,BETA-00374,Dr. Williams,subcutaneous,2022-07-21,active
+40mg,2023-08-17T00:00:00,BID,MED-16792,Omeprazole,GAMMA-00343,Dr. Rodriguez,oral,06/07/2023,completed
+,01/08/2023,PRN,MED-88660,Omeprazole,ALPHA-00721,Dr. Brown,oral,11/22/2022,completed
+40mg,2024-09-17T00:00:00,as needed,MED-36988,Furosemide,BETA-00588,Dr. Park,oral,08/19/2024,active
+20mg,31 Jul 2022,BID,MED-94198,Prednisone,GAMMA-00098,Dr. Clark,oral,17 Jun 2022,on-hold
+300mg,08/15/2023,PRN,MED-37016,Gabapentin,ALPHA-00412,Dr. Taylor,oral,2023-07-02,discontinued
+850mg,2023-06-02,as needed,MED-95524,Metformin,ALPHA-00405,Dr. Johnson,oral,2023-04-11,on-hold
+30 units,2024-03-22T00:00:00,as needed,MED-11272,Insulin Glargine,ALPHA-00075,Dr. Davis,subcutaneous,02/12/2024,discontinued
+250 mg,07/17/2022,twice daily,MED-14203,Amoxicillin,ALPHA-00308,Dr. Rodriguez,oral,2022-04-21,on-hold
+20mg,2023-05-19T00:00:00,TID,MED-25112,Lisinopril,ALPHA-00540,Dr. Gonzalez,oral,03-03-2023,active
+2mg,2024-04-19,three times daily,MED-44733,Warfarin,GAMMA-00200,Dr. Kumar,oral,2024-02-04,completed
+500mg,2025-01-19,as needed,MED-61371,Amoxicillin,BETA-00520,Dr. King,oral,2024-12-08,active
+5mg,2025-01-09T00:00:00,BID,MED-29639,Warfarin,BETA-00215,Dr. Lopez,oral,10/19/2024,completed
+30 units,2023/10/26,BID,MED-62332,Insulin Glargine,ALPHA-00213,Dr. Davis,subcutaneous,2023-10-08,discontinued
+25/100mg,2022-07-20,as needed,MED-97021,Carbidopa-Levodopa,ALPHA-00625,Dr. Lewis,oral,16-07-2022,on-hold
+5mg,2025-01-24,PRN,MED-63458,Warfarin,BETA-00233,Dr. Moore,oral,2024/11/20,completed
+1mg,2024-06-01,once daily,MED-77799,Warfarin,ALPHA-00414,Dr. Sato,oral,2024-03-08,on-hold
+90mcg,2025-03-22T00:00:00,as needed,MED-38185,Albuterol,BETA-00236,Dr. Brown,inhaled,31-12-2024,discontinued
+,04/09/2023,as needed,MED-55866,Furosemide,GAMMA-00011,Dr. Tanaka,oral,2023-02-13T00:00:00,discontinued
+50/200 mg,"December 25, 2023",three times daily,MED-31084,Carbidopa-Levodopa,GAMMA-00357,Dr. Allen,oral,10/13/2023,discontinued
+20mg,20-06-2022,QD,MED-44224,Omeprazole,BETA-00719,Dr. Garcia,oral,03/23/2022,on-hold
+75mcg,2022-12-14,TID,MED-65218,Levothyroxine,ALPHA-00743,Dr. Brown,oral,2022-11-15,on-hold
+1000mg,01/25/2024,as needed,MED-83909,Metformin,ALPHA-00459,Dr. Johnson,oral,01/14/2024,on-hold
+25mg,04-02-2024,three times daily,MED-31807,Sertraline,GAMMA-00417,Dr. Chen,oral,01/01/2024,on-hold
+600mg,11/21/2023,as needed,MED-97723,Gabapentin,BETA-00548,Dr. Williams,oral,09/21/2023,active
+1000MG,08-03-2024,once daily,MED-15292,Metformin,GAMMA-00489,Dr. Kim,oral,17 Feb 2024,discontinued
+100mg,2022-11-30,PRN,MED-86444,Sertraline,BETA-00148,Dr. Allen,oral,2022-11-10,active
+5mg,,QD,MED-59281,Warfarin,GAMMA-00793,Dr. Brown,oral,2023-05-28,active
+100mg,09/12/2024,QD,MED-99671,Sertraline,GAMMA-00551,Dr. Jackson,oral,09-07-2024,discontinued
+40mg,2023-12-31T00:00:00,BID,MED-40696,Atorvastatin,BETA-00663,Dr. Thompson,oral,2023-10-31,completed
+5mg,08 Sep 2022,three times daily,MED-73654,Lisinopril,GAMMA-00332,Dr. Walker,oral,08/10/2022,active
+,,twice daily,MED-36806,Omeprazole,BETA-00454,Dr. Johansson,oral,21-02-2024,discontinued
+10mg,,once daily,MED-61766,Amlodipine,GAMMA-00463,Dr. Sharma,oral,2022-04-12,completed
+100mcg,02/07/2025,as needed,MED-41566,Levothyroxine,GAMMA-00067,Dr. Singh,oral,30-11-2024,on-hold
+25/100mg,05/13/2024,as needed,MED-19208,Carbidopa-Levodopa,GAMMA-00423,Dr. Sanchez,oral,03/07/2024,completed
+2.5mg,26-12-2023,PRN,MED-56936,Amlodipine,BETA-00187,Dr. Davis,oral,19-10-2023,on-hold
+20MG,23-11-2022,once daily,MED-42312,Omeprazole,GAMMA-00072,Dr. Harris,oral,2022-11-14T00:00:00,on-hold
+5mg,2022-04-27T00:00:00,as needed,MED-41712,Lisinopril,BETA-00597,Dr. Ramirez,oral,2022-03-30T00:00:00,on-hold
+1mg,11/21/2023,BID,MED-52189,Warfarin,GAMMA-00006,Dr. Young,oral,2023-10-27T00:00:00,on-hold
+300mg,,three times daily,MED-38568,Gabapentin,GAMMA-00170,Dr. Wilson,oral,"October 22, 2023",discontinued
+40mg,01/15/2025,BID,MED-33175,Atorvastatin,ALPHA-00096,Dr. King,oral,12/15/2024,on-hold
+2.5MG,04/28/2023,once daily,MED-45100,Amlodipine,BETA-00642,Dr. Mueller,oral,2023/04/11,on-hold
+40mg,10/07/2024,twice daily,MED-13606,Furosemide,GAMMA-00099,Dr. Singh,oral,2024-07-19,on-hold
+500mg,2023-02-14,three times daily,MED-47751,Amoxicillin,GAMMA-00300,Dr. Young,oral,2022-12-21,completed
+10 units,08/24/2023,TID,MED-35580,Insulin Glargine,GAMMA-00622,Dr. Brown,subcutaneous,2023/07/07,on-hold
+2mg,05-01-2025,three times daily,MED-20424,Warfarin,BETA-00695,Dr. Jones,oral,13 Oct 2024,completed
+250mg,2023-04-03T00:00:00,three times daily,MED-14051,Amoxicillin,GAMMA-00766,Dr. Patel,oral,03/20/2023,on-hold
+50/200mg,03 May 2022,twice daily,MED-81696,Carbidopa-Levodopa,GAMMA-00167,Dr. White,oral,2022-03-29T00:00:00,completed
+180MCG,10-07-2024,BID,MED-95523,Albuterol,ALPHA-00797,Dr. Hernandez,inhaled,06/20/2024,completed
+10mg,2022-03-12,three times daily,MED-26108,Amlodipine,BETA-00716,Dr. King,oral,2022-01-25,completed
+80mg,2022-12-02T00:00:00,TID,MED-77871,Furosemide,ALPHA-00448,Dr. Martin,oral,10/12/2022,completed
+20mg,"January 27, 2024",BID,MED-30902,Furosemide,BETA-00383,Dr. Schmidt,oral,12/16/2023,discontinued
+20mg,,once daily,MED-32691,Furosemide,BETA-00463,Dr. Rodriguez,oral,12-04-2022,discontinued
+25mg,2023-09-20,twice daily,MED-78418,Sertraline,GAMMA-00620,Dr. Kumar,oral,2023-07-14,active
+10mg,2022-08-21,BID,MED-91207,Amlodipine,ALPHA-00062,Dr. Thompson,oral,23-07-2022,discontinued
+5mg,2024-03-24,once daily,MED-64697,Amlodipine,BETA-00217,Dr. Johansson,oral,12/31/2023,discontinued
+5mg,2022-07-30,twice daily,MED-64270,Lisinopril,GAMMA-00114,Dr. Kim,oral,"June 06, 2022",discontinued
+90mcg,,TID,MED-68138,Albuterol,BETA-00531,Dr. Martin,inhaled,10/31/2023,discontinued
+850mg,03 Mar 2022,QD,MED-22001,Metformin,BETA-00055,Dr. Schmidt,oral,2022-02-05,discontinued
+40mg,06/18/2022,twice daily,MED-67423,Atorvastatin,GAMMA-00015,Dr. White,oral,05/03/2022,on-hold
+180mcg,02/05/2024,once daily,MED-84769,Albuterol,GAMMA-00795,Dr. Tanaka,inhaled,12/29/2023,discontinued
+90mcg,04/13/2024,PRN,MED-83948,Albuterol,ALPHA-00710,Dr. Jones,inhaled,25 Mar 2024,completed
+30 units,12/29/2024,TID,MED-61868,Insulin Glargine,BETA-00788,Dr. Hernandez,subcutaneous,2024-10-25T00:00:00,on-hold
+10mg,2022/10/04,three times daily,MED-42046,Prednisone,BETA-00324,Dr. Rodriguez,oral,"September 27, 2022",completed
+10mg,2023-04-20,twice daily,MED-19253,Amlodipine,ALPHA-00462,Dr. Hernandez,oral,03/22/2023,completed
+1MG,"February 18, 2023",twice daily,MED-95311,Warfarin,GAMMA-00388,Dr. Lewis,oral,2023-02-15T00:00:00,on-hold
+20 units,2023-10-12T00:00:00,BID,MED-35023,Insulin Glargine,ALPHA-00327,Dr. Lee,subcutaneous,07/24/2023,active
+5mg,,once daily,MED-42118,Prednisone,GAMMA-00061,Dr. Kumar,oral,04 May 2024,completed
+850mg,02/09/2024,twice daily,MED-44445,Metformin,BETA-00407,Dr. Singh,oral,05-02-2024,on-hold
+75 mcg,,once daily,MED-37689,Levothyroxine,GAMMA-00624,Dr. Allen,oral,12/01/2022,discontinued
+100mg,06/18/2022,as needed,MED-91936,Sertraline,GAMMA-00570,Dr. Singh,oral,"May 17, 2022",discontinued
+20mg,,PRN,MED-74806,Omeprazole,GAMMA-00296,Dr. Anderson,oral,2022-10-06T00:00:00,active
+1MG,"October 01, 2023",TID,MED-88166,Warfarin,GAMMA-00620,Dr. Kim,oral,07/14/2023,on-hold
+75MCG,2023-09-10T00:00:00,PRN,MED-74441,Levothyroxine,ALPHA-00590,Dr. Patel,oral,09/02/2023,completed
+5mg,"October 29, 2022",as needed,MED-21643,Amlodipine,BETA-00783,Dr. Taylor,oral,2022/08/15,completed
+90mcg,2023-08-21,PRN,MED-10462,Albuterol,ALPHA-00143,Dr. Singh,inhaled,08/09/2023,on-hold
+100mg,"June 09, 2024",QD,MED-32038,Gabapentin,GAMMA-00287,Dr. Miller,oral,2024-04-28,active
+850mg,04 Nov 2022,twice daily,MED-98248,Metformin,GAMMA-00565,Dr. Sato,oral,2022-10-23T00:00:00,discontinued
+2mg,2022-10-20T00:00:00,once daily,MED-88363,Warfarin,BETA-00023,Dr. Gupta,oral,2022-09-28,on-hold
+250mg,,three times daily,MED-11472,Amoxicillin,GAMMA-00040,Dr. Park,oral,2024-10-30,completed
+20mg,2023-11-24T00:00:00,once daily,MED-75835,Furosemide,BETA-00161,Dr. Park,oral,2023-11-11T00:00:00,active
+20mg,,QD,MED-79204,Omeprazole,GAMMA-00562,Dr. Moore,oral,02/05/2022,completed
+100mcg,11-08-2022,as needed,MED-20716,Levothyroxine,GAMMA-00310,Dr. Gonzalez,oral,2022/07/02,completed
+50mg,2025-01-01,three times daily,MED-47252,Sertraline,BETA-00449,Dr. Shah,oral,2024-12-28T00:00:00,discontinued
+20 units,10/14/2024,PRN,MED-32992,Insulin Glargine,GAMMA-00184,Dr. Jones,subcutaneous,08-08-2024,discontinued
+25mg,2023/10/11,three times daily,MED-71504,Sertraline,BETA-00701,Dr. Lopez,oral,27-08-2023,active
+5mg,2022-12-25T00:00:00,BID,MED-18601,Warfarin,ALPHA-00598,Dr. Kumar,oral,"October 15, 2022",active
+5mg,,PRN,MED-60038,Warfarin,GAMMA-00489,Dr. Martinez,oral,2024-02-16,on-hold
+50/200mg,2022-03-07,once daily,MED-29139,Carbidopa-Levodopa,ALPHA-00346,Dr. Sharma,oral,2022/01/19,on-hold
+25mg,12 May 2022,once daily,MED-53381,Sertraline,ALPHA-00615,Dr. Sanchez,oral,"March 26, 2022",completed
+180mcg,07 Aug 2024,once daily,MED-98250,Albuterol,GAMMA-00028,Dr. Schmidt,inhaled,31 May 2024,on-hold
+180mcg,10-03-2022,BID,MED-47058,Albuterol,BETA-00515,Dr. Kim,inhaled,2022-01-10T00:00:00,on-hold
+500mg,10/16/2022,PRN,MED-25874,Amoxicillin,ALPHA-00409,Dr. Sanchez,oral,2022/10/09,on-hold
+50/200mg,24 Dec 2023,twice daily,MED-14749,Carbidopa-Levodopa,BETA-00331,Dr. Kumar,oral,12/01/2023,discontinued
+250mg,2024-04-19T00:00:00,three times daily,MED-55315,Amoxicillin,ALPHA-00755,Dr. Gonzalez,oral,"March 29, 2024",completed
+2.5 mg,2024-07-10,QD,MED-38675,Amlodipine,BETA-00027,Dr. Taylor,oral,06/25/2024,active
+10mg,2024-01-23T00:00:00,twice daily,MED-63781,Prednisone,ALPHA-00047,Dr. Sato,oral,12/20/2023,completed
+10mg,2024-05-10T00:00:00,as needed,MED-72957,Prednisone,ALPHA-00768,Dr. Clark,oral,"March 13, 2024",active
+40mg,2023-04-02,TID,MED-24096,Atorvastatin,GAMMA-00573,Dr. Tanaka,oral,01/16/2023,discontinued
+300mg,,TID,MED-76855,Gabapentin,GAMMA-00373,Dr. Thomas,oral,"January 04, 2022",discontinued
+100mg,2023/12/12,three times daily,MED-25090,Gabapentin,ALPHA-00531,Dr. Harris,oral,2023-10-30,completed
+5mg,2024-11-06T00:00:00,twice daily,MED-13599,Prednisone,BETA-00152,Dr. Miller,oral,10-08-2024,discontinued
+5mg,2022-12-04T00:00:00,as needed,MED-51410,Warfarin,ALPHA-00409,Dr. Kim,oral,2022-10-09,discontinued
+100mg,17-01-2023,as needed,MED-36279,Gabapentin,GAMMA-00393,Dr. Jones,oral,13-01-2023,on-hold
+5mg,04/10/2022,BID,MED-70802,Warfarin,ALPHA-00230,Dr. Lopez,oral,29 Mar 2022,discontinued
+1mg,06/03/2024,once daily,MED-53072,Warfarin,GAMMA-00380,Dr. Thomas,oral,2024-04-02T00:00:00,discontinued
+80mg,22 Oct 2022,as needed,MED-66518,Furosemide,ALPHA-00599,Dr. Lewis,oral,09/08/2022,discontinued
+50mcg,2022-05-14,three times daily,MED-92573,Levothyroxine,GAMMA-00455,Dr. Harris,oral,03/30/2022,discontinued
+1000mg,11/22/2023,as needed,MED-15474,Metformin,ALPHA-00590,Dr. Wilson,oral,09/02/2023,on-hold
+10 units,,QD,MED-37894,Insulin Glargine,BETA-00601,Dr. Young,subcutaneous,05/21/2023,active
+40mg,11/05/2022,BID,MED-63397,Lisinopril,GAMMA-00464,Dr. Walker,oral,2022-08-14T00:00:00,active
+,03/29/2022,twice daily,MED-85381,Lisinopril,BETA-00633,Dr. Perez,oral,"January 29, 2022",completed
+40mg,05/04/2024,QD,MED-59572,Omeprazole,ALPHA-00053,Dr. Sato,oral,02/16/2024,active
+100mg,,PRN,MED-95039,Gabapentin,ALPHA-00040,Dr. Walker,oral,2024-10-31,active
+90mcg,09/13/2024,three times daily,MED-24954,Albuterol,GAMMA-00483,Dr. Clark,inhaled,08/18/2024,on-hold
+2.5mg,2024-06-20,QD,MED-79909,Amlodipine,GAMMA-00239,Dr. Thomas,oral,03/23/2024,discontinued
+20mg,23-09-2022,PRN,MED-30978,Prednisone,GAMMA-00317,Dr. Patel,oral,2022-08-04,completed
+20mg,29-05-2024,BID,MED-85416,Prednisone,ALPHA-00413,Dr. Gupta,oral,"February 29, 2024",on-hold
+20mg,2024-01-08,PRN,MED-20427,Atorvastatin,BETA-00111,Dr. Patel,oral,10/29/2023,active
+80mg,12/25/2022,TID,MED-18730,Atorvastatin,BETA-00490,Dr. Tanaka,oral,2022-11-02,completed
+40mg,2024/06/14,QD,MED-56208,Furosemide,ALPHA-00557,Dr. Wang,oral,2024-05-20,active
+2mg,03/29/2023,as needed,MED-10937,Warfarin,GAMMA-00626,Dr. Davis,oral,2023/01/17,completed
+5mg,24-07-2024,QD,MED-33137,Amlodipine,GAMMA-00797,Dr. Smith,oral,"June 18, 2024",discontinued
+1 mg,,BID,MED-32085,Warfarin,ALPHA-00184,Dr. Jones,oral,08/06/2024,completed
+250mg,05/19/2023,twice daily,MED-38797,Amoxicillin,BETA-00386,Dr. Schmidt,oral,04/18/2023,completed
+20mg,2023-02-18,three times daily,MED-87674,Furosemide,GAMMA-00626,Dr. Smith,oral,01/18/2023,discontinued
+30 units,11/14/2024,PRN,MED-24214,Insulin Glargine,ALPHA-00129,Dr. Harris,subcutaneous,2024/08/18,on-hold
+20mg,08 Oct 2024,once daily,MED-17530,Furosemide,GAMMA-00052,Dr. Williams,oral,09/19/2024,discontinued
+40mg,10-01-2022,BID,MED-13370,Atorvastatin,BETA-00677,Dr. Taylor,oral,01/06/2022,active
+5mg,2024-07-14,as needed,MED-61903,Prednisone,BETA-00260,Dr. Mueller,oral,2024-06-10,active
+5mg,2024/02/04,TID,MED-25398,Amlodipine,GAMMA-00278,Dr. Clark,oral,"November 20, 2023",discontinued
+5mg,15 Nov 2022,as needed,MED-73001,Amlodipine,GAMMA-00148,Dr. Young,oral,2022-11-11,on-hold
+50/200mg,2024-09-13,as needed,MED-86436,Carbidopa-Levodopa,BETA-00679,Dr. Tanaka,oral,2024-08-06,on-hold
+50mg,13-02-2025,TID,MED-93074,Sertraline,ALPHA-00547,Dr. Jones,oral,2024/11/30,active
+20mg,2023-01-15T00:00:00,BID,MED-73266,Omeprazole,ALPHA-00148,Dr. Chen,oral,2022/11/12,on-hold
+10mg,01/29/2025,three times daily,MED-53503,Lisinopril,ALPHA-00475,Dr. Walker,oral,2024-12-11,completed
+5mg,2022-05-22T00:00:00,as needed,MED-79526,Lisinopril,BETA-00126,Dr. Wilson,oral,04/18/2022,completed
+850mg,"November 19, 2023",BID,MED-46165,Metformin,GAMMA-00068,Dr. Robinson,oral,10/22/2023,active
+250mg,"April 30, 2022",BID,MED-61961,Amoxicillin,BETA-00253,Dr. Johansson,oral,04/03/2022,discontinued
+20mg,,PRN,MED-26633,Furosemide,GAMMA-00186,Dr. Thompson,oral,"June 19, 2024",discontinued
+5mg,2022/11/30,three times daily,MED-89630,Amlodipine,GAMMA-00035,Dr. Rodriguez,oral,"September 18, 2022",completed
+20mg,10-08-2024,once daily,MED-89291,Prednisone,BETA-00334,Dr. Hernandez,oral,"June 07, 2024",on-hold
+325mg,,once daily,MED-28498,Aspirin,ALPHA-00129,Dr. Hernandez,oral,08/18/2024,active
+300mg,08/20/2024,BID,MED-48006,Gabapentin,GAMMA-00092,Dr. Taylor,oral,2024-06-29,discontinued
+500mg,,PRN,MED-16074,Metformin,GAMMA-00053,Dr. Martinez,oral,02/16/2024,active
+5mg,2024-05-21,as needed,MED-30929,Lisinopril,BETA-00239,Dr. Tanaka,oral,2024-03-23,active
+40mg,2023-11-20,once daily,MED-28815,Atorvastatin,GAMMA-00357,Dr. Wilson,oral,2023-10-14,completed
+,09/12/2022,as needed,MED-18072,Lisinopril,ALPHA-00498,Dr. White,oral,07/01/2022,discontinued
+80mg,2024-02-25T00:00:00,PRN,MED-93828,Furosemide,BETA-00428,Dr. Chen,oral,02-02-2024,completed
+25mg,,QD,MED-98240,Sertraline,BETA-00442,Dr. Patel,oral,2024/12/15,active
+40mg,,three times daily,MED-79582,Atorvastatin,GAMMA-00531,Dr. King,oral,2023-11-01,on-hold
+100mcg,06/18/2022,TID,MED-91325,Levothyroxine,GAMMA-00719,Dr. Taylor,oral,24 Mar 2022,completed
+5mg,,once daily,MED-95898,Warfarin,ALPHA-00691,Dr. Miller,oral,12/29/2023,active
+40mg,2022-10-31,once daily,MED-43719,Omeprazole,ALPHA-00598,Dr. Johansson,oral,"October 17, 2022",on-hold
+30 units,,once daily,MED-61489,Insulin Glargine,ALPHA-00791,Dr. Mueller,subcutaneous,12/30/2024,on-hold
+40MG,,QD,MED-54209,Omeprazole,BETA-00395,Dr. Anderson,oral,10/20/2024,on-hold
+80mg,2024-10-06T00:00:00,twice daily,MED-30917,Atorvastatin,ALPHA-00298,Dr. Ramirez,oral,30 Aug 2024,discontinued
+20mg,08/04/2022,BID,MED-46193,Prednisone,GAMMA-00525,Dr. Lopez,oral,17 Jun 2022,active
+25mg,2022-09-18,as needed,MED-37671,Sertraline,ALPHA-00209,Dr. Allen,oral,11-07-2022,active
+100mcg,12-05-2024,three times daily,MED-58694,Levothyroxine,BETA-00602,Dr. Patel,oral,"February 29, 2024",on-hold
+850mg,05/31/2022,as needed,MED-83342,Metformin,ALPHA-00553,Dr. Johnson,oral,03/26/2022,completed
+250mg,02/26/2023,PRN,MED-86546,Amoxicillin,GAMMA-00690,Dr. Ramirez,oral,2023/02/01,discontinued
+40mg,,TID,MED-35043,Lisinopril,BETA-00421,Dr. Garcia,oral,2024-03-05T00:00:00,completed
+50 mg,08/22/2023,three times daily,MED-83493,Sertraline,GAMMA-00720,Dr. Wang,oral,2023-05-27,completed
+20mg,02/06/2023,twice daily,MED-72614,Atorvastatin,BETA-00738,Dr. Sato,oral,2023-02-01,completed
+1000mg,,PRN,MED-30872,Metformin,GAMMA-00735,Dr. Kim,oral,09/01/2023,completed
+25/100mg,"February 20, 2025",PRN,MED-81721,Carbidopa-Levodopa,ALPHA-00682,Dr. Young,oral,12/08/2024,completed
+20mg,12/29/2023,as needed,MED-69689,Furosemide,GAMMA-00614,Dr. Brown,oral,14 Nov 2023,on-hold
+600mg,,QD,MED-71367,Gabapentin,GAMMA-00122,Dr. Clark,oral,09/22/2024,completed
+80 mg,01/27/2023,QD,MED-35843,Furosemide,BETA-00573,Dr. Harris,oral,2023-01-17,completed
+100 mg,09/13/2024,PRN,MED-58685,Gabapentin,ALPHA-00773,Dr. Smith,oral,01-07-2024,completed
+20mg,2023-12-13,QD,MED-17297,Lisinopril,ALPHA-00254,Dr. Gupta,oral,2023-10-22T00:00:00,completed
+20mg,04/10/2023,three times daily,MED-32221,Omeprazole,GAMMA-00238,Dr. Sharma,oral,2023-02-21,discontinued
+850 mg,07/31/2022,PRN,MED-16764,Metformin,GAMMA-00789,Dr. Robinson,oral,"June 13, 2022",discontinued
+2mg,,PRN,MED-36413,Warfarin,ALPHA-00528,Dr. Kumar,oral,"March 03, 2023",active
+10mg,2023/10/09,once daily,MED-38700,Prednisone,BETA-00305,Dr. Sato,oral,2023/09/09,completed
+100mg,10/01/2024,QD,MED-54505,Sertraline,ALPHA-00166,Dr. Shah,oral,2024-09-28,on-hold
+50mcg,2022-04-24T00:00:00,PRN,MED-51536,Levothyroxine,ALPHA-00553,Dr. Park,oral,03/25/2022,on-hold
+1mg,2023-04-03T00:00:00,PRN,MED-89487,Warfarin,BETA-00780,Dr. Taylor,oral,03/20/2023,active
+2.5mg,2024-10-29,as needed,MED-99281,Amlodipine,BETA-00759,Dr. Lewis,oral,2024-08-15,on-hold
+250mg,,TID,MED-66292,Amoxicillin,ALPHA-00516,Dr. Gonzalez,oral,2024-01-08,discontinued
+20 units,09/17/2023,twice daily,MED-50080,Insulin Glargine,BETA-00158,Dr. Allen,subcutaneous,2023-07-27,active
+10 units,2023-05-05T00:00:00,twice daily,MED-99468,Insulin Glargine,BETA-00311,Dr. Jackson,subcutaneous,02/14/2023,discontinued
+5mg,18-01-2025,three times daily,MED-33055,Prednisone,ALPHA-00236,Dr. Singh,oral,31 Dec 2024,on-hold
+10 UNITS,,PRN,MED-98472,Insulin Glargine,ALPHA-00271,Dr. Kumar,subcutaneous,03/08/2024,active
+25/100 mg,21-12-2024,PRN,MED-95194,Carbidopa-Levodopa,BETA-00122,Dr. Gonzalez,oral,09/24/2024,completed
+50/200MG,07/13/2023,twice daily,MED-91525,Carbidopa-Levodopa,GAMMA-00601,Dr. Walker,oral,05/21/2023,on-hold
+100mg,09/13/2022,TID,MED-31852,Gabapentin,BETA-00571,Dr. Thomas,oral,"July 07, 2022",active
+5mg,06 Aug 2023,twice daily,MED-79823,Lisinopril,ALPHA-00772,Dr. Perez,oral,2023-05-11,active
+5mg,04/21/2023,three times daily,MED-59611,Lisinopril,ALPHA-00780,Dr. Moore,oral,03/20/2023,active
+50/200mg,04/30/2023,as needed,MED-74699,Carbidopa-Levodopa,BETA-00135,Dr. Johnson,oral,02/13/2023,discontinued
+40mg,2022-08-18,three times daily,MED-50096,Furosemide,GAMMA-00306,Dr. Shah,oral,2022-07-03T00:00:00,completed
+100 mg,,TID,MED-22995,Sertraline,ALPHA-00098,Dr. Young,oral,2022-06-16,discontinued
+180mcg,14 Nov 2023,twice daily,MED-17725,Albuterol,ALPHA-00606,Dr. Sato,inhaled,18-09-2023,active
+50/200mg,2022-08-14,as needed,MED-31466,Carbidopa-Levodopa,BETA-00263,Dr. Lopez,oral,2022-07-06,active
+25/100 mg,12/05/2022,TID,MED-63750,Carbidopa-Levodopa,BETA-00183,Dr. Taylor,oral,2022-10-01,completed
+10MG,01/08/2023,once daily,MED-90011,Atorvastatin,GAMMA-00598,Dr. Hernandez,oral,2022-10-15,on-hold
+20mg,,BID,MED-41820,Lisinopril,ALPHA-00308,Dr. Anderson,oral,04/21/2022,on-hold
+,2022/04/09,TID,MED-48065,Prednisone,ALPHA-00250,Dr. Jackson,oral,27 Jan 2022,on-hold
+90mcg,2024-08-06T00:00:00,QD,MED-20983,Albuterol,GAMMA-00260,Dr. Anderson,inhaled,06/10/2024,active
+20mg,,three times daily,MED-69497,Prednisone,GAMMA-00630,Dr. Chen,oral,2022-06-22,completed
+1000mg,2023/11/05,PRN,MED-84733,Metformin,BETA-00603,Dr. Brown,oral,2023-09-09,on-hold
+50mg,05/22/2023,QD,MED-48950,Sertraline,BETA-00717,Dr. Johnson,oral,2023-03-01,discontinued
+20mg,"December 25, 2023",as needed,MED-23268,Lisinopril,ALPHA-00006,Dr. Wilson,oral,27-10-2023,completed
+90mcg,2025-01-07,three times daily,MED-46497,Albuterol,GAMMA-00313,Dr. Thomas,inhaled,12/10/2024,completed
+25mg,09/06/2024,PRN,MED-84857,Sertraline,ALPHA-00759,Dr. Moore,oral,"August 14, 2024",discontinued
+40mg,"April 30, 2022",as needed,MED-22160,Omeprazole,GAMMA-00203,Dr. Smith,oral,10-03-2022,completed
+50mg,2024/09/29,as needed,MED-31455,Sertraline,GAMMA-00129,Dr. Harris,oral,2024-08-20T00:00:00,on-hold
+10mg,09/14/2024,three times daily,MED-38139,Prednisone,ALPHA-00156,Dr. Young,oral,08/22/2024,completed
+10mg,02/03/2025,three times daily,MED-74492,Atorvastatin,GAMMA-00313,Dr. Jones,oral,09 Dec 2024,completed
+50mg,29 May 2023,three times daily,MED-70564,Sertraline,ALPHA-00394,Dr. Davis,oral,14-04-2023,discontinued
+40mg,2022/02/21,BID,MED-40779,Atorvastatin,ALPHA-00569,Dr. White,oral,02/09/2022,active
+40mg,"January 08, 2023",TID,MED-17606,Furosemide,BETA-00729,Dr. Hernandez,oral,10-12-2022,completed
+500mg,10/25/2023,twice daily,MED-89512,Metformin,GAMMA-00470,Dr. Lewis,oral,31 Jul 2023,on-hold
+5mg,2024-07-31,QD,MED-56677,Warfarin,ALPHA-00099,Dr. Harris,oral,07/18/2024,active
+300mg,14-03-2024,as needed,MED-39674,Gabapentin,ALPHA-00691,Dr. Jackson,oral,29 Dec 2023,discontinued
+75mcg,09/06/2023,QD,MED-61290,Levothyroxine,GAMMA-00681,Dr. Lopez,oral,2023-07-23,completed
+20MG,01/12/2023,PRN,MED-77623,Furosemide,BETA-00072,Dr. Kim,oral,13-11-2022,discontinued
+20mg,2024-04-10,three times daily,MED-26633,Furosemide,ALPHA-00070,Dr. Singh,oral,"January 13, 2024",on-hold
+5 mg,2025-03-05,once daily,MED-64391,Lisinopril,ALPHA-00313,Dr. Park,oral,2024-12-11T00:00:00,active
+5mg,07/22/2023,QD,MED-35408,Amlodipine,GAMMA-00005,Dr. Robinson,oral,2023-07-02,on-hold
+100mcg,2024-10-02,BID,MED-19280,Levothyroxine,BETA-00330,Dr. Gupta,oral,2024/07/20,active
+2.5mg,"November 16, 2024",BID,MED-27142,Amlodipine,GAMMA-00198,Dr. Smith,oral,2024-09-26,discontinued
+75mcg,23-06-2024,PRN,MED-24990,Levothyroxine,ALPHA-00163,Dr. Thompson,oral,05/07/2024,active
+100mg,19-02-2022,PRN,MED-17193,Gabapentin,GAMMA-00515,Dr. Miller,oral,"January 10, 2022",completed
+850mg,28 Feb 2024,TID,MED-56575,Metformin,BETA-00359,Dr. Sharma,oral,01/07/2024,active
+20 units,12/03/2022,twice daily,MED-45712,Insulin Glargine,BETA-00565,Dr. Anderson,subcutaneous,10/23/2022,on-hold
+850mg,"January 20, 2023",twice daily,MED-78662,Metformin,GAMMA-00573,Dr. Ramirez,oral,2023-01-16,active
+90mcg,"July 03, 2022",PRN,MED-52604,Albuterol,GAMMA-00737,Dr. Chen,inhaled,2022-04-21,completed
+10mg,03/27/2024,PRN,MED-64166,Atorvastatin,ALPHA-00058,Dr. Gupta,oral,2024-01-11,on-hold
+20 mg,09/04/2022,QD,MED-58080,Lisinopril,GAMMA-00440,Dr. Kim,oral,25 Jun 2022,discontinued
+25mg,2023-12-22,as needed,MED-24828,Sertraline,ALPHA-00481,Dr. Sato,oral,2023-11-26,active
+600mg,"December 08, 2024",as needed,MED-15536,Gabapentin,ALPHA-00532,Dr. Robinson,oral,09/21/2024,completed
+30 units,09/25/2024,once daily,MED-51420,Insulin Glargine,ALPHA-00507,Dr. Shah,subcutaneous,2024-08-03,discontinued
+850 mg,08-01-2024,three times daily,MED-16029,Metformin,GAMMA-00550,Dr. Sato,oral,2023-10-12,on-hold
+2mg,09/22/2022,TID,MED-21300,Warfarin,GAMMA-00705,Dr. Sanchez,oral,2022/06/24,active
+40mg,,as needed,MED-94463,Omeprazole,ALPHA-00538,Dr. Perez,oral,2022-07-07T00:00:00,on-hold
+40 mg,2022/12/10,QD,MED-13529,Furosemide,BETA-00672,Dr. Harris,oral,09/15/2022,on-hold
+40mg,12 Jan 2023,once daily,MED-10856,Lisinopril,ALPHA-00369,Dr. Moore,oral,"January 04, 2023",discontinued
+50mg,10/13/2022,PRN,MED-24326,Sertraline,BETA-00653,Dr. Wilson,oral,2022-08-15T00:00:00,on-hold
+90mcg,2024-06-28,three times daily,MED-47363,Albuterol,ALPHA-00287,Dr. Sato,inhaled,04/27/2024,discontinued
+25/100mg,2023-08-28T00:00:00,QD,MED-65546,Carbidopa-Levodopa,GAMMA-00504,Dr. Gonzalez,oral,"June 27, 2023",discontinued
+100 MG,2024-06-25,PRN,MED-42455,Gabapentin,ALPHA-00579,Dr. Garcia,oral,2024-04-10,completed
+30 units,2022/10/15,BID,MED-75647,Insulin Glargine,GAMMA-00109,Dr. Patel,subcutaneous,2022-09-23T00:00:00,on-hold
+80mg,08/24/2024,as needed,MED-49627,Atorvastatin,ALPHA-00341,Dr. Robinson,oral,28-06-2024,active
+,07/08/2022,TID,MED-74124,Amlodipine,GAMMA-00436,Dr. Smith,oral,06/19/2022,completed
+20 units,10/08/2024,twice daily,MED-25161,Insulin Glargine,ALPHA-00588,Dr. Clark,subcutaneous,2024/08/19,on-hold
+5mg,08-04-2022,PRN,MED-93448,Amlodipine,BETA-00202,Dr. Robinson,oral,"March 31, 2022",discontinued
+2.5mg,2023-07-28,BID,MED-87468,Amlodipine,BETA-00412,Dr. Gupta,oral,02-07-2023,completed
+500mg,2024-02-03,QD,MED-41749,Amoxicillin,ALPHA-00391,Dr. Sanchez,oral,12/13/2023,discontinued
+25mg,04/15/2022,as needed,MED-41039,Sertraline,ALPHA-00242,Dr. Harris,oral,2022-01-19,discontinued
+10MG,10/09/2024,once daily,MED-12636,Prednisone,ALPHA-00122,Dr. Anderson,oral,2024/09/22,active
+5mg,2025-01-02T00:00:00,PRN,MED-26284,Prednisone,BETA-00788,Dr. Brown,oral,10/25/2024,active
+500mg,01 Feb 2022,three times daily,MED-76887,Amoxicillin,ALPHA-00689,Dr. Perez,oral,01/22/2022,completed
+5mg,2023-05-15T00:00:00,PRN,MED-51882,Warfarin,GAMMA-00718,Dr. Harris,oral,2023/02/19,active
+25mg,2024-09-28T00:00:00,as needed,MED-86178,Sertraline,ALPHA-00541,Dr. Schmidt,oral,08/11/2024,completed
+10mg,,QD,MED-36702,Amlodipine,BETA-00275,Dr. Lee,oral,10/07/2022,discontinued
+25mcg,05/21/2022,as needed,MED-75774,Levothyroxine,GAMMA-00015,Dr. Walker,oral,01 May 2022,active
+40mg,2024-02-08,BID,MED-64595,Furosemide,BETA-00757,Dr. Lopez,oral,01/08/2024,completed
+100mcg,01/16/2023,BID,MED-79458,Levothyroxine,GAMMA-00013,Dr. Singh,oral,12/06/2022,completed
+20mg,08/23/2022,twice daily,MED-56657,Omeprazole,BETA-00169,Dr. Kim,oral,2022-07-26,on-hold
+10MG,2024-05-08T00:00:00,twice daily,MED-77483,Prednisone,GAMMA-00076,Dr. Anderson,oral,2024-02-22T00:00:00,completed
+80mg,01/31/2024,twice daily,MED-20210,Atorvastatin,ALPHA-00231,Dr. Tanaka,oral,15 Dec 2023,on-hold
+100mg,,BID,MED-99953,Sertraline,ALPHA-00270,Dr. Rodriguez,oral,"August 24, 2024",on-hold
+75mcg,"January 11, 2023",BID,MED-37367,Levothyroxine,GAMMA-00354,Dr. Lopez,oral,2022-10-19,completed
+20mg,,TID,MED-94273,Furosemide,GAMMA-00538,Dr. Clark,oral,07/06/2022,discontinued
+500mg,,BID,MED-60015,Amoxicillin,GAMMA-00233,Dr. Mueller,oral,"November 19, 2024",completed
+10mg,24-07-2023,once daily,MED-57993,Atorvastatin,ALPHA-00401,Dr. Gupta,oral,2023/06/01,completed
+25mg,11/13/2022,once daily,MED-94209,Sertraline,ALPHA-00616,Dr. Martin,oral,10/18/2022,discontinued
+600mg,,as needed,MED-68640,Gabapentin,GAMMA-00307,Dr. Sharma,oral,2024-08-07,completed
+2.5mg,"January 01, 2024",TID,MED-60533,Amlodipine,GAMMA-00213,Dr. King,oral,06 Oct 2023,active
+50mcg,07/06/2022,PRN,MED-11834,Levothyroxine,ALPHA-00726,Dr. Clark,oral,06/09/2022,discontinued
+600mg,"August 02, 2022",PRN,MED-19025,Gabapentin,ALPHA-00480,Dr. Kumar,oral,"July 29, 2022",on-hold
+20mg,14 Jul 2023,PRN,MED-88290,Omeprazole,BETA-00412,Dr. Martinez,oral,07/02/2023,discontinued
+1mg,07/07/2023,BID,MED-34231,Warfarin,GAMMA-00286,Dr. Thompson,oral,2023-06-26,completed
+30 UNITS,09/14/2023,QD,MED-26967,Insulin Glargine,ALPHA-00504,Dr. Kim,subcutaneous,"June 28, 2023",discontinued
+75mcg,08-02-2024,twice daily,MED-53005,Levothyroxine,GAMMA-00278,Dr. Thomas,oral,2023-11-20,discontinued
+2.5mg,02/13/2023,three times daily,MED-11117,Amlodipine,BETA-00626,Dr. Johansson,oral,17-01-2023,completed
+5mg,2024/11/19,PRN,MED-34013,Amlodipine,GAMMA-00457,Dr. Davis,oral,23-10-2024,discontinued
+10mg,,TID,MED-59104,Amlodipine,GAMMA-00596,Dr. Thomas,oral,2024/06/13,active
+2mg,"November 20, 2024",three times daily,MED-45880,Warfarin,GAMMA-00040,Dr. Young,oral,11/01/2024,active
+25mg,2022-06-21,QD,MED-12456,Sertraline,GAMMA-00641,Dr. Rodriguez,oral,"April 08, 2022",active
+25/100mg,2024/05/28,QD,MED-51106,Carbidopa-Levodopa,BETA-00667,Dr. Garcia,oral,04/30/2024,completed
+250mg,2024-02-25,twice daily,MED-28408,Amoxicillin,BETA-00058,Dr. Gonzalez,oral,2024-01-11,active
+10 units,2023-02-07,as needed,MED-60063,Insulin Glargine,BETA-00439,Dr. Sharma,subcutaneous,14 Dec 2022,on-hold
+25/100mg,29 Dec 2024,PRN,MED-59043,Carbidopa-Levodopa,BETA-00475,Dr. Williams,oral,12 Dec 2024,active
+40mg,12/28/2022,BID,MED-39835,Omeprazole,ALPHA-00409,Dr. Robinson,oral,08-10-2022,discontinued
+500mg,,PRN,MED-62456,Amoxicillin,GAMMA-00399,Dr. Walker,oral,2024/04/10,discontinued
+10mg,2023-11-09,as needed,MED-69824,Amlodipine,ALPHA-00406,Dr. Harris,oral,11-08-2023,discontinued
+100mg,2024-01-14,once daily,MED-92349,Sertraline,ALPHA-00121,Dr. Chen,oral,06 Nov 2023,discontinued
+2.5mg,09/29/2022,twice daily,MED-65216,Amlodipine,ALPHA-00538,Dr. Park,oral,2022-07-06,on-hold
+250MG,01/19/2023,three times daily,MED-95088,Amoxicillin,BETA-00573,Dr. Gonzalez,oral,01/15/2023,discontinued
+40mg,12/15/2022,PRN,MED-97520,Lisinopril,GAMMA-00476,Dr. Hernandez,oral,14-11-2022,completed
+100mcg,"March 06, 2023",TID,MED-41501,Levothyroxine,GAMMA-00094,Dr. Garcia,oral,02 Mar 2023,on-hold
+40MG,2022/04/20,once daily,MED-51338,Furosemide,ALPHA-00203,Dr. Johansson,oral,03/09/2022,completed
+75mcg,2023-02-17,three times daily,MED-45948,Levothyroxine,ALPHA-00439,Dr. Sanchez,oral,12/14/2022,discontinued
+2.5mg,2023-12-11T00:00:00,BID,MED-37850,Amlodipine,ALPHA-00425,Dr. Young,oral,2023-09-15,completed
+10mg,2024/02/06,three times daily,MED-16020,Lisinopril,ALPHA-00445,Dr. Walker,oral,17 Nov 2023,discontinued
+90mcg,06/05/2023,twice daily,MED-71963,Albuterol,ALPHA-00218,Dr. Jackson,inhaled,02 Apr 2023,on-hold
+250mg,08/21/2024,QD,MED-91020,Amoxicillin,ALPHA-00499,Dr. Williams,oral,18-08-2024,on-hold
+,2022-04-15,TID,MED-81069,Carbidopa-Levodopa,GAMMA-00529,Dr. Sato,oral,03/30/2022,completed
+20 mg,"May 19, 2022",QD,MED-17338,Lisinopril,ALPHA-00116,Dr. Jackson,oral,04/28/2022,active
+25 mg,2025-01-06,three times daily,MED-10101,Sertraline,ALPHA-00348,Dr. Schmidt,oral,2024-11-18,on-hold
+90mcg,2023-07-28,once daily,MED-49192,Albuterol,GAMMA-00681,Dr. King,inhaled,2023-07-25,completed
+180 mcg,,BID,MED-38702,Albuterol,BETA-00596,Dr. Martinez,inhaled,06/14/2024,completed
+5mg,,QD,MED-21288,Amlodipine,BETA-00790,Dr. Young,oral,09-09-2024,discontinued
+40mg,2023/10/14,once daily,MED-32805,Omeprazole,BETA-00680,Dr. Gupta,oral,2023/09/15,completed
+1mg,05/05/2024,once daily,MED-14216,Warfarin,ALPHA-00290,Dr. Johansson,oral,06-03-2024,active
+1mg,07/31/2022,BID,MED-23030,Warfarin,GAMMA-00120,Dr. Mueller,oral,2022-06-17,discontinued
+2mg,13 Nov 2023,QD,MED-68145,Warfarin,ALPHA-00425,Dr. Walker,oral,17-09-2023,discontinued
+25mg,15-07-2022,TID,MED-73543,Sertraline,ALPHA-00078,Dr. Hernandez,oral,06/14/2022,on-hold
+40mg,"March 05, 2025",three times daily,MED-64036,Lisinopril,ALPHA-00684,Dr. Wang,oral,27 Dec 2024,discontinued
+500mg,2022-10-05T00:00:00,BID,MED-94494,Metformin,GAMMA-00652,Dr. Wilson,oral,12-07-2022,active
+20mg,,QD,MED-41960,Omeprazole,GAMMA-00369,Dr. Shah,oral,2023-01-06,discontinued
+25/100mg,04-07-2023,twice daily,MED-88825,Carbidopa-Levodopa,GAMMA-00181,Dr. Tanaka,oral,2023-06-07T00:00:00,on-hold
+80mg,2024-09-04,QD,MED-48532,Atorvastatin,GAMMA-00676,Dr. Singh,oral,"July 16, 2024",active
+10mg,13 Nov 2023,TID,MED-20962,Amlodipine,BETA-00545,Dr. Sato,oral,2023-08-15,completed
+80mg,2023-11-26,once daily,MED-75739,Atorvastatin,ALPHA-00006,Dr. Wang,oral,10/27/2023,discontinued
+50mg,2024-02-02T00:00:00,once daily,MED-35225,Sertraline,ALPHA-00359,Dr. Clark,oral,2024-01-07T00:00:00,active
+500mg,01/28/2023,once daily,MED-31069,Amoxicillin,BETA-00472,Dr. Sanchez,oral,2022/11/17,active
+20mg,02/07/2024,QD,MED-23715,Atorvastatin,GAMMA-00638,Dr. Davis,oral,2023-12-13,completed
+20mg,06/18/2022,TID,MED-46388,Prednisone,GAMMA-00015,Dr. Moore,oral,2022-05-01T00:00:00,completed
+90mcg,04/22/2024,twice daily,MED-84615,Albuterol,BETA-00579,Dr. Garcia,inhaled,09-04-2024,completed
+30 units,,three times daily,MED-36800,Insulin Glargine,ALPHA-00182,Dr. Smith,subcutaneous,08/13/2023,active
+300mg,07/02/2023,three times daily,MED-82436,Gabapentin,GAMMA-00362,Dr. Clark,oral,05/06/2023,completed
+80mg,09/14/2024,twice daily,MED-98395,Furosemide,ALPHA-00654,Dr. Lopez,oral,18 Jul 2024,completed
+50/200mg,11/02/2024,once daily,MED-39977,Carbidopa-Levodopa,BETA-00152,Dr. Ramirez,oral,08/10/2024,on-hold
+5mg,12/17/2024,twice daily,MED-83073,Warfarin,GAMMA-00788,Dr. Allen,oral,27 Oct 2024,on-hold
+1000mg,02/15/2024,BID,MED-26598,Metformin,GAMMA-00491,Dr. Walker,oral,2023-12-07,discontinued
+10mg,21-04-2024,QD,MED-36184,Atorvastatin,GAMMA-00206,Dr. Tanaka,oral,02/08/2024,active
+20 units,06/16/2024,PRN,MED-10419,Insulin Glargine,ALPHA-00596,Dr. Gupta,subcutaneous,2024/06/13,completed
+100mg,03-11-2024,QD,MED-87754,Gabapentin,BETA-00224,Dr. Singh,oral,29-09-2024,on-hold
+40mg,08/12/2023,PRN,MED-11364,Atorvastatin,BETA-00143,Dr. Brown,oral,08/08/2023,discontinued
+20mg,"October 11, 2022",as needed,MED-16942,Omeprazole,GAMMA-00672,Dr. White,oral,15 Sep 2022,completed
+100 mcg,2022-02-26T00:00:00,TID,MED-33919,Levothyroxine,BETA-00689,Dr. King,oral,2022-01-22T00:00:00,on-hold
+,,twice daily,MED-92500,Sertraline,BETA-00182,Dr. Williams,oral,08/12/2023,active
+20mg,08/14/2022,twice daily,MED-32950,Furosemide,ALPHA-00120,Dr. Gupta,oral,2022-06-16,on-hold
+40mg,2024-01-25,QD,MED-10342,Atorvastatin,BETA-00193,Dr. Kumar,oral,08 Jan 2024,completed
+50/200mg,"September 13, 2024",PRN,MED-46122,Carbidopa-Levodopa,BETA-00330,Dr. Shah,oral,2024-07-21,on-hold
+40mg,14 Dec 2022,QD,MED-26765,Furosemide,ALPHA-00624,Dr. Lewis,oral,12/01/2022,on-hold
+5mg,2022-07-18,once daily,MED-43572,Warfarin,GAMMA-00640,Dr. Johnson,oral,"June 26, 2022",active
+10mg,2024-07-11T00:00:00,three times daily,MED-85400,Atorvastatin,GAMMA-00163,Dr. Schmidt,oral,2024/05/08,active
+180mcg,07/29/2023,PRN,MED-86464,Albuterol,GAMMA-00041,Dr. Miller,inhaled,"May 05, 2023",on-hold
+250mg,2024/08/11,three times daily,MED-95970,Amoxicillin,ALPHA-00745,Dr. Davis,oral,2024-06-13,on-hold
+40mg,2022/09/08,QD,MED-48048,Omeprazole,BETA-00078,Dr. Johansson,oral,06/15/2022,on-hold
+20mg,2024-08-15,once daily,MED-98349,Prednisone,BETA-00028,Dr. Jackson,oral,2024-05-31T00:00:00,on-hold
+850mg,2024/04/12,twice daily,MED-35182,Metformin,ALPHA-00755,Dr. Park,oral,03/29/2024,completed
+100mcg,2022-09-20T00:00:00,as needed,MED-47895,Levothyroxine,ALPHA-00705,Dr. Walker,oral,06/24/2022,discontinued
+5mg,2024-05-03,as needed,MED-44957,Lisinopril,BETA-00742,Dr. Moore,oral,2024-02-21,completed
+25/100mg,2024-11-06,PRN,MED-36097,Carbidopa-Levodopa,BETA-00389,Dr. Thomas,oral,06-10-2024,active
+1000mg,"March 05, 2023",once daily,MED-52564,Metformin,ALPHA-00227,Dr. Johansson,oral,01/21/2023,discontinued
+30 units,2024-03-13,once daily,MED-30105,Insulin Glargine,ALPHA-00073,Dr. Kumar,subcutaneous,2024-02-26,discontinued
+100mg,2024-03-03,twice daily,MED-40467,Sertraline,ALPHA-00053,Dr. Anderson,oral,02/17/2024,discontinued
+10mg,16-10-2024,TID,MED-79932,Atorvastatin,GAMMA-00794,Dr. Martinez,oral,08/06/2024,discontinued
+10 units,02/08/2024,PRN,MED-91332,Insulin Glargine,ALPHA-00639,Dr. Thomas,subcutaneous,2023-11-26T00:00:00,discontinued
+5mg,2023-12-28,BID,MED-72792,Amlodipine,ALPHA-00639,Dr. Taylor,oral,2023/11/27,on-hold
+5mg,2023-07-12T00:00:00,PRN,MED-36277,Amlodipine,ALPHA-00504,Dr. Martin,oral,2023-06-27,active
+50mg,18 Dec 2023,BID,MED-91634,Sertraline,BETA-00512,Dr. Harris,oral,14 Nov 2023,on-hold
+20 units,,twice daily,MED-82815,Insulin Glargine,GAMMA-00782,Dr. Gonzalez,subcutaneous,13 Nov 2024,completed
+20mg,2023-07-31,three times daily,MED-88569,Omeprazole,ALPHA-00133,Dr. Young,oral,2023-06-05,completed
+10mg,"January 02, 2025",as needed,MED-84996,Amlodipine,BETA-00040,Dr. Wilson,oral,30-10-2024,completed
+,2023-10-12,QD,MED-19426,Albuterol,BETA-00146,Dr. Martinez,inhaled,"September 28, 2023",on-hold
+40mg,05 Oct 2022,PRN,MED-84051,Lisinopril,GAMMA-00023,Dr. Garcia,oral,09/26/2022,active
+1000mg,2023/06/29,twice daily,MED-43386,Metformin,ALPHA-00601,Dr. Ramirez,oral,05/21/2023,active
+2mg,2022/06/03,BID,MED-20916,Warfarin,BETA-00060,Dr. Jones,oral,2022-05-16T00:00:00,discontinued
+,"July 08, 2022",three times daily,MED-54095,Carbidopa-Levodopa,GAMMA-00252,Dr. Harris,oral,2022-04-26,completed
+10mg,08/30/2024,as needed,MED-93753,Lisinopril,GAMMA-00604,Dr. White,oral,"August 22, 2024",on-hold
+5mg,,once daily,MED-12791,Warfarin,ALPHA-00129,Dr. Sharma,oral,08/18/2024,active
+500mg,2024-10-15,BID,MED-24732,Amoxicillin,GAMMA-00424,Dr. Park,oral,2024/08/18,completed
+20mg,03/28/2022,TID,MED-38927,Prednisone,BETA-00375,Dr. Williams,oral,17 Jan 2022,active
+850mg,2022/03/20,TID,MED-11221,Metformin,GAMMA-00569,Dr. Sato,oral,02/10/2022,discontinued
+50mg,07 Feb 2023,three times daily,MED-75745,Sertraline,BETA-00743,Dr. Martin,oral,2022-11-14,discontinued
+40mg,2024/02/03,as needed,MED-21678,Atorvastatin,BETA-00445,Dr. Mueller,oral,11/17/2023,completed
+75mcg,10/28/2024,QD,MED-91470,Levothyroxine,BETA-00083,Dr. Kumar,oral,2024-09-18,discontinued
+20mg,2022-07-23,PRN,MED-96992,Atorvastatin,GAMMA-00261,Dr. Martin,oral,06/02/2022,discontinued
+40 mg,10/30/2024,QD,MED-30265,Atorvastatin,GAMMA-00016,Dr. Thomas,oral,2024-08-28,on-hold
+20mg,08/08/2024,three times daily,MED-91865,Furosemide,ALPHA-00797,Dr. King,oral,2024-06-18,active
+20mg,10/29/2024,PRN,MED-66853,Omeprazole,ALPHA-00159,Dr. Taylor,oral,10/23/2024,on-hold
+20mg,03/12/2024,QD,MED-40333,Furosemide,BETA-00417,Dr. Garcia,oral,31 Dec 2023,discontinued
+100mg,25 Oct 2023,QD,MED-92638,Sertraline,ALPHA-00225,Dr. Martinez,oral,"September 02, 2023",active
+5mg,2023-04-28,three times daily,MED-28634,Lisinopril,BETA-00592,Dr. Robinson,oral,02/16/2023,completed
+10mg,2022-10-13T00:00:00,three times daily,MED-20553,Amlodipine,GAMMA-00625,Dr. Harris,oral,2022-07-17T00:00:00,completed
+850mg,07/31/2022,QD,MED-36739,Metformin,ALPHA-00339,Dr. Ramirez,oral,05/09/2022,completed
+300 mg,2024/06/17,once daily,MED-15456,Gabapentin,ALPHA-00632,Dr. Miller,oral,04/11/2024,completed
+25mcg,"March 19, 2024",QD,MED-93240,Levothyroxine,GAMMA-00418,Dr. Mueller,oral,2024-02-13T00:00:00,active
+180mcg,02-10-2024,TID,MED-48348,Albuterol,ALPHA-00619,Dr. Martin,inhaled,22-09-2024,active
+180mcg,01/12/2025,BID,MED-11107,Albuterol,GAMMA-00547,Dr. Taylor,inhaled,01-12-2024,completed
+80mg,08/16/2023,twice daily,MED-62562,Furosemide,BETA-00327,Dr. Patel,oral,24-07-2023,discontinued
+5 mg,04/28/2024,once daily,MED-70769,Prednisone,BETA-00318,Dr. Garcia,oral,2024/04/19,discontinued
+20 units,02/23/2022,PRN,MED-50471,Insulin Glargine,ALPHA-00633,Dr. Miller,subcutaneous,2022/01/29,discontinued
+5mg,14-02-2024,once daily,MED-48007,Lisinopril,GAMMA-00697,Dr. Gonzalez,oral,01/08/2024,discontinued
+,"December 29, 2023",three times daily,MED-39144,Amlodipine,BETA-00481,Dr. Johansson,oral,2023/11/25,discontinued
+80MG,11/25/2024,as needed,MED-90935,Furosemide,BETA-00753,Dr. Jackson,oral,2024-09-21T00:00:00,active
+500mg,2022-09-15T00:00:00,as needed,MED-78557,Amoxicillin,ALPHA-00644,Dr. Smith,oral,09/01/2022,discontinued
+100mg,10/07/2023,as needed,MED-59020,Gabapentin,ALPHA-00628,Dr. Park,oral,"August 31, 2023",active
+25mg,,PRN,MED-67478,Sertraline,ALPHA-00089,Dr. Anderson,oral,2023-04-24,discontinued
+500mg,11/20/2024,TID,MED-86396,Amoxicillin,BETA-00695,Dr. Ramirez,oral,2024-10-14,active
+300mg,19-01-2023,twice daily,MED-61588,Gabapentin,GAMMA-00721,Dr. Jackson,oral,20 Nov 2022,discontinued
+10mg,02/09/2022,twice daily,MED-30000,Lisinopril,GAMMA-00716,Dr. Hernandez,oral,2022-01-23,completed
+20mg,,three times daily,MED-97558,Lisinopril,BETA-00317,Dr. Gonzalez,oral,08/04/2022,on-hold
+500mg,04/03/2023,twice daily,MED-56379,Metformin,BETA-00430,Dr. Thomas,oral,03/16/2023,discontinued
+10mg,02-10-2022,BID,MED-71835,Amlodipine,ALPHA-00749,Dr. Hernandez,oral,2022/08/14,discontinued
+300mg,,QD,MED-49684,Gabapentin,ALPHA-00197,Dr. Tanaka,oral,24-04-2024,on-hold
+20mg,2022-09-21,QD,MED-23489,Lisinopril,BETA-00783,Dr. Kim,oral,08/16/2022,discontinued
+1 mg,21-02-2024,BID,MED-42073,Warfarin,GAMMA-00586,Dr. Johansson,oral,2024-01-04,on-hold
+25/100mg,07/10/2024,three times daily,MED-28026,Carbidopa-Levodopa,BETA-00368,Dr. Schmidt,oral,23 Apr 2024,on-hold
+25mg,02/09/2024,BID,MED-84137,Sertraline,ALPHA-00211,Dr. Harris,oral,"January 11, 2024",on-hold
+75mcg,2022/05/26,PRN,MED-95737,Levothyroxine,BETA-00446,Dr. Park,oral,07 May 2022,active
+50/200mg,,three times daily,MED-88722,Carbidopa-Levodopa,BETA-00254,Dr. Clark,oral,"October 23, 2023",completed
+20mg,2024/11/06,once daily,MED-36747,Omeprazole,ALPHA-00370,Dr. Martin,oral,08/24/2024,active
+300mg,2024-02-16,twice daily,MED-48900,Gabapentin,GAMMA-00231,Dr. Williams,oral,12/16/2023,on-hold
+20 units,02/18/2025,QD,MED-27103,Insulin Glargine,BETA-00096,Dr. Johansson,subcutaneous,2024-12-14,completed
+50 mg,03/09/2023,three times daily,MED-24803,Sertraline,GAMMA-00337,Dr. Schmidt,oral,01/01/2023,on-hold
+10mg,2024-09-23T00:00:00,three times daily,MED-90001,Lisinopril,BETA-00429,Dr. Patel,oral,2024-07-16,on-hold
+40mg,2024-12-12T00:00:00,PRN,MED-11907,Omeprazole,ALPHA-00457,Dr. Gupta,oral,10/24/2024,completed
+20mg,10/16/2024,twice daily,MED-66786,Atorvastatin,BETA-00220,Dr. Jackson,oral,02-09-2024,active
+10mg,10/21/2023,as needed,MED-96802,Lisinopril,GAMMA-00356,Dr. Ramirez,oral,08/21/2023,discontinued
+20mg,2024-07-08,as needed,MED-40520,Omeprazole,BETA-00372,Dr. Martin,oral,"May 10, 2024",active
+20mg,31 Jan 2022,three times daily,MED-63958,Omeprazole,GAMMA-00778,Dr. Park,oral,2022-01-01,on-hold
+25mcg,2023-10-01T00:00:00,as needed,MED-79687,Levothyroxine,ALPHA-00688,Dr. Shah,oral,09/11/2023,completed
+20mg,09/26/2022,BID,MED-76055,Omeprazole,GAMMA-00312,Dr. Gonzalez,oral,23 Sep 2022,discontinued
+40mg,2022/04/14,BID,MED-96130,Furosemide,GAMMA-00558,Dr. Wilson,oral,2022-01-14T00:00:00,completed
+10 units,21-12-2023,QD,MED-35581,Insulin Glargine,GAMMA-00254,Dr. Taylor,subcutaneous,10/23/2023,active
+40mg,08/26/2022,twice daily,MED-49694,Omeprazole,GAMMA-00498,Dr. Allen,oral,2022-07-03,on-hold
+10 mg,2024-12-14T00:00:00,as needed,MED-88063,Prednisone,GAMMA-00377,Dr. Smith,oral,2024-09-17T00:00:00,on-hold
+20mg,19 Feb 2025,BID,MED-45824,Furosemide,GAMMA-00544,Dr. Garcia,oral,2024-12-27T00:00:00,on-hold
+5mg,12/04/2023,PRN,MED-88527,Warfarin,GAMMA-00548,Dr. King,oral,22-09-2023,on-hold
+100mg,"January 23, 2025",three times daily,MED-43508,Gabapentin,BETA-00233,Dr. Shah,oral,11/21/2024,active
+90mcg,31-12-2024,BID,MED-82485,Albuterol,ALPHA-00105,Dr. Brown,inhaled,22-12-2024,completed
+10mg,2024-11-29,TID,MED-59427,Prednisone,GAMMA-00532,Dr. King,oral,09/20/2024,on-hold
+30 units,2022-03-02T00:00:00,as needed,MED-16605,Insulin Glargine,GAMMA-00492,Dr. Martin,subcutaneous,2022-01-03T00:00:00,discontinued
+100mg,2024-12-05,three times daily,MED-99669,Gabapentin,GAMMA-00140,Dr. Mueller,oral,"November 17, 2024",completed
+5mg,10/01/2024,TID,MED-50025,Lisinopril,GAMMA-00018,Dr. Rodriguez,oral,08/05/2024,on-hold
+500mg,08 Sep 2024,three times daily,MED-80596,Amoxicillin,BETA-00596,Dr. Allen,oral,2024-06-14T00:00:00,discontinued
+5mg,2022-09-17,twice daily,MED-83493,Warfarin,BETA-00310,Dr. Garcia,oral,30 Jun 2022,active
+100mcg,10/27/2022,three times daily,MED-26009,Levothyroxine,GAMMA-00480,Dr. Chen,oral,29 Jul 2022,on-hold
+80 mg,2023-06-03T00:00:00,once daily,MED-76275,Furosemide,GAMMA-00728,Dr. Perez,oral,05 May 2023,active
+80mg,2024-05-08T00:00:00,twice daily,MED-36873,Atorvastatin,ALPHA-00288,Dr. Allen,oral,03/19/2024,on-hold
+5mg,,PRN,MED-70453,Warfarin,ALPHA-00278,Dr. Gupta,oral,"November 20, 2023",discontinued
+10mg,01/29/2022,TID,MED-44638,Prednisone,BETA-00329,Dr. Brown,oral,2022-01-03,active
+500mg,2022-07-19,as needed,MED-11863,Amoxicillin,BETA-00310,Dr. Gupta,oral,06/30/2022,on-hold
+25mg,2023-12-10,QD,MED-20345,Sertraline,ALPHA-00550,Dr. Taylor,oral,10/12/2023,discontinued
+20mg,17 Mar 2023,TID,MED-70398,Prednisone,GAMMA-00732,Dr. Young,oral,2022-12-18,on-hold
+10mg,01/26/2024,once daily,MED-11575,Lisinopril,ALPHA-00419,Dr. King,oral,2023-12-16,active
+90mcg,,twice daily,MED-20825,Albuterol,GAMMA-00622,Dr. Moore,inhaled,"July 07, 2023",discontinued
+50mcg,01/26/2025,once daily,MED-75332,Levothyroxine,BETA-00442,Dr. Sharma,oral,14-12-2024,active
+40mg,"August 21, 2022",TID,MED-29450,Omeprazole,ALPHA-00750,Dr. Shah,oral,07/19/2022,on-hold
+25mcg,2024/02/12,PRN,MED-80270,Levothyroxine,GAMMA-00344,Dr. Gupta,oral,2024-01-06,active
+20mg,2022-10-12T00:00:00,once daily,MED-66870,Atorvastatin,ALPHA-00568,Dr. Robinson,oral,2022-09-02T00:00:00,active
+180mcg,21-09-2022,as needed,MED-95210,Albuterol,GAMMA-00103,Dr. Anderson,inhaled,08/10/2022,discontinued
+90mcg,2024-10-20,once daily,MED-87144,Albuterol,GAMMA-00269,Dr. White,inhaled,21 Sep 2024,on-hold
+40mg,2023-08-20,BID,MED-70243,Omeprazole,BETA-00074,Dr. Martin,oral,2023-08-03,discontinued
+250mg,2024-07-12,QD,MED-24361,Amoxicillin,BETA-00101,Dr. Shah,oral,04 Jun 2024,active
+5mg,2022-10-02,BID,MED-63418,Warfarin,ALPHA-00245,Dr. Miller,oral,08/20/2022,discontinued
+50mcg,"August 26, 2024",as needed,MED-87165,Levothyroxine,ALPHA-00403,Dr. Perez,oral,06/26/2024,discontinued
+180mcg,26-09-2022,TID,MED-56721,Albuterol,BETA-00251,Dr. Tanaka,inhaled,08/30/2022,completed
+5mg,09-06-2024,once daily,MED-62654,Warfarin,GAMMA-00673,Dr. Jones,oral,2024-05-17,completed
+5mg,2024-02-04T00:00:00,twice daily,MED-89071,Prednisone,BETA-00757,Dr. Miller,oral,01/10/2024,completed
+2mg,,three times daily,MED-89376,Warfarin,GAMMA-00068,Dr. Johansson,oral,21-10-2023,on-hold
+10 units,2024-01-31,once daily,MED-37632,Insulin Glargine,ALPHA-00697,Dr. Sato,subcutaneous,2024-01-08,discontinued
+1mg,,as needed,MED-56841,Warfarin,GAMMA-00046,Dr. White,oral,02 Nov 2023,on-hold
+10mg,2022-09-19,QD,MED-47526,Lisinopril,ALPHA-00093,Dr. Williams,oral,2022-09-08T00:00:00,active
+500mg,2024-11-14T00:00:00,once daily,MED-80426,Amoxicillin,BETA-00395,Dr. Davis,oral,2024-10-21,active
+100mg,12/07/2023,once daily,MED-28557,Sertraline,BETA-00358,Dr. Sato,oral,10/04/2023,discontinued
+100mg,02/01/2023,three times daily,MED-86618,Sertraline,BETA-00227,Dr. Mueller,oral,01/21/2023,discontinued
+500mg,,twice daily,MED-69249,Metformin,ALPHA-00336,Dr. Thompson,oral,26 Apr 2024,active
+20mg,2023-10-22,as needed,MED-69867,Furosemide,GAMMA-00049,Dr. Sanchez,oral,2023/10/01,on-hold
+50/200mg,2024-04-12,PRN,MED-69904,Carbidopa-Levodopa,ALPHA-00768,Dr. Clark,oral,14-03-2024,active
+20mg,2023-12-08,TID,MED-32630,Furosemide,ALPHA-00187,Dr. Johnson,oral,"October 19, 2023",completed
+50mg,,three times daily,MED-80505,Sertraline,BETA-00292,Dr. Williams,oral,06/25/2023,completed
+1mg,,PRN,MED-93125,Warfarin,BETA-00123,Dr. Allen,oral,23-11-2023,completed
+1mg,2022-07-06,BID,MED-62970,Warfarin,ALPHA-00440,Dr. Sanchez,oral,"June 25, 2022",discontinued
+40mg,,once daily,MED-59657,Omeprazole,BETA-00102,Dr. Brown,oral,05/17/2024,on-hold
+20mg,2022-11-08T00:00:00,QD,MED-99220,Omeprazole,ALPHA-00762,Dr. Kumar,oral,2022-08-26T00:00:00,completed
+500mg,10/04/2022,QD,MED-85228,Amoxicillin,ALPHA-00672,Dr. Anderson,oral,15-09-2022,discontinued
+5mg,12/07/2022,TID,MED-88149,Warfarin,BETA-00649,Dr. Johnson,oral,2022-11-06,active
+250mg,2023-06-22,three times daily,MED-11807,Amoxicillin,ALPHA-00069,Dr. Mueller,oral,2023-06-03T00:00:00,completed
+1mg,16-11-2024,three times daily,MED-68301,Warfarin,BETA-00444,Dr. Hernandez,oral,2024-09-19T00:00:00,on-hold
+250mg,28 Dec 2023,twice daily,MED-74294,Amoxicillin,ALPHA-00047,Dr. Lee,oral,18-12-2023,discontinued
+25/100mg,2024-01-03,once daily,MED-61037,Carbidopa-Levodopa,BETA-00068,Dr. Martinez,oral,10/20/2023,on-hold
+40mg,12-10-2024,PRN,MED-66568,Atorvastatin,BETA-00224,Dr. King,oral,10/01/2024,active
+100mg,2022-08-06,once daily,MED-78485,Sertraline,ALPHA-00392,Dr. Tanaka,oral,2022/07/28,completed
+50mcg,17 Aug 2023,once daily,MED-96066,Levothyroxine,BETA-00390,Dr. King,oral,28 Jul 2023,on-hold
+30 units,08/27/2022,once daily,MED-79118,Insulin Glargine,GAMMA-00587,Dr. Gonzalez,subcutaneous,2022-08-24,completed
+40mg,,QD,MED-16265,Atorvastatin,BETA-00763,Dr. Sanchez,oral,05-10-2023,discontinued
+20mg,2024-05-30,PRN,MED-19055,Atorvastatin,BETA-00061,Dr. Park,oral,2024-05-04,on-hold
+180mcg,2023-02-01,BID,MED-18907,Albuterol,GAMMA-00010,Dr. Lewis,inhaled,2022-11-20,on-hold
+250mg,10/20/2024,PRN,MED-24099,Amoxicillin,ALPHA-00753,Dr. King,oral,21-09-2024,on-hold
+25/100mg,"September 03, 2024",PRN,MED-84261,Carbidopa-Levodopa,GAMMA-00270,Dr. Brown,oral,2024-08-26,discontinued
+20 units,06/25/2024,QD,MED-24434,Insulin Glargine,GAMMA-00408,Dr. Wang,subcutaneous,05/16/2024,discontinued
+600mg,2023-01-15,twice daily,MED-74924,Gabapentin,ALPHA-00300,Dr. Wang,oral,2022/12/23,completed
+10mg,"March 14, 2024",twice daily,MED-10282,Prednisone,BETA-00712,Dr. Wilson,oral,2023-12-29T00:00:00,on-hold
+25mg,07/11/2023,three times daily,MED-10629,Sertraline,ALPHA-00401,Dr. White,oral,06/02/2023,completed
+,,once daily,MED-82524,Metformin,GAMMA-00170,Dr. Kim,oral,10/20/2023,on-hold
+10mg,,as needed,MED-63558,Atorvastatin,GAMMA-00079,Dr. Patel,oral,2022-07-07,on-hold
+90mcg,08/13/2022,BID,MED-85568,Albuterol,BETA-00478,Dr. Johansson,inhaled,2022-07-31,on-hold
+850 mg,04-04-2023,TID,MED-60869,Metformin,GAMMA-00540,Dr. Smith,oral,"March 02, 2023",active
+600mg,08/06/2024,once daily,MED-16593,Gabapentin,BETA-00341,Dr. Ramirez,oral,27 Jun 2024,discontinued
+50mcg,11/23/2022,once daily,MED-89591,Levothyroxine,BETA-00303,Dr. Singh,oral,2022-11-04,discontinued
+40mg,"September 11, 2022",as needed,MED-44984,Lisinopril,ALPHA-00392,Dr. Lopez,oral,2022-07-28,completed
+20mg,,TID,MED-50900,Omeprazole,BETA-00479,Dr. Williams,oral,12/27/2024,completed
+20 units,"June 30, 2023",QD,MED-49291,Insulin Glargine,BETA-00514,Dr. Brown,subcutaneous,31 May 2023,on-hold
+50/200mg,05/13/2023,QD,MED-57595,Carbidopa-Levodopa,GAMMA-00362,Dr. Patel,oral,05/06/2023,completed
+10mg,2024-05-08,as needed,MED-30465,Atorvastatin,ALPHA-00632,Dr. Kim,oral,10 Apr 2024,active
+10mg,2023-09-24,as needed,MED-85950,Prednisone,BETA-00223,Dr. Thompson,oral,07/25/2023,discontinued
+10mg,03/22/2024,PRN,MED-86211,Lisinopril,GAMMA-00335,Dr. Wilson,oral,2024/02/27,active
+180mcg,2024-11-01,once daily,MED-11016,Albuterol,ALPHA-00377,Dr. Thomas,inhaled,2024-09-16,active
+100mg,"January 14, 2022",PRN,MED-43071,Sertraline,BETA-00778,Dr. Mueller,oral,"January 02, 2022",discontinued
+40mg,11/02/2024,QD,MED-12875,Lisinopril,GAMMA-00703,Dr. Perez,oral,"September 16, 2024",on-hold
+100mg,,once daily,MED-89246,Sertraline,ALPHA-00627,Dr. Martin,oral,12/15/2024,active
+2.5mg,09/12/2022,twice daily,MED-47641,Amlodipine,ALPHA-00078,Dr. Patel,oral,2022-06-16T00:00:00,completed
+5mg,,TID,MED-67948,Prednisone,ALPHA-00755,Dr. Walker,oral,27-03-2024,discontinued
+80mg,25-06-2023,PRN,MED-40893,Furosemide,BETA-00176,Dr. Garcia,oral,04/30/2023,discontinued
+5mg,10/11/2024,once daily,MED-64717,Lisinopril,BETA-00099,Dr. Sanchez,oral,2024-07-19,completed
+250mg,10/19/2024,TID,MED-77488,Amoxicillin,BETA-00018,Dr. Robinson,oral,05-08-2024,completed
+1000mg,08/04/2023,QD,MED-21589,Metformin,ALPHA-00181,Dr. Patel,oral,2023-06-07,active
+600mg,10/10/2022,once daily,MED-23088,Gabapentin,GAMMA-00749,Dr. Smith,oral,14 Aug 2022,on-hold
+500mg,11/22/2024,BID,MED-94426,Metformin,ALPHA-00021,Dr. Chen,oral,2024-09-04,completed
+100mg,,PRN,MED-56234,Gabapentin,BETA-00541,Dr. Kumar,oral,2024-08-11,active
+25mg,"December 09, 2024",TID,MED-57294,Sertraline,BETA-00761,Dr. Schmidt,oral,10/06/2024,completed
+100MG,"December 05, 2023",once daily,MED-65835,Sertraline,BETA-00688,Dr. Smith,oral,09/11/2023,completed
+90mcg,2025-01-10,BID,MED-67992,Albuterol,GAMMA-00147,Dr. Martinez,inhaled,2024-11-25,discontinued
+20mg,12/08/2022,TID,MED-14447,Prednisone,ALPHA-00503,Dr. Schmidt,oral,2022-11-12,discontinued
+20mg,2024-09-06,three times daily,MED-42816,Furosemide,BETA-00115,Dr. Martin,oral,2024-08-19,active
+180mcg,"August 09, 2022",QD,MED-20916,Albuterol,ALPHA-00625,Dr. Harris,inhaled,2022/07/18,on-hold
+40mg,09/21/2022,BID,MED-73570,Atorvastatin,ALPHA-00464,Dr. Sanchez,oral,08/12/2022,active
+100mg,2022/05/05,QD,MED-14577,Gabapentin,ALPHA-00230,Dr. Harris,oral,2022/03/27,active
+80mg,01/11/2025,as needed,MED-95750,Furosemide,ALPHA-00547,Dr. Kumar,oral,01 Dec 2024,on-hold
+90mcg,21-05-2022,PRN,MED-13029,Albuterol,ALPHA-00702,Dr. Young,inhaled,05/14/2022,discontinued
+25/100MG,25 Aug 2024,BID,MED-46074,Carbidopa-Levodopa,GAMMA-00208,Dr. Ramirez,oral,30-06-2024,active
+10 mg,2024-07-24,twice daily,MED-28046,Prednisone,ALPHA-00027,Dr. Young,oral,2024/06/25,on-hold
+20 units,,three times daily,MED-10150,Insulin Glargine,ALPHA-00561,Dr. Anderson,subcutaneous,05/17/2022,completed
+100 mg,2022-07-09,PRN,MED-48942,Gabapentin,GAMMA-00120,Dr. Lopez,oral,16 Jun 2022,discontinued
+300mg,08/09/2023,PRN,MED-55871,Gabapentin,BETA-00681,Dr. Lopez,oral,07/24/2023,discontinued
+90mcg,2022-08-26,TID,MED-53100,Albuterol,BETA-00789,Dr. Taylor,inhaled,13-06-2022,active
+20mg,2024-07-27,twice daily,MED-59623,Furosemide,GAMMA-00028,Dr. Singh,oral,05/31/2024,active
+20mg,2024-10-03,twice daily,MED-86252,Omeprazole,BETA-00679,Dr. Sanchez,oral,2024-08-07,completed
+100mg,23-08-2022,PRN,MED-66908,Gabapentin,ALPHA-00707,Dr. Clark,oral,2022-06-18,completed
+5mg,03/17/2022,once daily,MED-14103,Prednisone,BETA-00569,Dr. Thompson,oral,2022-02-08,on-hold
+300mg,2023-01-23,three times daily,MED-84377,Gabapentin,BETA-00337,Dr. Schmidt,oral,"January 01, 2023",active
+500mg,2024-08-12,PRN,MED-54782,Amoxicillin,GAMMA-00676,Dr. Jackson,oral,2024-07-16,completed
+50/200mg,12-03-2024,PRN,MED-24548,Carbidopa-Levodopa,GAMMA-00575,Dr. Gonzalez,oral,"March 01, 2024",completed
+500mg,11/15/2024,once daily,MED-45303,Metformin,GAMMA-00467,Dr. Miller,oral,18 Sep 2024,completed
+100mg,01/13/2024,once daily,MED-92036,Sertraline,ALPHA-00383,Dr. White,oral,2023-12-15,completed
+100mg,2024-11-10T00:00:00,twice daily,MED-77421,Gabapentin,BETA-00215,Dr. Gupta,oral,10/21/2024,discontinued
+50/200mg,03/19/2022,QD,MED-11755,Carbidopa-Levodopa,ALPHA-00465,Dr. Williams,oral,03/15/2022,completed
+30 units,24-10-2022,PRN,MED-69375,Insulin Glargine,GAMMA-00332,Dr. Harris,subcutaneous,2022-08-09,on-hold
+40mg,06/04/2024,as needed,MED-41641,Lisinopril,BETA-00423,Dr. Thomas,oral,2024-03-08,discontinued
+1000mg,02/09/2024,as needed,MED-54613,Metformin,ALPHA-00691,Dr. Tanaka,oral,"December 30, 2023",active
+100mg,2023/07/22,twice daily,MED-38560,Sertraline,GAMMA-00343,Dr. Martinez,oral,2023/06/08,discontinued
+5mg,12/12/2024,QD,MED-86680,Lisinopril,ALPHA-00228,Dr. Anderson,oral,10/11/2024,active
+300mg,04 Oct 2023,once daily,MED-65394,Gabapentin,GAMMA-00219,Dr. Young,oral,2023-08-29T00:00:00,on-hold
+100mg,2022-02-21,as needed,MED-55897,Gabapentin,ALPHA-00110,Dr. Perez,oral,2022-02-09,completed
+500mg,2022-09-21,twice daily,MED-15888,Metformin,BETA-00672,Dr. Miller,oral,09/17/2022,on-hold
+40mg,04-07-2023,PRN,MED-43569,Omeprazole,GAMMA-00793,Dr. Robinson,oral,05/29/2023,active
+20mg,01/30/2024,BID,MED-44365,Prednisone,BETA-00231,Dr. Johnson,oral,2023/12/15,discontinued
+50mg,08/21/2023,three times daily,MED-81548,Sertraline,GAMMA-00450,Dr. Kim,oral,2023-07-16,discontinued
+10mg,2024-06-13,as needed,MED-47825,Amlodipine,BETA-00028,Dr. Jones,oral,2024-06-01T00:00:00,discontinued
+10mg,08/07/2022,BID,MED-73377,Amlodipine,GAMMA-00433,Dr. Smith,oral,2022-06-11,active
+10mg,01/19/2023,BID,MED-73555,Atorvastatin,BETA-00393,Dr. Shah,oral,2023-01-12,active
+,,once daily,MED-31901,Albuterol,BETA-00691,Dr. Perez,inhaled,2023-12-29T00:00:00,active
+500mg,08-05-2023,twice daily,MED-37916,Metformin,GAMMA-00618,Dr. Moore,oral,17 Apr 2023,on-hold
+2mg,2024-10-06,QD,MED-28131,Warfarin,ALPHA-00220,Dr. Tanaka,oral,02 Sep 2024,completed
+20mg,04/17/2023,as needed,MED-97879,Lisinopril,GAMMA-00145,Dr. Williams,oral,2023-02-17,discontinued
+50/200mg,2023-02-09,once daily,MED-38041,Carbidopa-Levodopa,BETA-00029,Dr. Clark,oral,11/14/2022,completed
+80mg,07 Jul 2023,PRN,MED-48686,Atorvastatin,GAMMA-00704,Dr. King,oral,2023-04-27,on-hold
+90mcg,05/06/2023,QD,MED-93420,Albuterol,ALPHA-00405,Dr. Thomas,inhaled,2023-04-11,active
+25MCG,12/24/2022,TID,MED-78251,Levothyroxine,BETA-00274,Dr. Gonzalez,oral,10/18/2022,discontinued
+2.5mg,12/23/2024,three times daily,MED-82689,Amlodipine,GAMMA-00475,Dr. Martin,oral,12-12-2024,completed
+5mg,09/01/2023,BID,MED-66836,Amlodipine,BETA-00617,Dr. Smith,oral,06/27/2023,on-hold
+40 mg,04/29/2023,once daily,MED-34911,Lisinopril,GAMMA-00536,Dr. Allen,oral,04/01/2023,completed
+75mcg,10/18/2022,TID,MED-88935,Levothyroxine,ALPHA-00095,Dr. Patel,oral,"August 15, 2022",discontinued
+10mg,2024-11-16,as needed,MED-11459,Atorvastatin,BETA-00497,Dr. Schmidt,oral,09/18/2024,on-hold
+40mg,04/29/2022,QD,MED-22494,Lisinopril,GAMMA-00321,Dr. Perez,oral,2022-04-04,completed
+50mcg,01 Jun 2024,three times daily,MED-72294,Levothyroxine,BETA-00318,Dr. Williams,oral,19-04-2024,active
+90mcg,2024-06-16,TID,MED-84108,Albuterol,GAMMA-00194,Dr. Rodriguez,inhaled,04/29/2024,active
+80 MG,2023-07-09,three times daily,MED-39476,Furosemide,ALPHA-00668,Dr. Taylor,oral,09-06-2023,discontinued
+50mg,01/17/2024,twice daily,MED-66515,Sertraline,GAMMA-00231,Dr. Wang,oral,12/15/2023,completed
+500mg,,as needed,MED-58311,Metformin,GAMMA-00358,Dr. Patel,oral,2023-10-04,on-hold
+30 units,2023-09-27,BID,MED-12277,Insulin Glargine,GAMMA-00143,Dr. Rodriguez,subcutaneous,08/10/2023,active
+40mg,2023/06/05,once daily,MED-20515,Atorvastatin,ALPHA-00666,Dr. Miller,oral,"May 20, 2023",discontinued
+20mg,2023/05/09,TID,MED-26063,Omeprazole,GAMMA-00388,Dr. Kim,oral,2023-02-13,on-hold
+10mg,12/26/2023,TID,MED-16284,Amlodipine,ALPHA-00512,Dr. Harris,oral,11/13/2023,active
+10 units,19 Aug 2022,PRN,MED-46897,Insulin Glargine,GAMMA-00640,Dr. Martin,subcutaneous,2022-06-28,discontinued
+300mg,2025-03-10,twice daily,MED-18692,Gabapentin,GAMMA-00236,Dr. King,oral,2025-01-01,completed
+2.5mg,22 Jan 2025,three times daily,MED-89225,Amlodipine,GAMMA-00162,Dr. Tanaka,oral,12/11/2024,discontinued
+5mg,01/04/2024,QD,MED-29968,Warfarin,BETA-00763,Dr. Singh,oral,2023-10-06,on-hold
+5mg,,QD,MED-21117,Prednisone,GAMMA-00247,Dr. Johansson,oral,05/05/2022,active
+90mcg,,PRN,MED-79612,Albuterol,GAMMA-00776,Dr. Lewis,inhaled,2022-09-14T00:00:00,discontinued
+80mg,2022-03-21,BID,MED-45240,Atorvastatin,GAMMA-00375,Dr. Smith,oral,2022/01/17,active
+90mcg,2024-11-11T00:00:00,PRN,MED-59653,Albuterol,BETA-00352,Dr. Williams,inhaled,2024-10-27,on-hold
+50/200mg,03/30/2024,PRN,MED-92967,Carbidopa-Levodopa,ALPHA-00659,Dr. Wilson,oral,01/27/2024,completed
+20 units,12/21/2023,as needed,MED-53375,Insulin Glargine,ALPHA-00278,Dr. Jackson,subcutaneous,11/20/2023,discontinued
+180mcg,2024-12-02,as needed,MED-20630,Albuterol,ALPHA-00788,Dr. Harris,inhaled,2024-10-25,active
+850mg,08/30/2022,twice daily,MED-42775,Metformin,BETA-00646,Dr. Johansson,oral,25-06-2022,active
+20 units,2024-10-16T00:00:00,twice daily,MED-79526,Insulin Glargine,BETA-00083,Dr. Young,subcutaneous,16-09-2024,active
+25/100mg,,three times daily,MED-82039,Carbidopa-Levodopa,GAMMA-00505,Dr. Clark,oral,06/24/2023,completed
+40mg,12/03/2022,three times daily,MED-24127,Omeprazole,BETA-00776,Dr. Gonzalez,oral,"September 14, 2022",active
+10mg,2022/05/01,twice daily,MED-38630,Prednisone,GAMMA-00410,Dr. Tanaka,oral,04/13/2022,on-hold
+180mcg,"September 21, 2022",BID,MED-75880,Albuterol,BETA-00542,Dr. White,inhaled,2022/08/21,on-hold
+20mg,21-11-2024,QD,MED-72722,Lisinopril,GAMMA-00398,Dr. Miller,oral,2024-11-11T00:00:00,on-hold
+5mg,2022-07-12T00:00:00,PRN,MED-93678,Warfarin,BETA-00078,Dr. Patel,oral,15-06-2022,completed
+40mg,12/26/2023,PRN,MED-60991,Omeprazole,BETA-00047,Dr. Brown,oral,20-12-2023,discontinued
+180mcg,2022-08-10,twice daily,MED-58323,Albuterol,ALPHA-00561,Dr. Johansson,inhaled,19 May 2022,discontinued
+100mg,01/02/2024,as needed,MED-32314,Gabapentin,ALPHA-00161,Dr. Davis,oral,11 Nov 2023,on-hold
+40mg,18-12-2022,twice daily,MED-78226,Lisinopril,BETA-00472,Dr. Lee,oral,2022-11-16T00:00:00,completed
+75mcg,2023-09-12,once daily,MED-15306,Levothyroxine,BETA-00756,Dr. Thompson,oral,07/29/2023,on-hold
+300mg,27-03-2022,twice daily,MED-22492,Gabapentin,ALPHA-00508,Dr. Anderson,oral,19 Jan 2022,on-hold
+40mg,12/03/2023,QD,MED-74770,Omeprazole,BETA-00512,Dr. Rodriguez,oral,2023/11/13,on-hold
+2mg,02/05/2024,twice daily,MED-97802,Warfarin,ALPHA-00757,Dr. Brown,oral,10-01-2024,active
+850mg,10/01/2022,once daily,MED-96887,Metformin,ALPHA-00464,Dr. Ramirez,oral,2022-08-14,discontinued
+80mg,2025-01-02,twice daily,MED-44881,Furosemide,ALPHA-00552,Dr. Brown,oral,"November 05, 2024",active
+10 units,2022/08/01,QD,MED-47719,Insulin Glargine,ALPHA-00652,Dr. Lewis,subcutaneous,2022-07-12,active
+20 mg,"February 10, 2024",once daily,MED-79107,Furosemide,BETA-00262,Dr. Miller,oral,2024-01-04,active
+10mg,2024-02-18T00:00:00,BID,MED-97510,Amlodipine,BETA-00058,Dr. Gupta,oral,"January 12, 2024",discontinued
+10mg,,three times daily,MED-55897,Lisinopril,BETA-00283,Dr. Williams,oral,04/13/2022,on-hold
+80mg,28-07-2023,three times daily,MED-98250,Furosemide,BETA-00005,Dr. Sato,oral,2023-07-02T00:00:00,on-hold
+40mg,04 Jun 2022,twice daily,MED-89901,Atorvastatin,BETA-00521,Dr. Davis,oral,05 Apr 2022,on-hold
+30 units,06/18/2022,PRN,MED-50567,Insulin Glargine,BETA-00719,Dr. Robinson,subcutaneous,03/22/2022,discontinued
+20mg,,TID,MED-39892,Omeprazole,GAMMA-00515,Dr. Clark,oral,2022/01/08,on-hold
+25/100mg,2022-03-03,as needed,MED-41881,Carbidopa-Levodopa,BETA-00508,Dr. Garcia,oral,2022/01/18,completed
+20mg,2024/04/22,PRN,MED-62240,Prednisone,ALPHA-00075,Dr. Thomas,oral,2024-02-14T00:00:00,active
+600 mg,,once daily,MED-21192,Gabapentin,ALPHA-00079,Dr. Tanaka,oral,07/06/2022,on-hold
+5MG,13 Dec 2022,three times daily,MED-99186,Lisinopril,BETA-00030,Dr. Singh,oral,2022/11/23,discontinued
+2mg,25 Dec 2023,three times daily,MED-74497,Warfarin,ALPHA-00146,Dr. Sharma,oral,28-09-2023,completed
+500mg,,TID,MED-79224,Amoxicillin,ALPHA-00487,Dr. Clark,oral,03/03/2023,on-hold
+250mg,"October 22, 2023",three times daily,MED-17879,Amoxicillin,BETA-00735,Dr. Mueller,oral,2023-09-02,discontinued
+40mg,2022-11-07,twice daily,MED-24847,Omeprazole,GAMMA-00523,Dr. Lopez,oral,09/07/2022,on-hold
+2mg,,once daily,MED-43890,Warfarin,ALPHA-00258,Dr. Harris,oral,03-08-2022,active
+10mg,10/14/2023,TID,MED-58446,Prednisone,ALPHA-00603,Dr. Jones,oral,11-09-2023,completed
+25mcg,2022/07/30,PRN,MED-83146,Levothyroxine,GAMMA-00537,Dr. Singh,oral,07/20/2022,active
+100MG,10/02/2023,as needed,MED-37103,Gabapentin,ALPHA-00142,Dr. Thompson,oral,27-07-2023,completed
+20mg,2024-05-11,TID,MED-98270,Lisinopril,GAMMA-00418,Dr. Allen,oral,2024/02/15,active
+40mg,11/18/2022,BID,MED-99783,Omeprazole,BETA-00226,Dr. Garcia,oral,10/10/2022,on-hold
+500mg,09/21/2023,QD,MED-99578,Amoxicillin,GAMMA-00785,Dr. Smith,oral,2023/08/02,on-hold
+10mg,,three times daily,MED-80033,Lisinopril,GAMMA-00745,Dr. Taylor,oral,2024-06-12T00:00:00,discontinued
+30 units,"December 20, 2022",twice daily,MED-14089,Insulin Glargine,GAMMA-00624,Dr. Perez,subcutaneous,11/30/2022,completed
+250mg,,as needed,MED-58987,Amoxicillin,GAMMA-00276,Dr. Sharma,oral,21-09-2023,on-hold
+40mg,14-04-2023,QD,MED-72142,Atorvastatin,BETA-00179,Dr. Sanchez,oral,2023/02/21,completed
+500mg,2023/04/21,PRN,MED-68996,Amoxicillin,BETA-00004,Dr. Gupta,oral,04/13/2023,discontinued
+10mg,2022-02-24,once daily,MED-99024,Atorvastatin,GAMMA-00329,Dr. Gonzalez,oral,01/02/2022,on-hold
+30 units,10/17/2023,as needed,MED-21986,Insulin Glargine,BETA-00347,Dr. Smith,subcutaneous,2023-08-03,completed
+100mg,06/03/2022,TID,MED-87448,Sertraline,BETA-00455,Dr. Shah,oral,2022/03/29,on-hold
+90mcg,10/14/2022,as needed,MED-22301,Albuterol,GAMMA-00607,Dr. Hernandez,inhaled,02 Oct 2022,on-hold
+40mg,,TID,MED-17429,Atorvastatin,BETA-00635,Dr. Miller,oral,2024-07-10,discontinued
+10mg,,BID,MED-63792,Amlodipine,GAMMA-00753,Dr. Hernandez,oral,2024-09-21,discontinued
+90mcg,2025-01-07,PRN,MED-97462,Albuterol,GAMMA-00398,Dr. King,inhaled,11/12/2024,active
+600mg,2022/06/25,as needed,MED-11691,Gabapentin,BETA-00522,Dr. Wang,oral,11-05-2022,on-hold
+600mg,,TID,MED-16547,Gabapentin,ALPHA-00250,Dr. White,oral,28 Jan 2022,on-hold
+10 UNITS,2023/06/01,as needed,MED-78607,Insulin Glargine,GAMMA-00066,Dr. Moore,subcutaneous,2023/05/28,active
+25mcg,24-12-2022,QD,MED-55480,Levothyroxine,BETA-00148,Dr. Shah,oral,11/12/2022,on-hold
+25mcg,2023/11/28,as needed,MED-27723,Levothyroxine,ALPHA-00512,Dr. Patel,oral,2023-11-14T00:00:00,on-hold
+500mg,11/06/2023,twice daily,MED-32903,Metformin,ALPHA-00663,Dr. Patel,oral,10/30/2023,completed
+5mg,2022-10-31,once daily,MED-78936,Warfarin,GAMMA-00542,Dr. Perez,oral,2022-08-22,completed
+90mcg,,once daily,MED-56913,Albuterol,BETA-00204,Dr. Wilson,inhaled,"May 09, 2023",discontinued
+250mg,2022-10-06,three times daily,MED-12011,Amoxicillin,BETA-00776,Dr. Chen,oral,2022-09-14,active
+20 units,2025-02-19,once daily,MED-57477,Insulin Glargine,GAMMA-00236,Dr. Schmidt,subcutaneous,"December 30, 2024",discontinued
+25/100mg,,three times daily,MED-50776,Carbidopa-Levodopa,ALPHA-00324,Dr. White,oral,09/27/2022,discontinued
+90mcg,2024-08-31,once daily,MED-84068,Albuterol,ALPHA-00003,Dr. Martin,inhaled,2024-07-29,active
+10mg,2022-12-20T00:00:00,twice daily,MED-86684,Prednisone,BETA-00431,Dr. Kim,oral,11/18/2022,on-hold
+20 units,02/08/2025,TID,MED-61435,Insulin Glargine,GAMMA-00520,Dr. Brown,subcutaneous,2024-12-07,completed
+500mg,25 Jan 2022,PRN,MED-96336,Metformin,ALPHA-00373,Dr. Jackson,oral,01/04/2022,on-hold
+5mg,17 Nov 2022,as needed,MED-45186,Amlodipine,ALPHA-00776,Dr. Jones,oral,13-09-2022,active
+20 units,04/24/2024,once daily,MED-96588,Insulin Glargine,BETA-00754,Dr. Rodriguez,subcutaneous,09 Feb 2024,discontinued
+180mcg,2024-09-11,PRN,MED-33069,Albuterol,BETA-00518,Dr. White,inhaled,06/16/2024,completed
+20 units,08/15/2023,twice daily,MED-85890,Insulin Glargine,GAMMA-00720,Dr. Sato,subcutaneous,26-05-2023,completed
+180mcg,06/27/2024,QD,MED-40219,Albuterol,GAMMA-00125,Dr. Young,inhaled,22-06-2024,active
+600mg,2023-02-16,TID,MED-96393,Gabapentin,ALPHA-00690,Dr. Young,oral,01/31/2023,completed
+25mg,2022-09-15,three times daily,MED-63227,Sertraline,GAMMA-00338,Dr. Sato,oral,2022-08-07T00:00:00,discontinued
+10mg,2023/07/02,twice daily,MED-75964,Atorvastatin,GAMMA-00728,Dr. Shah,oral,2023-05-04,active
+5mg,22-08-2022,three times daily,MED-46977,Amlodipine,BETA-00580,Dr. Wang,oral,07/23/2022,on-hold
+1000mg,2023-02-06T00:00:00,QD,MED-48143,Metformin,BETA-00013,Dr. Lopez,oral,"December 06, 2022",discontinued
+40mg,2024-09-29T00:00:00,twice daily,MED-82358,Atorvastatin,BETA-00605,Dr. Wang,oral,07/17/2024,discontinued
+10mg,2024/03/18,QD,MED-86266,Amlodipine,GAMMA-00506,Dr. Lee,oral,26-12-2023,completed
+40mg,2023/07/26,PRN,MED-46710,Atorvastatin,GAMMA-00124,Dr. Mueller,oral,05/03/2023,completed
+40mg,11 May 2023,twice daily,MED-84332,Omeprazole,BETA-00229,Dr. Smith,oral,"April 08, 2023",discontinued
+40mg,12/17/2023,three times daily,MED-20301,Omeprazole,GAMMA-00037,Dr. King,oral,2023-11-19,on-hold
+500mg,21 Jul 2024,BID,MED-37985,Metformin,GAMMA-00044,Dr. Johnson,oral,2024-06-12,discontinued
+40mg,10-11-2023,once daily,MED-53565,Omeprazole,BETA-00663,Dr. Williams,oral,10/31/2023,on-hold
+30 units,08/13/2023,twice daily,MED-29813,Insulin Glargine,BETA-00412,Dr. Ramirez,subcutaneous,06/30/2023,completed
+20mg,2022-10-18T00:00:00,QD,MED-77590,Lisinopril,GAMMA-00374,Dr. Brown,oral,2022-07-20T00:00:00,active
+1000mg,03/09/2025,QD,MED-98208,Metformin,BETA-00313,Dr. Brown,oral,2024-12-10,discontinued
+20 mg,12-01-2024,PRN,MED-76554,Atorvastatin,BETA-00187,Dr. Jones,oral,2023-10-19,on-hold
+25/100mg,,three times daily,MED-17860,Carbidopa-Levodopa,BETA-00285,Dr. Kumar,oral,2024-08-22,active
+850mg,2023-10-12,PRN,MED-79920,Metformin,GAMMA-00765,Dr. Jones,oral,08/06/2023,active
+20mg,2024-09-19,PRN,MED-93551,Lisinopril,GAMMA-00129,Dr. Smith,oral,08/19/2024,active
+250mg,"November 01, 2023",twice daily,MED-17935,Amoxicillin,BETA-00182,Dr. White,oral,2023-08-13,discontinued
+20mg,,PRN,MED-13441,Furosemide,GAMMA-00328,Dr. Singh,oral,30-06-2022,active
+1000mg,11/14/2023,once daily,MED-37432,Metformin,ALPHA-00225,Dr. Sanchez,oral,2023-09-02,on-hold
+500mg,03 Sep 2023,BID,MED-93884,Metformin,BETA-00390,Dr. Tanaka,oral,2023-07-30,active
+10mg,12-11-2022,QD,MED-37834,Amlodipine,GAMMA-00658,Dr. Thompson,oral,2022-09-18,on-hold
+40mg,12/26/2024,BID,MED-92799,Omeprazole,BETA-00589,Dr. Gonzalez,oral,10/14/2024,discontinued
+20mg,19-05-2024,three times daily,MED-75929,Lisinopril,GAMMA-00119,Dr. Wang,oral,18-04-2024,on-hold
+20mg,04/12/2022,QD,MED-25410,Omeprazole,GAMMA-00455,Dr. Wang,oral,"March 28, 2022",discontinued
+250 mg,,three times daily,MED-99808,Amoxicillin,ALPHA-00262,Dr. Gonzalez,oral,01/05/2024,active
+5mg,"May 02, 2024",once daily,MED-15325,Amlodipine,GAMMA-00742,Dr. Shah,oral,2024-02-19,on-hold
+50/200mg,2024-12-28T00:00:00,three times daily,MED-34678,Carbidopa-Levodopa,GAMMA-00235,Dr. Brown,oral,2024-11-23,active
+80MG,11/04/2024,twice daily,MED-41983,Atorvastatin,ALPHA-00739,Dr. Thompson,oral,14-08-2024,active
+90mcg,10/14/2022,QD,MED-56493,Albuterol,GAMMA-00338,Dr. Jones,inhaled,08/09/2022,discontinued
+500mg,"December 16, 2022",three times daily,MED-89853,Amoxicillin,ALPHA-00743,Dr. Martinez,oral,2022-11-14T00:00:00,active
+40mg,,PRN,MED-22857,Omeprazole,GAMMA-00382,Dr. Perez,oral,2022-06-27T00:00:00,on-hold
+20mg,2022/06/19,as needed,MED-59504,Furosemide,ALPHA-00321,Dr. Moore,oral,2022-04-05,completed
+10mg,23-10-2023,TID,MED-23603,Prednisone,ALPHA-00049,Dr. Thompson,oral,2023-10-01,active
+40mg,10/16/2024,QD,MED-63447,Lisinopril,ALPHA-00694,Dr. Davis,oral,2024/09/03,completed
+50/200mg,2022-08-04,three times daily,MED-89447,Carbidopa-Levodopa,ALPHA-00306,Dr. Garcia,oral,04 Jul 2022,discontinued
+75mcg,09/10/2023,three times daily,MED-53985,Levothyroxine,GAMMA-00158,Dr. Schmidt,oral,07/28/2023,active
+100mg,"June 09, 2022",as needed,MED-39688,Sertraline,ALPHA-00308,Dr. Perez,oral,2022-04-21,active
+10mg,2023-04-14T00:00:00,once daily,MED-16064,Amlodipine,GAMMA-00700,Dr. Singh,oral,01/25/2023,on-hold
+500mg,09-08-2023,once daily,MED-49181,Metformin,GAMMA-00085,Dr. Hernandez,oral,2023/05/29,active
+40mg,08/18/2023,three times daily,MED-33926,Atorvastatin,ALPHA-00173,Dr. Anderson,oral,"June 11, 2023",on-hold
+80mg,2022-06-21T00:00:00,twice daily,MED-40456,Furosemide,ALPHA-00416,Dr. Sato,oral,2022/03/29,on-hold
+80mg,2023-04-22T00:00:00,as needed,MED-14106,Furosemide,BETA-00458,Dr. Thompson,oral,02/20/2023,discontinued
+25mg,,TID,MED-92671,Sertraline,BETA-00156,Dr. Young,oral,08/23/2024,discontinued
+25MCG,21 Jun 2024,BID,MED-46327,Levothyroxine,BETA-00222,Dr. Thompson,oral,2024-06-04,on-hold
+5mg,2023/10/19,once daily,MED-61852,Warfarin,ALPHA-00142,Dr. Kumar,oral,07/27/2023,discontinued
+40mg,11/23/2022,twice daily,MED-78448,Furosemide,GAMMA-00476,Dr. Sharma,oral,2022-11-13,on-hold
+600mg,12 Dec 2022,as needed,MED-91770,Gabapentin,BETA-00324,Dr. Johnson,oral,09/26/2022,on-hold
+10 units,2022/08/30,once daily,MED-70714,Insulin Glargine,GAMMA-00440,Dr. Mueller,subcutaneous,06/27/2022,discontinued
+10mg,2023-03-22,PRN,MED-25642,Atorvastatin,ALPHA-00388,Dr. Thompson,oral,2023-02-15,active
+180mcg,2023-04-14,TID,MED-95038,Albuterol,BETA-00711,Dr. Perez,inhaled,2023/01/22,discontinued
+40MG,2024-07-13,PRN,MED-89124,Omeprazole,GAMMA-00038,Dr. Patel,oral,2024-04-28,active
+325mg,,once daily,MED-42981,Aspirin,ALPHA-00691,Dr. Hernandez,oral,12/29/2023,active
+80mg,24 Nov 2023,once daily,MED-13017,Atorvastatin,BETA-00121,Dr. Young,oral,11/05/2023,discontinued
+500mg,2022-06-12,twice daily,MED-67910,Metformin,GAMMA-00702,Dr. Jones,oral,2022-05-15T00:00:00,completed
+80mg,,QD,MED-11177,Furosemide,ALPHA-00347,Dr. Tanaka,oral,2023-08-04T00:00:00,on-hold
+20 mg,2023-07-28T00:00:00,PRN,MED-11575,Omeprazole,GAMMA-00130,Dr. Davis,oral,04-05-2023,completed
+10mg,18-12-2023,QD,MED-44935,Lisinopril,ALPHA-00146,Dr. Harris,oral,2023-09-26,discontinued
+2.5MG,2024-03-15,TID,MED-93020,Amlodipine,ALPHA-00290,Dr. Harris,oral,03/06/2024,on-hold
+20mg,2024-06-17T00:00:00,TID,MED-47227,Omeprazole,GAMMA-00188,Dr. Sato,oral,05/25/2024,discontinued
+20 units,2022-06-30T00:00:00,twice daily,MED-64397,Insulin Glargine,GAMMA-00116,Dr. Tanaka,subcutaneous,2022-04-29T00:00:00,completed
+10mg,03-11-2022,TID,MED-42405,Atorvastatin,BETA-00035,Dr. Sato,oral,2022-09-20,discontinued
+20mg,01/04/2025,BID,MED-14397,Prednisone,ALPHA-00105,Dr. Kim,oral,12/22/2024,discontinued
+90mcg,10/25/2023,three times daily,MED-56152,Albuterol,GAMMA-00390,Dr. Johnson,inhaled,07/28/2023,discontinued
+20mg,2024-09-15,BID,MED-18844,Omeprazole,BETA-00610,Dr. Martin,oral,19-07-2024,on-hold
+20mg,06-12-2024,PRN,MED-26175,Prednisone,BETA-00198,Dr. Rodriguez,oral,09/27/2024,on-hold
+90mcg,"May 14, 2024",BID,MED-87610,Albuterol,GAMMA-00073,Dr. Park,inhaled,2024/02/26,on-hold
+20mg,2022-07-04T00:00:00,as needed,MED-68085,Omeprazole,GAMMA-00707,Dr. Jones,oral,06/19/2022,completed
+100mg,01/31/2023,as needed,MED-83193,Gabapentin,ALPHA-00502,Dr. Wang,oral,"November 07, 2022",discontinued
+20MG,,TID,MED-86679,Furosemide,ALPHA-00628,Dr. Ramirez,oral,30 Aug 2023,active
+50mg,2022-09-26T00:00:00,BID,MED-73462,Sertraline,BETA-00776,Dr. Jackson,oral,09/13/2022,on-hold
+1000mg,2024-09-25,PRN,MED-94941,Metformin,ALPHA-00009,Dr. Moore,oral,18-08-2024,on-hold
+5mg,2023-11-01,twice daily,MED-62069,Lisinopril,ALPHA-00406,Dr. Chen,oral,08/11/2023,active
+50mcg,09 Apr 2022,QD,MED-15913,Levothyroxine,ALPHA-00230,Dr. Allen,oral,03/27/2022,on-hold
+20mg,12/13/2024,once daily,MED-51212,Omeprazole,ALPHA-00753,Dr. Lewis,oral,21-09-2024,completed
+1000MG,2023-12-16T00:00:00,as needed,MED-49648,Metformin,GAMMA-00161,Dr. White,oral,2023-11-10,on-hold
+180mcg,10/03/2022,TID,MED-59891,Albuterol,ALPHA-00192,Dr. Johansson,inhaled,2022-08-29,discontinued
+25mg,08/18/2024,BID,MED-70785,Sertraline,ALPHA-00557,Dr. Clark,oral,2024-05-20T00:00:00,on-hold
+100mg,10/23/2024,three times daily,MED-12653,Gabapentin,BETA-00237,Dr. Davis,oral,22-09-2024,discontinued
+90mcg,2024/06/20,TID,MED-56531,Albuterol,BETA-00355,Dr. Mueller,inhaled,"April 27, 2024",active
+500mg,2022/09/15,twice daily,MED-76014,Amoxicillin,BETA-00599,Dr. Gonzalez,oral,2022-09-09,completed
+30 units,2023-06-24,QD,MED-98844,Insulin Glargine,GAMMA-00255,Dr. Shah,subcutaneous,04/04/2023,on-hold
+1MG,,TID,MED-92479,Warfarin,ALPHA-00746,Dr. Thompson,oral,2024-09-06,completed
+2.5mg,2023-11-04,BID,MED-49463,Amlodipine,BETA-00143,Dr. Park,oral,2023-08-08,discontinued
+1mg,2024-01-31,as needed,MED-54560,Warfarin,BETA-00512,Dr. Miller,oral,2023-11-15T00:00:00,completed
+20 units,14-12-2023,three times daily,MED-75357,Insulin Glargine,ALPHA-00550,Dr. Martin,subcutaneous,10/12/2023,completed
+500mg,08/17/2023,as needed,MED-62736,Amoxicillin,BETA-00793,Dr. Shah,oral,2023-05-28,completed
+5mg,07 Aug 2022,as needed,MED-18395,Warfarin,BETA-00436,Dr. Shah,oral,06/20/2022,discontinued
+40mg,2023-11-23T00:00:00,three times daily,MED-89856,Lisinopril,GAMMA-00151,Dr. Thompson,oral,2023/09/12,on-hold
+10 units,2024-08-25,QD,MED-47933,Insulin Glargine,GAMMA-00424,Dr. Garcia,subcutaneous,08/18/2024,on-hold
+180mcg,02/12/2025,once daily,MED-78276,Albuterol,BETA-00684,Dr. Martinez,inhaled,"December 28, 2024",completed
+5mg,,twice daily,MED-32487,Prednisone,ALPHA-00716,Dr. Johansson,oral,01/25/2022,discontinued
+25/100mg,18-05-2024,QD,MED-90871,Carbidopa-Levodopa,ALPHA-00413,Dr. Young,oral,03/01/2024,active
+500mg,22-02-2024,PRN,MED-78402,Metformin,GAMMA-00586,Dr. Gupta,oral,2024-01-03,active
+10mg,2023-06-03T00:00:00,TID,MED-94524,Prednisone,GAMMA-00780,Dr. Jackson,oral,21 Mar 2023,on-hold
+30 units,10/07/2022,PRN,MED-22437,Insulin Glargine,ALPHA-00035,Dr. Thomas,subcutaneous,09/19/2022,completed
+180mcg,19 Feb 2022,once daily,MED-18354,Albuterol,BETA-00329,Dr. Wilson,inhaled,2022-01-03T00:00:00,on-hold
+2mg,04/26/2024,as needed,MED-71316,Warfarin,BETA-00073,Dr. Allen,oral,02/27/2024,completed
+2.5mg,2023-04-17,once daily,MED-99077,Amlodipine,ALPHA-00718,Dr. Shah,oral,02/20/2023,active
+40mg,"August 17, 2022",once daily,MED-24533,Omeprazole,ALPHA-00478,Dr. Taylor,oral,31 Jul 2022,discontinued
+2mg,2024-06-20,PRN,MED-56920,Warfarin,ALPHA-00163,Dr. White,oral,05/09/2024,completed
+90mcg,10/28/2022,as needed,MED-23651,Albuterol,BETA-00488,Dr. Lewis,inhaled,2022/08/25,on-hold
+40mg,2023-04-07,QD,MED-36701,Omeprazole,ALPHA-00255,Dr. Ramirez,oral,04/04/2023,on-hold
+20mg,2022-04-04,BID,MED-84112,Prednisone,ALPHA-00416,Dr. Walker,oral,03/28/2022,on-hold
+25mcg,09-02-2024,twice daily,MED-26748,Levothyroxine,ALPHA-00070,Dr. Wilson,oral,2024-01-12,completed
+10mg,11/29/2022,three times daily,MED-68379,Lisinopril,ALPHA-00616,Dr. Lopez,oral,10/19/2022,on-hold
+100mg,01/28/2025,QD,MED-52961,Gabapentin,GAMMA-00684,Dr. Miller,oral,27 Dec 2024,completed
+10MG,2024-03-23,twice daily,MED-65791,Prednisone,ALPHA-00335,Dr. Sanchez,oral,02/29/2024,completed
+5mg,28-09-2024,as needed,MED-80186,Prednisone,GAMMA-00703,Dr. Robinson,oral,17-09-2024,discontinued
+180mcg,10 Jun 2023,TID,MED-31487,Albuterol,GAMMA-00066,Dr. Lopez,inhaled,2023-05-29,discontinued
+,2022/09/29,PRN,MED-61434,Metformin,ALPHA-00317,Dr. Lewis,oral,05-08-2022,on-hold
+75 mcg,07/10/2022,three times daily,MED-37467,Levothyroxine,BETA-00339,Dr. Hernandez,oral,05/08/2022,on-hold
+5 mg,2023-05-04T00:00:00,BID,MED-97223,Warfarin,GAMMA-00647,Dr. Schmidt,oral,13 Apr 2023,active
+1000mg,2023/04/10,as needed,MED-26855,Metformin,GAMMA-00135,Dr. Young,oral,2023-02-13,active
+30 units,11/06/2022,three times daily,MED-35911,Insulin Glargine,ALPHA-00274,Dr. Gupta,subcutaneous,20 Oct 2022,completed
+20mg,2024-10-13,three times daily,MED-42178,Atorvastatin,BETA-00269,Dr. Johansson,oral,19-09-2024,on-hold
+1mg,10/03/2023,QD,MED-79670,Warfarin,GAMMA-00765,Dr. Sanchez,oral,08/06/2023,on-hold
+1mg,04-11-2023,TID,MED-24632,Warfarin,BETA-00111,Dr. Schmidt,oral,2023-10-30T00:00:00,completed
+5mg,10/10/2024,twice daily,MED-79889,Warfarin,ALPHA-00156,Dr. Moore,oral,2024-08-22T00:00:00,active
+100mcg,2024-05-31,PRN,MED-96395,Levothyroxine,ALPHA-00484,Dr. Rodriguez,oral,2024-03-13,completed
+90mcg,"August 06, 2022",three times daily,MED-18887,Albuterol,ALPHA-00580,Dr. Garcia,inhaled,07/25/2022,active
+40mg,2023-09-04,QD,MED-68570,Atorvastatin,BETA-00086,Dr. King,oral,08/28/2023,on-hold
+30 units,11/27/2022,twice daily,MED-96536,Insulin Glargine,GAMMA-00431,Dr. Johnson,subcutaneous,2022-11-16,discontinued
+5mg,25 Aug 2024,three times daily,MED-39354,Prednisone,ALPHA-00499,Dr. Thomas,oral,08/20/2024,discontinued
+1mg,2024-11-01,three times daily,MED-83708,Warfarin,GAMMA-00122,Dr. Thomas,oral,2024-09-22T00:00:00,on-hold
+100mg,2022-05-07T00:00:00,TID,MED-13378,Gabapentin,ALPHA-00350,Dr. White,oral,2022-03-20,active
+600mg,2024-01-21,once daily,MED-82458,Gabapentin,GAMMA-00712,Dr. Thomas,oral,2023-12-30T00:00:00,on-hold
+50mg,09/01/2023,QD,MED-67275,Sertraline,BETA-00054,Dr. Clark,oral,2023-07-22T00:00:00,on-hold
+50mcg,2023-11-17T00:00:00,as needed,MED-44840,Levothyroxine,BETA-00763,Dr. Tanaka,oral,10/04/2023,active
+10mg,09/26/2024,twice daily,MED-75547,Amlodipine,GAMMA-00714,Dr. Shah,oral,08/31/2024,completed
+20mg,26-08-2022,as needed,MED-23742,Omeprazole,BETA-00726,Dr. Sato,oral,10-06-2022,discontinued
+20 units,10/15/2024,twice daily,MED-22160,Insulin Glargine,GAMMA-00532,Dr. Park,subcutaneous,2024-09-19T00:00:00,on-hold
+40mg,2024/03/01,BID,MED-40876,Atorvastatin,ALPHA-00175,Dr. Davis,oral,27 Feb 2024,completed
+50/200mg,03 Sep 2024,PRN,MED-89092,Carbidopa-Levodopa,ALPHA-00186,Dr. Sato,oral,06/17/2024,discontinued
+50/200mg,2023-09-18,three times daily,MED-43254,Carbidopa-Levodopa,GAMMA-00590,Dr. Sharma,oral,2023-09-01T00:00:00,discontinued
+20mg,05/01/2024,QD,MED-73753,Omeprazole,GAMMA-00413,Dr. Gupta,oral,2024-02-29T00:00:00,discontinued
+40mg,2023-05-18T00:00:00,once daily,MED-69719,Omeprazole,ALPHA-00517,Dr. Sanchez,oral,22 Feb 2023,active
+1mg,"June 19, 2022",three times daily,MED-11595,Warfarin,ALPHA-00561,Dr. Hernandez,oral,05/17/2022,active
+30 units,2024-11-06,twice daily,MED-25524,Insulin Glargine,GAMMA-00746,Dr. Singh,subcutaneous,"September 07, 2024",on-hold
+1mg,09/02/2024,as needed,MED-82985,Warfarin,GAMMA-00518,Dr. Ramirez,oral,2024-06-17,active
+80mg,11/04/2022,BID,MED-30728,Atorvastatin,ALPHA-00275,Dr. Smith,oral,2022/10/07,on-hold
+100mg,10-01-2023,TID,MED-95971,Gabapentin,BETA-00616,Dr. Ramirez,oral,18 Oct 2022,completed
+100mg,"July 14, 2022",QD,MED-98883,Sertraline,ALPHA-00705,Dr. Perez,oral,06/24/2022,active
+20mg,2024-04-10,PRN,MED-39189,Atorvastatin,BETA-00742,Dr. Johnson,oral,02/21/2024,on-hold
+500mg,08/14/2022,twice daily,MED-14768,Metformin,ALPHA-00537,Dr. Tanaka,oral,21 Jul 2022,on-hold
+5mg,28 Apr 2023,twice daily,MED-43571,Warfarin,BETA-00238,Dr. Robinson,oral,2023/02/19,active
+20mg,03 Jun 2023,once daily,MED-35760,Prednisone,ALPHA-00280,Dr. Hernandez,oral,04/09/2023,completed
+1mg,25 Mar 2024,twice daily,MED-18994,Warfarin,BETA-00344,Dr. Johnson,oral,01/04/2024,active
+40mg,06 Dec 2023,TID,MED-87539,Omeprazole,BETA-00276,Dr. Clark,oral,09/22/2023,completed
+40mg,28 May 2022,twice daily,MED-37785,Furosemide,GAMMA-00022,Dr. Gonzalez,oral,25 Mar 2022,on-hold
+20 mg,2024-04-20,three times daily,MED-71517,Lisinopril,GAMMA-00407,Dr. Robinson,oral,2024-02-05,discontinued
+50/200mg,2023-06-02T00:00:00,twice daily,MED-73557,Carbidopa-Levodopa,BETA-00041,Dr. Brown,oral,"May 07, 2023",active
+500mg,"April 28, 2022",BID,MED-93005,Metformin,GAMMA-00416,Dr. Williams,oral,2022-03-29T00:00:00,on-hold
+100mg,2022-07-21,BID,MED-94279,Sertraline,ALPHA-00446,Dr. Garcia,oral,05/07/2022,on-hold
+25/100mg,2023-06-13,TID,MED-39933,Carbidopa-Levodopa,GAMMA-00218,Dr. Lee,oral,04/01/2023,active
+10mg,04/22/2024,as needed,MED-21420,Amlodipine,BETA-00271,Dr. Lopez,oral,07 Mar 2024,on-hold
+500mg,"December 21, 2024",once daily,MED-38056,Amoxicillin,ALPHA-00648,Dr. Smith,oral,11/25/2024,discontinued
+80mg,,as needed,MED-66645,Atorvastatin,ALPHA-00063,Dr. Chen,oral,2024-08-22T00:00:00,completed
+25mcg,10-11-2023,as needed,MED-44708,Levothyroxine,ALPHA-00146,Dr. Mueller,oral,2023-09-26T00:00:00,discontinued
+40mg,2024-02-29T00:00:00,BID,MED-51301,Lisinopril,ALPHA-00132,Dr. Johnson,oral,01/11/2024,discontinued
+20mg,2024-05-04T00:00:00,twice daily,MED-34425,Prednisone,ALPHA-00355,Dr. Clark,oral,2024-04-25,completed
+10mg,06-02-2022,BID,MED-58866,Amlodipine,ALPHA-00084,Dr. Chen,oral,2022-01-19,active
+20mg,2022-04-28,PRN,MED-46877,Omeprazole,BETA-00126,Dr. Anderson,oral,2022-04-17,discontinued
+850mg,2023-03-15,as needed,MED-60030,Metformin,GAMMA-00179,Dr. Kumar,oral,02/21/2023,active
+25/100mg,06/10/2023,BID,MED-84045,Carbidopa-Levodopa,ALPHA-00766,Dr. Schmidt,oral,2023-03-18T00:00:00,on-hold
+80mg,2024-11-05,three times daily,MED-47488,Furosemide,ALPHA-00377,Dr. Rodriguez,oral,09/17/2024,completed
+,08/13/2023,once daily,MED-48624,Atorvastatin,GAMMA-00505,Dr. King,oral,2023-06-24T00:00:00,completed
+2.5mg,2024-11-18,QD,MED-21833,Amlodipine,GAMMA-00155,Dr. Kumar,oral,"October 17, 2024",on-hold
+40mg,"January 19, 2024",three times daily,MED-94904,Atorvastatin,BETA-00712,Dr. Brown,oral,12/29/2023,completed
+10mg,2022-12-02,once daily,MED-18747,Prednisone,ALPHA-00303,Dr. Tanaka,oral,11/06/2022,active
+500mg,04 Feb 2023,TID,MED-99339,Amoxicillin,BETA-00476,Dr. Kim,oral,2022-11-12T00:00:00,discontinued
+25mg,2023-03-31,QD,MED-22479,Sertraline,BETA-00665,Dr. Jackson,oral,2023/02/01,active
+500mg,2025/02/09,twice daily,MED-19470,Metformin,GAMMA-00468,Dr. Sharma,oral,12/02/2024,active
+1mg,04/26/2023,once daily,MED-55803,Warfarin,ALPHA-00740,Dr. Shah,oral,02/17/2023,active
+250mg,2022-05-29T00:00:00,three times daily,MED-48785,Amoxicillin,BETA-00252,Dr. Schmidt,oral,26-04-2022,completed
+50/200mg,12 Nov 2022,BID,MED-50082,Carbidopa-Levodopa,BETA-00214,Dr. Sanchez,oral,24-08-2022,discontinued
+10mg,2022-07-23,TID,MED-87458,Prednisone,ALPHA-00750,Dr. Young,oral,07/19/2022,on-hold
+180mcg,07/18/2023,once daily,MED-55954,Albuterol,BETA-00772,Dr. Singh,inhaled,2023-05-11,discontinued
+100mg,2024-09-07,TID,MED-46451,Gabapentin,BETA-00125,Dr. Singh,oral,2024-06-21T00:00:00,completed
+180mcg,11/18/2024,QD,MED-89743,Albuterol,ALPHA-00746,Dr. Mueller,inhaled,2024-09-06T00:00:00,on-hold
+5mg,2023-04-21,PRN,MED-61941,Lisinopril,ALPHA-00748,Dr. Gupta,oral,22-01-2023,completed
+20mg,2025-02-03,TID,MED-19317,Atorvastatin,ALPHA-00468,Dr. Thomas,oral,2024-12-02T00:00:00,on-hold
+100mg,10/15/2023,PRN,MED-12758,Gabapentin,GAMMA-00466,Dr. Hernandez,oral,"July 19, 2023",active
+50/200mg,04/08/2022,TID,MED-96312,Carbidopa-Levodopa,BETA-00084,Dr. Perez,oral,01/18/2022,completed
+2.5mg,07/22/2022,TID,MED-58360,Amlodipine,GAMMA-00543,Dr. Jackson,oral,24 Apr 2022,on-hold
+100mg,26-07-2022,PRN,MED-23453,Gabapentin,GAMMA-00702,Dr. Ramirez,oral,"May 13, 2022",active
+20mg,2022/04/19,PRN,MED-92497,Omeprazole,GAMMA-00521,Dr. Brown,oral,06 Apr 2022,active
+50mcg,21 Nov 2024,TID,MED-76447,Levothyroxine,ALPHA-00026,Dr. Garcia,oral,09/28/2024,completed
+5MG,,once daily,MED-63402,Warfarin,BETA-00150,Dr. Lee,oral,2022-03-27,completed
+50/200mg,2023/08/16,PRN,MED-56066,Carbidopa-Levodopa,ALPHA-00485,Dr. Shah,oral,2023-08-03T00:00:00,on-hold
+25/100mg,08/02/2022,BID,MED-73885,Carbidopa-Levodopa,BETA-00261,Dr. Chen,oral,03 Jun 2022,on-hold
+20MG,02/04/2022,once daily,MED-84754,Furosemide,BETA-00242,Dr. Martinez,oral,2022-01-19,discontinued
+300mg,2023/04/11,twice daily,MED-62113,Gabapentin,BETA-00711,Dr. Johnson,oral,2023-01-22,completed
+90mcg,19-06-2023,three times daily,MED-68144,Albuterol,ALPHA-00731,Dr. Hernandez,inhaled,03/28/2023,discontinued
+30 units,2024-03-25,as needed,MED-65095,Insulin Glargine,ALPHA-00659,Dr. Patel,subcutaneous,2024-01-27,on-hold
+20mg,"November 02, 2024",twice daily,MED-27285,Furosemide,GAMMA-00733,Dr. Clark,oral,2024-09-16,on-hold
+50mg,02 Nov 2024,three times daily,MED-13733,Sertraline,GAMMA-00152,Dr. Young,oral,2024-08-11,completed
+1000 mg,09/19/2023,three times daily,MED-70078,Metformin,BETA-00680,Dr. Thompson,oral,2023-09-13,on-hold
+10 units,27-04-2024,as needed,MED-39639,Insulin Glargine,GAMMA-00755,Dr. Wang,subcutaneous,03/27/2024,on-hold
+250mg,10/06/2022,PRN,MED-18783,Amoxicillin,ALPHA-00749,Dr. Patel,oral,2022-08-13,completed
+5mg,23-12-2023,BID,MED-54987,Prednisone,BETA-00123,Dr. Clark,oral,11/22/2023,completed
+600 mg,2024-03-01T00:00:00,PRN,MED-69090,Gabapentin,GAMMA-00322,Dr. Smith,oral,2023-12-03T00:00:00,discontinued
+50 mg,01 Dec 2024,BID,MED-17982,Sertraline,ALPHA-00593,Dr. Sanchez,oral,19-10-2024,active
+5mg,,BID,MED-56447,Prednisone,GAMMA-00468,Dr. Johansson,oral,2024-12-02,on-hold
+500mg,2022-07-11T00:00:00,as needed,MED-90148,Metformin,GAMMA-00561,Dr. Lopez,oral,2022-05-17,on-hold
+25mg,,QD,MED-33620,Sertraline,BETA-00051,Dr. Chen,oral,05/11/2024,on-hold
+5mg,2023-03-24,as needed,MED-73453,Amlodipine,GAMMA-00738,Dr. Martin,oral,30-01-2023,completed
+10 mg,09/02/2024,as needed,MED-52107,Lisinopril,BETA-00518,Dr. Thomas,oral,16 Jun 2024,completed
+180mcg,2023-02-02T00:00:00,twice daily,MED-40522,Albuterol,GAMMA-00393,Dr. Wang,inhaled,14 Jan 2023,discontinued
+2.5mg,05-09-2024,QD,MED-91137,Amlodipine,ALPHA-00125,Dr. Chen,oral,2024-06-22,discontinued
+100mg,11/22/2023,BID,MED-99002,Sertraline,GAMMA-00170,Dr. Schmidt,oral,10/21/2023,on-hold
+40mg,08/26/2024,PRN,MED-25795,Omeprazole,GAMMA-00044,Dr. Lewis,oral,"June 12, 2024",active
+30 units,2023-11-09T00:00:00,QD,MED-64914,Insulin Glargine,GAMMA-00545,Dr. Jackson,subcutaneous,08/15/2023,discontinued
+10 units,2024-03-10T00:00:00,three times daily,MED-63004,Insulin Glargine,GAMMA-00211,Dr. Perez,subcutaneous,2024-01-11T00:00:00,discontinued
+500mg,03/05/2023,QD,MED-79634,Metformin,ALPHA-00011,Dr. Rodriguez,oral,12-02-2023,active
+20mg,06 Jun 2022,BID,MED-46608,Furosemide,ALPHA-00543,Dr. Ramirez,oral,2022-04-23T00:00:00,active
+10mg,2022-07-09T00:00:00,QD,MED-67004,Prednisone,ALPHA-00631,Dr. Young,oral,06/10/2022,active
+20mg,2023-10-17,three times daily,MED-65469,Lisinopril,BETA-00756,Dr. Young,oral,27-07-2023,active
+100mg,23-03-2023,as needed,MED-92605,Sertraline,GAMMA-00700,Dr. White,oral,01/25/2023,completed
+100mg,2023-05-02,twice daily,MED-83736,Gabapentin,ALPHA-00462,Dr. Patel,oral,2023-03-23T00:00:00,active
+20mg,,three times daily,MED-62145,Lisinopril,GAMMA-00007,Dr. Mueller,oral,07/28/2024,active
+100MG,2023-09-17,once daily,MED-62224,Gabapentin,ALPHA-00622,Dr. Davis,oral,07/07/2023,active
+80mg,2023-05-28,BID,MED-48159,Atorvastatin,GAMMA-00462,Dr. Young,oral,2023-03-21,active
+40mg,2024/06/19,PRN,MED-61637,Omeprazole,BETA-00496,Dr. Gupta,oral,05/21/2024,completed
+250mg,2024-05-05,QD,MED-52351,Amoxicillin,BETA-00443,Dr. Park,oral,2024-03-07T00:00:00,on-hold
+10mg,03 Dec 2023,TID,MED-92007,Lisinopril,BETA-00663,Dr. Mueller,oral,10/31/2023,discontinued
+10MG,06/23/2022,QD,MED-92818,Amlodipine,BETA-00570,Dr. Shah,oral,05/17/2022,completed
+20mg,2024-07-15,twice daily,MED-28951,Omeprazole,ALPHA-00139,Dr. Kim,oral,07/05/2024,discontinued
+20mg,2023/12/14,QD,MED-54022,Omeprazole,ALPHA-00234,Dr. Moore,oral,23-10-2023,active
+1mg,11/09/2024,as needed,MED-33525,Warfarin,ALPHA-00588,Dr. Moore,oral,2024-08-21T00:00:00,completed
+40mg,12/01/2024,QD,MED-36484,Atorvastatin,GAMMA-00559,Dr. Lopez,oral,10/01/2024,active
+25/100mg,20-12-2023,QD,MED-76433,Carbidopa-Levodopa,GAMMA-00383,Dr. Walker,oral,2023/12/16,active
+10mg,27 Jul 2024,TID,MED-85367,Lisinopril,GAMMA-00676,Dr. Jackson,oral,2024/07/18,completed
+250mg,10/28/2022,as needed,MED-31500,Amoxicillin,ALPHA-00214,Dr. White,oral,22-08-2022,active
+5mg,18 May 2023,twice daily,MED-87077,Lisinopril,GAMMA-00487,Dr. Jones,oral,03/05/2023,active
+75mcg,19-08-2023,QD,MED-52252,Levothyroxine,GAMMA-00401,Dr. Wilson,oral,2023-06-01,discontinued
+10mg,08/27/2022,once daily,MED-37228,Prednisone,GAMMA-00263,Dr. Walker,oral,07/07/2022,active
+25mcg,07/22/2024,twice daily,MED-25033,Levothyroxine,GAMMA-00197,Dr. Robinson,oral,04/25/2024,on-hold
+500mg,10 Jan 2025,three times daily,MED-12849,Metformin,ALPHA-00008,Dr. Shah,oral,11/11/2024,completed
+40mg,12/17/2022,TID,MED-95503,Furosemide,ALPHA-00109,Dr. Shah,oral,09/24/2022,on-hold
+40mg,2022-06-17T00:00:00,twice daily,MED-24400,Furosemide,BETA-00726,Dr. Singh,oral,09-06-2022,completed
+10mg,11-09-2022,QD,MED-95415,Atorvastatin,BETA-00498,Dr. Martinez,oral,"July 03, 2022",active
+10mg,05/27/2022,QD,MED-54436,Lisinopril,ALPHA-00350,Dr. Williams,oral,03/20/2022,active
+,03/26/2024,PRN,MED-18600,Sertraline,GAMMA-00454,Dr. Mueller,oral,2024-02-21,discontinued
+25mcg,"November 10, 2023",once daily,MED-17658,Levothyroxine,ALPHA-00680,Dr. Sanchez,oral,2023-09-15,completed
+300mg,2022-09-21,TID,MED-91200,Gabapentin,ALPHA-00221,Dr. Lopez,oral,2022-08-14,completed
+1000mg,03-10-2023,BID,MED-62978,Metformin,ALPHA-00660,Dr. Patel,oral,17-09-2023,completed
+10mg,10/04/2022,three times daily,MED-44355,Amlodipine,ALPHA-00338,Dr. Young,oral,08/07/2022,discontinued
+1000mg,2024/08/08,TID,MED-25017,Metformin,BETA-00125,Dr. Schmidt,oral,22-06-2024,on-hold
+40mg,07/06/2023,three times daily,MED-94742,Lisinopril,BETA-00505,Dr. Rodriguez,oral,2023-06-23T00:00:00,active
+20mg,2023-12-30,BID,MED-82019,Omeprazole,GAMMA-00441,Dr. Thompson,oral,13-11-2023,discontinued
+500mg,05/24/2022,as needed,MED-46838,Amoxicillin,GAMMA-00553,Dr. Singh,oral,2022-03-26T00:00:00,completed
+25/100 mg,2022-03-24T00:00:00,PRN,MED-53717,Carbidopa-Levodopa,BETA-00778,Dr. Martin,oral,2022/01/03,active
+2.5mg,,twice daily,MED-71335,Amlodipine,ALPHA-00703,Dr. Park,oral,2024-09-17,completed
+300mg,03/02/2024,three times daily,MED-30770,Gabapentin,GAMMA-00211,Dr. Anderson,oral,10-01-2024,discontinued
+10mg,02/18/2022,QD,MED-90699,Lisinopril,GAMMA-00373,Dr. Gonzalez,oral,03-01-2022,active
+20 mg,,BID,MED-73808,Omeprazole,ALPHA-00771,Dr. White,oral,2024-08-30T00:00:00,discontinued
+90mcg,2024/02/04,twice daily,MED-45117,Albuterol,ALPHA-00070,Dr. Taylor,inhaled,13-01-2024,discontinued
+1000mg,2024-10-05,BID,MED-11883,Metformin,GAMMA-00117,Dr. Johnson,oral,07/12/2024,on-hold
+50mcg,"March 14, 2023",BID,MED-66633,Levothyroxine,ALPHA-00718,Dr. Sanchez,oral,20 Feb 2023,active
+40mg,2024-09-12T00:00:00,once daily,MED-78630,Furosemide,ALPHA-00270,Dr. Allen,oral,2024-08-25T00:00:00,on-hold
+90mcg,04/28/2024,BID,MED-72121,Albuterol,GAMMA-00471,Dr. Shah,inhaled,03/24/2024,discontinued
+10 units,10/09/2023,three times daily,MED-69099,Insulin Glargine,BETA-00470,Dr. Gonzalez,subcutaneous,31 Jul 2023,on-hold
+100mcg,12/31/2024,once daily,MED-37759,Levothyroxine,ALPHA-00457,Dr. Anderson,oral,10/23/2024,on-hold
+40mg,2022-09-14T00:00:00,BID,MED-32067,Furosemide,ALPHA-00192,Dr. Patel,oral,2022/08/29,completed
+20mg,2024-02-07T00:00:00,three times daily,MED-91467,Furosemide,BETA-00563,Dr. Hernandez,oral,2024-01-12,discontinued
+100mg,,as needed,MED-58015,Sertraline,BETA-00515,Dr. Tanaka,oral,01/08/2022,on-hold
+5mg,2024-03-17,once daily,MED-35758,Lisinopril,BETA-00076,Dr. Kumar,oral,02/21/2024,discontinued
+30 units,24-04-2022,once daily,MED-30200,Insulin Glargine,BETA-00477,Dr. Jones,subcutaneous,18 Mar 2022,discontinued
+40mg,"September 22, 2023",TID,MED-21327,Furosemide,ALPHA-00603,Dr. Martinez,oral,09/09/2023,discontinued
+40mg,2024/09/01,TID,MED-83488,Atorvastatin,ALPHA-00541,Dr. Williams,oral,08/12/2024,completed
+40 mg,22 Oct 2023,twice daily,MED-95359,Furosemide,BETA-00545,Dr. Wilson,oral,08/16/2023,completed
+1000MG,2022/04/08,once daily,MED-87582,Metformin,ALPHA-00562,Dr. Moore,oral,06 Feb 2022,discontinued
+100mcg,2024-07-23T00:00:00,as needed,MED-68776,Levothyroxine,GAMMA-00773,Dr. Schmidt,oral,07/01/2024,on-hold
+180mcg,2023-07-19,BID,MED-46801,Albuterol,GAMMA-00085,Dr. Rodriguez,inhaled,05/31/2023,completed
+1mg,"March 09, 2023",TID,MED-59028,Warfarin,BETA-00011,Dr. Sato,oral,02/13/2023,on-hold
+10mg,,PRN,MED-57147,Atorvastatin,BETA-00587,Dr. Harris,oral,08/24/2022,discontinued
+250mg,2024/11/18,PRN,MED-48452,Amoxicillin,ALPHA-00761,Dr. Tanaka,oral,2024-10-04,on-hold
+1mg,07-07-2024,PRN,MED-69243,Warfarin,GAMMA-00154,Dr. Garcia,oral,07 May 2024,completed
+1mg,07-11-2024,QD,MED-61600,Warfarin,GAMMA-00129,Dr. Young,oral,08/18/2024,on-hold
+5mg,,once daily,MED-16714,Amlodipine,GAMMA-00283,Dr. Chen,oral,2022/04/14,on-hold
+20mg,,PRN,MED-13784,Prednisone,GAMMA-00009,Dr. Wilson,oral,08/16/2024,completed
+20mg,2024-12-14T00:00:00,TID,MED-60041,Omeprazole,GAMMA-00695,Dr. Thompson,oral,2024-10-14,discontinued
+40mg,10/13/2024,PRN,MED-25334,Atorvastatin,GAMMA-00746,Dr. Lopez,oral,09/07/2024,on-hold
+50mg,2023/01/29,PRN,MED-38218,Sertraline,GAMMA-00030,Dr. Tanaka,oral,2022/11/24,active
+40mg,2023-09-15T00:00:00,twice daily,MED-85682,Omeprazole,GAMMA-00466,Dr. Young,oral,17-07-2023,discontinued
+5mg,01 Jul 2022,BID,MED-34446,Amlodipine,ALPHA-00577,Dr. Sanchez,oral,"June 24, 2022",active
+50/200mg,2022-08-20,three times daily,MED-48087,Carbidopa-Levodopa,BETA-00332,Dr. Lewis,oral,2022-08-10T00:00:00,on-hold
+25mcg,06/16/2024,three times daily,MED-86971,Levothyroxine,GAMMA-00527,Dr. Johansson,oral,07-05-2024,on-hold
+90mcg,"December 02, 2022",once daily,MED-44686,Albuterol,GAMMA-00048,Dr. Martin,inhaled,2022/09/17,on-hold
+90mcg,2023/10/14,as needed,MED-28035,Albuterol,BETA-00149,Dr. Hernandez,inhaled,2023-07-17,active
+,2024-01-26,PRN,MED-56495,Carbidopa-Levodopa,ALPHA-00697,Dr. Schmidt,oral,01/09/2024,discontinued
+5mg,05/14/2022,QD,MED-28190,Prednisone,GAMMA-00713,Dr. Johnson,oral,2022-03-09,active
+75mcg,"September 18, 2022",as needed,MED-43423,Levothyroxine,GAMMA-00221,Dr. Perez,oral,08/14/2022,on-hold
+5mg,,as needed,MED-86141,Warfarin,GAMMA-00115,Dr. Williams,oral,20 Aug 2024,active
+5mg,08/05/2022,once daily,MED-59686,Lisinopril,ALPHA-00205,Dr. Wang,oral,06/07/2022,on-hold
+10mg,12/21/2022,QD,MED-90650,Lisinopril,BETA-00607,Dr. Mueller,oral,10/01/2022,discontinued
+100mg,02/16/2023,twice daily,MED-72433,Sertraline,ALPHA-00032,Dr. Thomas,oral,2023/01/02,active
+10mg,02 Dec 2024,three times daily,MED-38694,Prednisone,ALPHA-00269,Dr. Moore,oral,09/20/2024,discontinued
+250mg,"October 17, 2023",as needed,MED-31978,Amoxicillin,ALPHA-00500,Dr. Wilson,oral,2023-09-16T00:00:00,on-hold
+25/100mg,"October 18, 2022",as needed,MED-14945,Carbidopa-Levodopa,BETA-00653,Dr. Moore,oral,15-08-2022,discontinued
+80mg,06/13/2024,twice daily,MED-10069,Furosemide,BETA-00038,Dr. Johnson,oral,2024-04-30T00:00:00,discontinued
+10 units,2023/03/03,QD,MED-17073,Insulin Glargine,GAMMA-00135,Dr. Gonzalez,subcutaneous,2023-02-15T00:00:00,active
+500mg,06/17/2023,PRN,MED-27735,Amoxicillin,ALPHA-00041,Dr. Perez,oral,2023-05-05T00:00:00,discontinued
+2mg,"October 13, 2022",twice daily,MED-37624,Warfarin,GAMMA-00251,Dr. Singh,oral,08/31/2022,discontinued
+,24-07-2023,BID,MED-70369,Omeprazole,BETA-00514,Dr. Anderson,oral,05/31/2023,on-hold
+80 mg,2024/06/26,as needed,MED-64149,Atorvastatin,GAMMA-00090,Dr. Jones,oral,2024-04-17,completed
+25/100mg,,BID,MED-24248,Carbidopa-Levodopa,BETA-00725,Dr. Young,oral,08/23/2024,completed
+40mg,08-09-2023,once daily,MED-37656,Atorvastatin,ALPHA-00735,Dr. Johnson,oral,2023-08-31,discontinued
+90mcg,"July 02, 2024",TID,MED-99797,Albuterol,BETA-00656,Dr. Wang,inhaled,05/22/2024,discontinued
+,2024-06-25,three times daily,MED-42508,Amoxicillin,BETA-00044,Dr. Harris,oral,06/11/2024,discontinued
+2.5mg,2025-01-24,once daily,MED-82567,Amlodipine,GAMMA-00544,Dr. Allen,oral,27-12-2024,discontinued
+100mg,07/15/2022,three times daily,MED-38516,Sertraline,ALPHA-00436,Dr. Johansson,oral,06/20/2022,active
+2.5mg,03/04/2024,once daily,MED-91080,Amlodipine,BETA-00712,Dr. Gonzalez,oral,2023-12-28T00:00:00,active
+1 mg,05/11/2023,QD,MED-43451,Warfarin,ALPHA-00108,Dr. Martinez,oral,02/25/2023,discontinued
+25mg,"December 11, 2022",as needed,MED-94146,Sertraline,BETA-00672,Dr. Lewis,oral,16-09-2022,on-hold
+100mg,03-05-2022,as needed,MED-79013,Gabapentin,BETA-00150,Dr. Brown,oral,03/28/2022,completed
+50mg,2025-02-20,twice daily,MED-96049,Sertraline,ALPHA-00684,Dr. Sanchez,oral,12/27/2024,discontinued
+40mg,,as needed,MED-32415,Lisinopril,ALPHA-00717,Dr. Young,oral,2023/02/27,discontinued
+80mg,23-08-2024,TID,MED-43065,Atorvastatin,BETA-00307,Dr. Lewis,oral,2024-08-07,active
+20mg,2024/12/23,QD,MED-14824,Lisinopril,BETA-00059,Dr. Taylor,oral,2024/10/02,on-hold
+25/100mg,2023-09-07,once daily,MED-78993,Carbidopa-Levodopa,GAMMA-00142,Dr. Gonzalez,oral,07/27/2023,active
+500mg,01/16/2024,as needed,MED-57000,Metformin,GAMMA-00211,Dr. Lewis,oral,11 Jan 2024,completed
+40mg,07/23/2022,as needed,MED-35826,Omeprazole,GAMMA-00625,Dr. Davis,oral,07/17/2022,discontinued
+10mg,01/23/2023,PRN,MED-42430,Prednisone,BETA-00369,Dr. Schmidt,oral,01/05/2023,on-hold
+20MG,2024-06-18,PRN,MED-12954,Lisinopril,ALPHA-00102,Dr. King,oral,"May 17, 2024",discontinued
+500mg,,TID,MED-81478,Amoxicillin,ALPHA-00286,Dr. Johnson,oral,2023-06-25,on-hold
+20MG,08/17/2022,once daily,MED-36340,Lisinopril,ALPHA-00580,Dr. Martinez,oral,24-07-2022,on-hold
+10mg,2022-06-12T00:00:00,QD,MED-57401,Prednisone,ALPHA-00321,Dr. Tanaka,oral,2022-04-06,discontinued
+850mg,,PRN,MED-53809,Metformin,BETA-00077,Dr. Miller,oral,07/24/2024,active
+,11/11/2024,twice daily,MED-68338,Amoxicillin,ALPHA-00733,Dr. Martin,oral,14 Sep 2024,discontinued
+325mg,,once daily,MED-67112,Aspirin,ALPHA-00306,Dr. Wilson,oral,07/02/2022,active
+25mcg,2024-06-02,QD,MED-56396,Levothyroxine,GAMMA-00667,Dr. Lewis,oral,04/29/2024,on-hold
+90mcg,03/06/2024,twice daily,MED-25355,Albuterol,GAMMA-00722,Dr. Allen,inhaled,28-01-2024,discontinued
+40mg,2023-09-30T00:00:00,once daily,MED-77405,Furosemide,GAMMA-00142,Dr. Allen,oral,2023-07-25,discontinued
+10mg,09/13/2024,PRN,MED-45674,Amlodipine,BETA-00687,Dr. Rodriguez,oral,07/04/2024,active
+25mcg,2024-03-31,once daily,MED-25007,Levothyroxine,ALPHA-00132,Dr. Walker,oral,01/11/2024,on-hold
+5MG,12/28/2023,PRN,MED-21832,Amlodipine,BETA-00037,Dr. Smith,oral,2023-11-20,discontinued
+5mg,2025-01-10,BID,MED-43660,Warfarin,ALPHA-00008,Dr. Williams,oral,2024-11-10,discontinued
+2mg,2023-01-05T00:00:00,BID,MED-22853,Warfarin,GAMMA-00721,Dr. Taylor,oral,2022/11/21,completed
+20mg,10/09/2022,twice daily,MED-71098,Furosemide,ALPHA-00324,Dr. Miller,oral,25 Sep 2022,completed
+20mg,07/26/2024,TID,MED-10360,Lisinopril,GAMMA-00546,Dr. Wang,oral,2024-05-05,completed
+600mg,08/25/2024,twice daily,MED-89031,Gabapentin,GAMMA-00588,Dr. Martin,oral,2024/08/21,on-hold
+5mg,2024-06-10T00:00:00,once daily,MED-22282,Prednisone,ALPHA-00351,Dr. Patel,oral,04/08/2024,on-hold
+10mg,2023-08-15,TID,MED-84189,Atorvastatin,ALPHA-00286,Dr. Thomas,oral,25 Jun 2023,discontinued
+80mg,2022-11-08,TID,MED-43902,Furosemide,BETA-00183,Dr. Wilson,oral,2022-10-01,active
+20mg,19 Aug 2022,three times daily,MED-94881,Atorvastatin,ALPHA-00630,Dr. Brown,oral,22 Jun 2022,discontinued
+20mg,05/29/2024,once daily,MED-38441,Omeprazole,ALPHA-00119,Dr. Allen,oral,"April 19, 2024",active
+300mg,"February 08, 2025",twice daily,MED-76742,Gabapentin,ALPHA-00096,Dr. Lopez,oral,2024-12-13,active
+300mg,2024-07-20,QD,MED-97535,Gabapentin,ALPHA-00154,Dr. Kumar,oral,"May 07, 2024",discontinued
+300mg,03/19/2022,once daily,MED-70806,Gabapentin,GAMMA-00379,Dr. Kumar,oral,11-01-2022,completed
+1mg,07/07/2024,QD,MED-49172,Warfarin,GAMMA-00197,Dr. Hernandez,oral,2024-04-25T00:00:00,completed
+20mg,2024-05-31,twice daily,MED-80013,Prednisone,ALPHA-00372,Dr. Gupta,oral,09-05-2024,completed
+80mg,02/10/2023,QD,MED-42070,Atorvastatin,GAMMA-00626,Dr. Martin,oral,2023-01-19T00:00:00,discontinued
+25MCG,02/22/2023,TID,MED-13656,Levothyroxine,ALPHA-00189,Dr. Kim,oral,13 Jan 2023,discontinued
+25mg,09/21/2023,twice daily,MED-87062,Sertraline,BETA-00143,Dr. Thomas,oral,08/10/2023,completed
+50mcg,10/15/2023,three times daily,MED-40361,Levothyroxine,BETA-00086,Dr. Mueller,oral,30-08-2023,discontinued
+25MG,2024-04-06T00:00:00,BID,MED-16253,Sertraline,ALPHA-00742,Dr. Clark,oral,2024-02-21,active
+600mg,,twice daily,MED-77060,Gabapentin,ALPHA-00743,Dr. Shah,oral,11/13/2022,active
+500mg,2022-05-09T00:00:00,twice daily,MED-14070,Amoxicillin,BETA-00543,Dr. Rodriguez,oral,2022/04/24,active
+,2023-06-03,once daily,MED-74131,Albuterol,BETA-00514,Dr. Rodriguez,inhaled,30-05-2023,completed
+40mg,2024/06/01,TID,MED-85660,Omeprazole,GAMMA-00355,Dr. Davis,oral,"April 25, 2024",active
+10mg,06/18/2022,QD,MED-35293,Lisinopril,BETA-00230,Dr. Kim,oral,29-03-2022,active
+90MCG,,QD,MED-95462,Albuterol,ALPHA-00120,Dr. Johnson,inhaled,2022/06/16,completed
+250mg,2023-12-19,three times daily,MED-65333,Amoxicillin,ALPHA-00383,Dr. Jackson,oral,12/14/2023,active
+40mg,22 Jun 2024,TID,MED-18361,Omeprazole,BETA-00557,Dr. Wang,oral,05/19/2024,active

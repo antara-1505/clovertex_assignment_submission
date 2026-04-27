@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  pipeline:
+    build: .
+    container_name: clovertex_pipeline
+
+    volumes:
+      - .:/app   # 🔥 important → persists outputs
+
+    command: python pipeline/main.py
