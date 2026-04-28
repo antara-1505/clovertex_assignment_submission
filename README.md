@@ -266,6 +266,22 @@ The pipeline generates detailed logs with:
 - Volume persistence: `.:/app` ensures outputs are saved to host
 - Auto-build from Dockerfile
 
+## 📊 Language Composition
+
+This repository is composed of:
+- **Python**: 99.2% - Core pipeline logic and data processing
+- **Dockerfile**: 0.8% - Container configuration
+
+## 📝 Recent Updates
+
+**Last Updated**: April 28, 2026
+
+Recent improvements and updates to the repository:
+- Enhanced pipeline efficiency and data processing capabilities
+- Improved documentation and configuration examples
+- Refined data quality tracking and error handling
+- Updated dependency specifications
+
 ## 🤝 Contributing
 
 1. Ensure all data files are in the `data/` directory
