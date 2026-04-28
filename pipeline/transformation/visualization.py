@@ -81,7 +81,7 @@ def plot_diagnosis_frequency(
 
 
 def plot_lab_trends(data_file):
-   
+
     df = pd.read_parquet(data_file)
 
     # Detect value column
