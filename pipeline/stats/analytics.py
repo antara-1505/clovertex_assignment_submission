@@ -1,14 +1,6 @@
 import pandas as pd
 import json
 import os
-
-
-# DATA_PATH = "../datalake/refined/final_unified_output.parquet"
-
-# df = pd.read_parquet(DATA_PATH)
-
-
-import pandas as pd
 import numpy as np
 
 
@@ -103,6 +95,7 @@ def generate_patient_summary(
     final_summary.to_parquet(output_file, index=False)
 
     return final_summary
+
 
 def generate_lab_statistics(lab_file, ref_file, output_file="datalake/consumption/lab_statistics.parquet"):
     # Load data

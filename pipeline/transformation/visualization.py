@@ -47,6 +47,7 @@ def plot_gender_distribution(summary_file):
     plt.savefig(f"{PLOT_DIR}/gender_distribution.png")
     plt.close()
 
+
 def plot_diagnosis_frequency(
     input_file="datalake/consumption/diagnosis_frequency.parquet"
 ):
@@ -79,10 +80,8 @@ def plot_diagnosis_frequency(
     plt.close()
 
 
-# lab distributions
 def plot_lab_trends(data_file):
    
-
     df = pd.read_parquet(data_file)
 
     # Detect value column
@@ -259,7 +258,7 @@ def plot_data_quality():
 
 
 def run_visualizations():
-    df = pd.read_parquet("datalake/refined/final_unified_output.parquet")
+    # df = pd.read_parquet("datalake/refined/final_unified_output.parquet")
 
     plot_age_distribution('datalake/consumption/patient_summary.parquet')
     plot_gender_distribution('datalake/consumption/patient_summary.parquet')
@@ -267,9 +266,9 @@ def run_visualizations():
     plot_lab_trends("datalake/consumption/lab_flagged_data.parquet")
     plot_genomics_scatter("datalake/refined/genomics_filtered.parquet")
     plot_high_risk_summary(
-    high_risk_file="datalake/consumption/high_risk_patients.parquet",
-    unified_file="datalake/refined/final_unified_output.parquet"
-    )
+        high_risk_file="datalake/consumption/high_risk_patients.parquet",
+        unified_file="datalake/refined/final_unified_output.parquet"
+        )
     plot_data_quality()
 
     print("All required Task 4 plots generated")

@@ -34,11 +34,10 @@ def filter_genomics_variants(input_path, output_path):
     # -----------------------------
     before = len(df)
     df = df[
-    df["clinical_significance"]
-    .str.strip()
-    .str.lower()
-    .isin(["pathogenic", "likely pathogenic"])
-    ]
+        df["clinical_significance"].str.strip()
+        .str.lower()
+        .isin(["pathogenic", "likely pathogenic"])
+        ]
     log["issues_found"]["non_pathogenic_removed"] = before - len(df)
 
     # -----------------------------
