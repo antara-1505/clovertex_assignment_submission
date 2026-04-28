@@ -6,6 +6,6 @@ services:
     container_name: clovertex_pipeline
 
     volumes:
-      - .:/app   # 🔥 important → persists outputs
+      - .:/app   
 
     command: python pipeline/main.py

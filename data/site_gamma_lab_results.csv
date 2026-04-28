@@ -101,7 +101,7 @@ LAB-582543,GAMMA-00127,wbc,28.76,x10^3/uL,2024-06-28,Dr. Harris,Gamma Research I
 LAB-671989,GAMMA-00312,wbc,6.94,x10^3/uL,2022-09-23,Dr. Martin,Gamma Research Institute
 LAB-863092,GAMMA-00766,platelets,264.26,x10^3/uL,2023-03-24,Dr. Harris,Gamma Research Institute
 LAB-379193,GAMMA-00215,total_cholesterol,138.7,mg/dL,2024-11-02,Dr. Kumar,Gamma Research Institute
-LAB-317385,GAMMA-00481,glucose_fasting,nan,mg/dL,,,Gamma Research Institute
+LAB-317385,GAMMA-00481,glucose_fasting,nan,mg/dL,nan,nan,Gamma Research Institute
 LAB-353836,GAMMA-00524,hemoglobin,12.66,g/dL,2022-12-24,Dr. Jones,Gamma Research Institute
 LAB-260773,GAMMA-00647,total_cholesterol,143.85,mg/dL,2023-04-15,Dr. Garcia,Gamma Research Institute
 LAB-798438,GAMMA-00607,tsh,1.51,mIU/L,2022-10-01,Dr. Sharma,Gamma Research Institute
@@ -170,7 +170,7 @@ LAB-174039,GAMMA-00058,alt,703.83,U/L,2024-01-23,Dr. Patel,Gamma Research Instit
 LAB-811572,GAMMA-00197,bun,99999.0,mg/dL,2024-04-26,Dr. Sanchez,Gamma Research Institute
 LAB-771452,GAMMA-00658,hdl,40.21,mg/dL,2022-09-25,Dr. Martinez,Gamma Research Institute
 LAB-170609,GAMMA-00041,triglycerides,0.0,mg/dL,2023-05-16,Dr. Martin,Gamma Research Institute
-LAB-853148,GAMMA-00315,potassium,nan,mEq/L,,,Gamma Research Institute
+LAB-853148,GAMMA-00315,potassium,nan,mEq/L,nan,nan,Gamma Research Institute
 LAB-582570,GAMMA-00339,creatinine,7.4,mg/dL,2022-05-09,Dr. Jones,Gamma Research Institute
 LAB-668087,GAMMA-00231,hba1c,4.2,%,2023-12-19,Dr. Lopez,Gamma Research Institute
 LAB-686374,GAMMA-00148,hba1c,5.33,%,2022-11-15,Dr. White,Gamma Research Institute
@@ -273,12 +273,12 @@ LAB-726895,GAMMA-00452,total_cholesterol,107.0,mg/dL,2024-09-09,Dr. Allen,Gamma 
 LAB-371555,GAMMA-00217,bun,19.18,mg/dL,2024-01-07,Dr. Jackson,Gamma Research Institute
 LAB-152083,GAMMA-00041,glucose_fasting,71.99,mg/dL,2023-05-09,Dr. Wang,Gamma Research Institute
 LAB-675450,GAMMA-00617,bun,1.8,mg/dL,2023-06-26,Dr. Robinson,Gamma Research Institute
-LAB-423003,GAMMA-00684,alt,nan,U/L,,,Gamma Research Institute
+LAB-423003,GAMMA-00684,alt,nan,U/L,nan,nan,Gamma Research Institute
 LAB-142862,GAMMA-00035,creatinine,0.83,mg/dL,2022-09-27,Dr. Hernandez,Gamma Research Institute
 LAB-332919,GAMMA-00766,tsh,37.9,mIU/L,2023-03-22,Dr. Robinson,Gamma Research Institute
 LAB-558318,GAMMA-00456,sodium,141.18,mEq/L,2023-09-20,Dr. Kim,Gamma Research Institute
 LAB-991447,GAMMA-00085,platelets,175.35,x10^3/uL,2023-06-06,Dr. Allen,Gamma Research Institute
-LAB-871140,GAMMA-00386,creatinine,nan,mg/dL,,,Gamma Research Institute
+LAB-871140,GAMMA-00386,creatinine,nan,mg/dL,nan,nan,Gamma Research Institute
 LAB-709775,GAMMA-00796,sodium,140.13,mEq/L,2022-11-27,Dr. Schmidt,Gamma Research Institute
 LAB-604034,GAMMA-00098,total_cholesterol,144.77,mg/dL,2022-06-25,Dr. Patel,Gamma Research Institute
 LAB-346287,GAMMA-00133,hemoglobin,4.61,g/dL,2023-06-08,Dr. Thompson,Gamma Research Institute
@@ -299,7 +299,7 @@ LAB-523780,GAMMA-00619,total_cholesterol,145.12,mg/dL,2024-09-28,Dr. Kumar,Gamma
 LAB-892272,GAMMA-00444,ast,236.8,U/L,2024-09-21,Dr. Harris,Gamma Research Institute
 LAB-244756,GAMMA-00521,ast,332.93,U/L,2022-04-13,Dr. Rodriguez,Gamma Research Institute
 LAB-143681,GAMMA-99944,ast,31.54,U/L,2022-02-17,Dr. Taylor,Gamma Research Institute
-LAB-324729,GAMMA-00315,glucose_fasting,nan,mg/dL,,,Gamma Research Institute
+LAB-324729,GAMMA-00315,glucose_fasting,nan,mg/dL,nan,nan,Gamma Research Institute
 LAB-422521,GAMMA-00111,hba1c,4.58,%,2023-11-03,Dr. Garcia,Gamma Research Institute
 LAB-680172,GAMMA-00753,potassium,3.95,mEq/L,2024-09-21,Dr. Smith,Gamma Research Institute
 LAB-202448,GAMMA-00098,wbc,9.2,x10^3/uL,2022-06-18,Dr. Young,Gamma Research Institute
@@ -546,7 +546,7 @@ LAB-838588,GAMMA-00610,platelets,362.92,x10^3/uL,2024-07-21,Dr. Hernandez,Gamma 
 LAB-909070,GAMMA-00094,glucose_fasting,74.78,mg/dL,2023-03-02,Dr. Shah,Gamma Research Institute
 LAB-366134,GAMMA-00056,hemoglobin,16.59,g/dL,2024-05-23,Dr. Moore,Gamma Research Institute
 LAB-601501,GAMMA-00383,hba1c,13.95,%,2023-12-25,Dr. Walker,Gamma Research Institute
-LAB-896842,GAMMA-00481,bun,nan,mg/dL,,,Gamma Research Institute
+LAB-896842,GAMMA-00481,bun,nan,mg/dL,nan,nan,Gamma Research Institute
 LAB-298298,GAMMA-00428,sodium,149.64,mEq/L,2024-02-01,Dr. Chen,Gamma Research Institute
 LAB-347765,GAMMA-00339,hba1c,4.45,%,2022-05-12,Dr. Harris,Gamma Research Institute
 LAB-838918,GAMMA-00246,hba1c,4.71,%,2024-05-15,Dr. Brown,Gamma Research Institute
@@ -597,7 +597,7 @@ LAB-715261,GAMMA-00043,hdl,44.51,mg/dL,2022-02-20,Dr. Jackson,Gamma Research Ins
 LAB-398017,GAMMA-00695,hba1c,5.12,%,2024-10-24,Dr. Jones,Gamma Research Institute
 LAB-745836,GAMMA-00048,creatinine,1.15,mg/dL,2022-09-21,Dr. Jackson,Gamma Research Institute
 LAB-615998,GAMMA-00386,total_cholesterol,184.9,mg/dL,2023-04-27,Dr. Mueller,Gamma Research Institute
-LAB-717112,GAMMA-00481,wbc,nan,x10^3/uL,,,Gamma Research Institute
+LAB-717112,GAMMA-00481,wbc,nan,x10^3/uL,nan,nan,Gamma Research Institute
 LAB-583122,GAMMA-00654,sodium,140.21,mEq/L,2024-07-25,Dr. Patel,Gamma Research Institute
 LAB-126237,GAMMA-00470,ldl,55.76,mg/dL,2023-08-04,Dr. Taylor,Gamma Research Institute
 LAB-166092,GAMMA-00096,potassium,4.83,mEq/L,2024-12-13,Dr. Tanaka,Gamma Research Institute
@@ -832,7 +832,7 @@ LAB-148155,GAMMA-00059,triglycerides,166.54,mg/dL,2024-10-05,Dr. Park,Gamma Rese
 LAB-753451,GAMMA-00111,alt,3.78,U/L,2023-11-07,Dr. Davis,Gamma Research Institute
 LAB-691098,GAMMA-00508,total_cholesterol,278.08,mg/dL,2022-01-29,Dr. Park,Gamma Research Institute
 LAB-384152,GAMMA-00417,bun,87.13,mg/dL,2024-01-12,Dr. Mueller,Gamma Research Institute
-LAB-890275,GAMMA-00315,creatinine,nan,mg/dL,,,Gamma Research Institute
+LAB-890275,GAMMA-00315,creatinine,nan,mg/dL,nan,nan,Gamma Research Institute
 LAB-439719,GAMMA-00055,hdl,127.35,mg/dL,2022-02-08,Dr. Moore,Gamma Research Institute
 LAB-608581,GAMMA-00703,bun,13.3,mg/dL,2024-09-16,Dr. Walker,Gamma Research Institute
 LAB-495191,GAMMA-00652,total_cholesterol,85.08,mg/dL,2022-07-12,Dr. Park,Gamma Research Institute
@@ -943,7 +943,7 @@ LAB-177525,GAMMA-00483,hba1c,5.43,%,2024-08-31,Dr. Robinson,Gamma Research Insti
 LAB-729091,GAMMA-00551,ldl,66.4,mg/dL,2024-07-13,Dr. Lopez,Gamma Research Institute
 LAB-734085,GAMMA-00056,ast,28.11,U/L,2024-06-01,Dr. Anderson,Gamma Research Institute
 LAB-274283,GAMMA-00509,ast,23.94,U/L,2023-02-12,Dr. Smith,Gamma Research Institute
-LAB-561897,GAMMA-00086,alt,nan,U/L,,,Gamma Research Institute
+LAB-561897,GAMMA-00086,alt,nan,U/L,nan,nan,Gamma Research Institute
 LAB-454485,GAMMA-00055,ldl,31.78,mg/dL,2022-02-08,Dr. Wilson,Gamma Research Institute
 LAB-456234,GAMMA-00460,triglycerides,58.47,mg/dL,2022-11-16,Dr. Jones,Gamma Research Institute
 LAB-847432,GAMMA-00158,tsh,0.15,mIU/L,2023-08-07,Dr. King,Gamma Research Institute
@@ -1241,7 +1241,7 @@ LAB-569620,GAMMA-00185,glucose_fasting,67.9,mg/dL,2024-05-17,Dr. Gupta,Gamma Res
 LAB-681898,GAMMA-00704,platelets,150.68,x10^3/uL,2023-04-26,Dr. Brown,Gamma Research Institute
 LAB-159936,GAMMA-00395,hdl,47.16,mg/dL,2024-10-29,Dr. Hernandez,Gamma Research Institute
 LAB-559437,GAMMA-00536,sodium,154.7,mEq/L,2023-04-08,Dr. Jackson,Gamma Research Institute
-LAB-797732,GAMMA-00386,platelets,nan,x10^3/uL,,,Gamma Research Institute
+LAB-797732,GAMMA-00386,platelets,nan,x10^3/uL,nan,nan,Gamma Research Institute
 LAB-452598,GAMMA-00112,hemoglobin,16.65,g/dL,2022-06-25,Dr. Sharma,Gamma Research Institute
 LAB-265326,GAMMA-00270,glucose_fasting,87.18,mg/dL,2024-09-07,Dr. Martinez,Gamma Research Institute
 LAB-618430,GAMMA-00102,triglycerides,12.98,mg/dL,2024-05-29,Dr. Gupta,Gamma Research Institute
@@ -1284,7 +1284,7 @@ LAB-967331,GAMMA-00218,bun,93.04,mg/dL,2023-04-12,Dr. Sanchez,Gamma Research Ins
 LAB-421276,GAMMA-00711,creatinine,0.6,mg/dL,2023-01-24,Dr. Thomas,Gamma Research Institute
 LAB-293805,GAMMA-00346,wbc,3.36,x10^3/uL,2022-01-22,Dr. Mueller,Gamma Research Institute
 LAB-668082,GAMMA-00551,platelets,166.36,x10^3/uL,2024-07-20,Dr. Johansson,Gamma Research Institute
-LAB-865305,GAMMA-00086,ast,nan,U/L,,,Gamma Research Institute
+LAB-865305,GAMMA-00086,ast,nan,U/L,nan,nan,Gamma Research Institute
 LAB-234429,GAMMA-00050,platelets,366.19,x10^3/uL,2023-09-23,Dr. Smith,Gamma Research Institute
 LAB-203685,GAMMA-00691,ldl,32.39,mg/dL,2024-01-05,Dr. Tanaka,Gamma Research Institute
 LAB-333653,GAMMA-00215,glucose_fasting,98.16,mg/dL,2024-10-21,Dr. Robinson,Gamma Research Institute
@@ -1330,7 +1330,7 @@ LAB-279106,GAMMA-00648,alt,488.22,U/L,2024-12-09,Dr. Shah,Gamma Research Institu
 LAB-901896,GAMMA-00642,hemoglobin,14.91,g/dL,2023-04-11,Dr. Davis,Gamma Research Institute
 LAB-491820,GAMMA-00236,hdl,111.05,mg/dL,2025-01-11,Dr. Garcia,Gamma Research Institute
 LAB-158548,GAMMA-00097,alt,150.79,U/L,2024-12-15,Dr. Lewis,Gamma Research Institute
-LAB-372226,GAMMA-00386,bun,nan,mg/dL,,,Gamma Research Institute
+LAB-372226,GAMMA-00386,bun,nan,mg/dL,nan,nan,Gamma Research Institute
 LAB-758227,GAMMA-00512,ast,39.2,U/L,2023-11-21,Dr. Moore,Gamma Research Institute
 LAB-671671,GAMMA-00286,hemoglobin,12.41,g/dL,2023-07-04,Dr. Jackson,Gamma Research Institute
 LAB-578715,GAMMA-00773,alt,6.9,U/L,2024-07-14,Dr. Perez,Gamma Research Institute
@@ -1587,7 +1587,7 @@ LAB-817598,GAMMA-00475,tsh,1.98,mIU/L,2024-12-22,Dr. Davis,Gamma Research Instit
 LAB-652720,GAMMA-00110,triglycerides,291.68,mg/dL,2022-02-17,Dr. Tanaka,Gamma Research Institute
 LAB-471835,GAMMA-00244,platelets,15.81,x10^3/uL,2023-08-08,Dr. Ramirez,Gamma Research Institute
 LAB-110415,GAMMA-00647,total_cholesterol,189.5,mg/dL,2023-04-18,Dr. Lee,Gamma Research Institute
-LAB-325499,GAMMA-00684,tsh,nan,mIU/L,,,Gamma Research Institute
+LAB-325499,GAMMA-00684,tsh,nan,mIU/L,nan,nan,Gamma Research Institute
 LAB-676290,GAMMA-00197,potassium,6.48,mEq/L,2024-05-06,Dr. Smith,Gamma Research Institute
 LAB-594378,GAMMA-00656,creatinine,0.92,mg/dL,2024-05-27,Dr. Allen,Gamma Research Institute
 LAB-774043,GAMMA-00644,ldl,27.64,mg/dL,2022-09-03,Dr. Garcia,Gamma Research Institute
@@ -1818,7 +1818,7 @@ LAB-413678,GAMMA-00496,potassium,4.66,mEq/L,2024-06-01,Dr. King,Gamma Research I
 LAB-728833,GAMMA-00079,platelets,116.2,x10^3/uL,2022-07-10,Dr. Martin,Gamma Research Institute
 LAB-152302,GAMMA-00671,wbc,4.78,x10^3/uL,2024-09-22,Dr. Harris,Gamma Research Institute
 LAB-798217,GAMMA-00053,hemoglobin,14.66,g/dL,2024-02-23,Dr. Wilson,Gamma Research Institute
-LAB-864110,GAMMA-00086,ast,nan,U/L,,,Gamma Research Institute
+LAB-864110,GAMMA-00086,ast,nan,U/L,nan,nan,Gamma Research Institute
 LAB-694103,GAMMA-00096,glucose_fasting,94.51,mg/dL,2024-12-27,Dr. Wilson,Gamma Research Institute
 LAB-393948,GAMMA-00536,hba1c,5.3,%,2023-04-10,Dr. Ramirez,Gamma Research Institute
 LAB-912314,GAMMA-00621,hba1c,4.07,%,2022-02-28,Dr. Shah,Gamma Research Institute
@@ -1848,7 +1848,7 @@ LAB-113679,GAMMA-00040,glucose_fasting,92.07,mg/dL,2024-11-10,Dr. Rodriguez,Gamm
 LAB-303603,GAMMA-00311,bun,6.82,mg/dL,2023-02-23,Dr. Walker,Gamma Research Institute
 LAB-267930,GAMMA-00714,glucose_fasting,224.61,mg/dL,2024-09-06,Dr. Wilson,Gamma Research Institute
 LAB-172606,GAMMA-00310,ast,31.06,U/L,2022-06-30,Dr. Sanchez,Gamma Research Institute
-LAB-479256,GAMMA-00086,hba1c,nan,%,,,Gamma Research Institute
+LAB-479256,GAMMA-00086,hba1c,nan,%,nan,nan,Gamma Research Institute
 LAB-659538,GAMMA-00505,creatinine,0.67,mg/dL,2023-07-05,Dr. Robinson,Gamma Research Institute
 LAB-855861,GAMMA-00565,sodium,139.52,mEq/L,2022-11-05,Dr. Johnson,Gamma Research Institute
 LAB-180063,GAMMA-00344,hemoglobin,13.12,g/dL,2024-01-09,Dr. Allen,Gamma Research Institute

@@ -7,7 +7,7 @@ from cleaning.genomics_filter import filter_genomics_variants
 from ingestion.join_datasets import PatientDataUnifier
 from utils.manifest import generate_manifest, save_manifest
 from stats.analytics import run_analytics
-from stats.visualization import run_visualizations
+from transformation.visualization import run_visualizations
 from utils.file_converter import (
     PatientDataConverter,
     SimpleJSONToCSVConverter,
@@ -186,7 +186,7 @@ def normalize_dates(files, date_columns=None):
                 ).dt.strftime("%Y-%m-%d")
 
         # Moving original file to datalake/raw for traceability
-        move_files_to_datalake(file, destination_path="../datalake/raw/")
+        move_files_to_datalake(file, destination_path="datalake/raw/")
 
         # Save back (overwrite)
         df.to_parquet(f"datalake/refined/{file_name}.parquet", index=False)

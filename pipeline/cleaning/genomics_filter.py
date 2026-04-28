@@ -33,10 +33,12 @@ def filter_genomics_variants(input_path, output_path):
     # FILTER 1: CLINICAL SIGNIFICANCE
     # -----------------------------
     before = len(df)
-    df = df[df["clinical_significance"].isin([
-        "Pathogenic",
-        "Likely pathogenic"
-    ])]
+    df = df[
+    df["clinical_significance"]
+    .str.strip()
+    .str.lower()
+    .isin(["pathogenic", "likely pathogenic"])
+    ]
     log["issues_found"]["non_pathogenic_removed"] = before - len(df)
 
     # -----------------------------
@@ -44,14 +46,14 @@ def filter_genomics_variants(input_path, output_path):
     # -----------------------------
     if "allele_frequency" in df.columns:
         before = len(df)
-        df = df[df["allele_frequency"] > 0.75]
+        df = df[df["allele_frequency"] > 0.70]
         log["issues_found"]["low_confidence_removed"] = before - len(df)
 
     # -----------------------------
     # OPTIONAL FILTER: DEPTH
     # -----------------------------
     if "read_depth" in df.columns:
-        df = df[df["read_depth"] >= 100]
+        df = df[df["read_depth"] > 100]
 
     # -----------------------------
     # SAVE OUTPUT

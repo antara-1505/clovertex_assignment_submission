@@ -1,7 +1,7 @@
 [
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -17,13 +17,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T16:40:59Z",
+        "created_at": "2026-04-28T05:28:52Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -40,12 +40,56 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T16:40:59Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:28:52Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "str",
+            "first_name": "str",
+            "last_name": "str",
+            "date_of_birth": "str",
+            "sex": "str",
+            "blood_group": "str",
+            "admission_dt": "str",
+            "discharge_dt": "str",
+            "contact_phone": "str",
+            "contact_email": "str",
+            "site": "str"
+        },
+        "created_at": "2026-04-28T05:32:58Z",
+        "checksum": "61f363fe97ad60c13ad857bbd55187a8"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "str",
+            "patient_ref": "str",
+            "gene": "str",
+            "chromosome": "str",
+            "position": "int64",
+            "ref_allele": "str",
+            "alt_allele": "str",
+            "variant_type": "str",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "str",
+            "sample_date": "str",
+            "sequencing_platform": "str"
+        },
+        "created_at": "2026-04-28T05:32:58Z",
+        "checksum": "55fd411b47a4e521c205bdbde11259fd"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -61,13 +105,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T16:49:36Z",
+        "created_at": "2026-04-28T05:33:59Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -84,12 +128,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T16:49:36Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:33:59Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -105,13 +149,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T17:04:40Z",
+        "created_at": "2026-04-28T05:36:10Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -128,12 +172,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T17:04:41Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:36:11Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -149,13 +193,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T17:40:53Z",
+        "created_at": "2026-04-28T05:42:15Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -172,12 +216,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T17:40:53Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:42:15Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -193,13 +237,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T18:03:05Z",
+        "created_at": "2026-04-28T05:42:25Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -216,12 +260,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T18:03:05Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:42:25Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -237,13 +281,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T18:07:45Z",
+        "created_at": "2026-04-28T05:54:15Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -260,12 +304,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T18:07:45Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:54:15Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -281,13 +325,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-26T18:15:31Z",
+        "created_at": "2026-04-28T05:54:42Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 95,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -304,12 +348,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-26T18:15:31Z",
-        "checksum": "44ad0bbefb8e290f57cd3221a5b5ea26"
+        "created_at": "2026-04-28T05:54:42Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -325,55 +369,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T09:23:27Z",
-        "checksum": "1799a3947564e0c335cfd382711ba284"
-    },
-    {
-        "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
-        "rows": 668,
-        "columns": 11,
-        "schema": {
-            "patient_id": "object",
-            "first_name": "object",
-            "last_name": "object",
-            "date_of_birth": "object",
-            "sex": "object",
-            "blood_group": "object",
-            "admission_dt": "object",
-            "discharge_dt": "object",
-            "contact_phone": "object",
-            "contact_email": "object",
-            "site": "object"
-        },
-        "created_at": "2026-04-27T14:36:35Z",
-        "checksum": "1799a3947564e0c335cfd382711ba284"
-    },
-    {
-        "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
-        "rows": 668,
-        "columns": 11,
-        "schema": {
-            "patient_id": "object",
-            "first_name": "object",
-            "last_name": "object",
-            "date_of_birth": "object",
-            "sex": "object",
-            "blood_group": "object",
-            "admission_dt": "object",
-            "discharge_dt": "object",
-            "contact_phone": "object",
-            "contact_email": "object",
-            "site": "object"
-        },
-        "created_at": "2026-04-27T14:40:08Z",
+        "created_at": "2026-04-28T06:07:21Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -390,12 +392,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T14:40:08Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:07:21Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -411,13 +413,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T15:35:52Z",
+        "created_at": "2026-04-28T06:11:40Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -434,12 +436,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T15:35:52Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:11:41Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -455,13 +457,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T15:40:26Z",
+        "created_at": "2026-04-28T06:16:55Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -478,12 +480,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T15:40:26Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:16:55Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -499,34 +501,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T15:43:12Z",
-        "checksum": "1799a3947564e0c335cfd382711ba284"
-    },
-    {
-        "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
-        "rows": 668,
-        "columns": 11,
-        "schema": {
-            "patient_id": "object",
-            "first_name": "object",
-            "last_name": "object",
-            "date_of_birth": "object",
-            "sex": "object",
-            "blood_group": "object",
-            "admission_dt": "object",
-            "discharge_dt": "object",
-            "contact_phone": "object",
-            "contact_email": "object",
-            "site": "object"
-        },
-        "created_at": "2026-04-27T15:43:48Z",
+        "created_at": "2026-04-28T06:22:33Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -543,12 +524,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T15:43:49Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:22:33Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -564,12 +545,12 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:03:37Z",
+        "created_at": "2026-04-28T06:47:48Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -585,13 +566,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:03:52Z",
+        "created_at": "2026-04-28T06:48:45Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -608,12 +589,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T16:03:52Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:48:46Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -629,13 +610,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:04:53Z",
+        "created_at": "2026-04-28T06:49:07Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -652,12 +633,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T16:04:53Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:49:07Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -673,13 +654,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:10:22Z",
+        "created_at": "2026-04-28T06:49:37Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -696,12 +677,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T16:10:23Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:49:37Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -717,13 +698,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:11:13Z",
+        "created_at": "2026-04-28T06:56:50Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -740,12 +721,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T16:11:13Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:56:50Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -761,34 +742,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:13:24Z",
-        "checksum": "1799a3947564e0c335cfd382711ba284"
-    },
-    {
-        "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
-        "rows": 668,
-        "columns": 11,
-        "schema": {
-            "patient_id": "object",
-            "first_name": "object",
-            "last_name": "object",
-            "date_of_birth": "object",
-            "sex": "object",
-            "blood_group": "object",
-            "admission_dt": "object",
-            "discharge_dt": "object",
-            "contact_phone": "object",
-            "contact_email": "object",
-            "site": "object"
-        },
-        "created_at": "2026-04-27T16:13:35Z",
+        "created_at": "2026-04-28T06:59:06Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -805,12 +765,12 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T16:13:35Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T06:59:06Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
     },
     {
         "file_name": "patients.parquet",
-        "path": "../datalake/refined/patients.parquet",
+        "path": "datalake/refined/patients.parquet",
         "rows": 668,
         "columns": 11,
         "schema": {
@@ -826,13 +786,13 @@
             "contact_email": "object",
             "site": "object"
         },
-        "created_at": "2026-04-27T16:14:29Z",
+        "created_at": "2026-04-28T07:40:51Z",
         "checksum": "1799a3947564e0c335cfd382711ba284"
     },
     {
         "file_name": "genomics_filtered.parquet",
-        "path": "../datalake/refined/genomics_filtered.parquet",
-        "rows": 20,
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
         "columns": 13,
         "schema": {
             "variant_id": "object",
@@ -849,7 +809,667 @@
             "sample_date": "object",
             "sequencing_platform": "object"
         },
-        "created_at": "2026-04-27T16:14:29Z",
-        "checksum": "a0984726a646537ec47ff361b94041d5"
+        "created_at": "2026-04-28T07:40:52Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T07:45:36Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T07:45:36Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T07:47:59Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T07:47:59Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T07:50:59Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T07:50:59Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T07:55:19Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T07:55:19Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T07:56:24Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T07:56:24Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T07:57:41Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T07:57:41Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:11:07Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:11:07Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:16:00Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:16:00Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:18:44Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:18:44Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:20:44Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:20:44Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:24:48Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:24:48Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:25:37Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:25:37Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:30:16Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:30:16Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "object",
+            "first_name": "object",
+            "last_name": "object",
+            "date_of_birth": "object",
+            "sex": "object",
+            "blood_group": "object",
+            "admission_dt": "object",
+            "discharge_dt": "object",
+            "contact_phone": "object",
+            "contact_email": "object",
+            "site": "object"
+        },
+        "created_at": "2026-04-28T08:30:39Z",
+        "checksum": "1799a3947564e0c335cfd382711ba284"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "object",
+            "patient_ref": "object",
+            "gene": "object",
+            "chromosome": "object",
+            "position": "int64",
+            "ref_allele": "object",
+            "alt_allele": "object",
+            "variant_type": "object",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "object",
+            "sample_date": "object",
+            "sequencing_platform": "object"
+        },
+        "created_at": "2026-04-28T08:30:39Z",
+        "checksum": "8debd983ee0293e898bac27ebe6a2338"
+    },
+    {
+        "file_name": "patients.parquet",
+        "path": "datalake/refined/patients.parquet",
+        "rows": 668,
+        "columns": 11,
+        "schema": {
+            "patient_id": "str",
+            "first_name": "str",
+            "last_name": "str",
+            "date_of_birth": "str",
+            "sex": "str",
+            "blood_group": "str",
+            "admission_dt": "str",
+            "discharge_dt": "str",
+            "contact_phone": "str",
+            "contact_email": "str",
+            "site": "str"
+        },
+        "created_at": "2026-04-28T08:38:24Z",
+        "checksum": "61f363fe97ad60c13ad857bbd55187a8"
+    },
+    {
+        "file_name": "genomics_filtered.parquet",
+        "path": "datalake/refined/genomics_filtered.parquet",
+        "rows": 43,
+        "columns": 13,
+        "schema": {
+            "variant_id": "str",
+            "patient_ref": "str",
+            "gene": "str",
+            "chromosome": "str",
+            "position": "int64",
+            "ref_allele": "str",
+            "alt_allele": "str",
+            "variant_type": "str",
+            "allele_frequency": "float64",
+            "read_depth": "int64",
+            "clinical_significance": "str",
+            "sample_date": "str",
+            "sequencing_platform": "str"
+        },
+        "created_at": "2026-04-28T08:38:24Z",
+        "checksum": "55fd411b47a4e521c205bdbde11259fd"
     }
 ]

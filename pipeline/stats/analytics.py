@@ -8,55 +8,103 @@ import os
 # df = pd.read_parquet(DATA_PATH)
 
 
-def generate_patient_summary(input_file, output_file="patient_summary.parquet"):
-    # Load data
+import pandas as pd
+import numpy as np
+
+
+def generate_patient_summary(
+    input_file,
+    output_file="datalake/consumption/patient_summary.parquet"
+):
     df = pd.read_parquet(input_file)
 
-    # Convert date_of_birth to datetime
+    # ---------------------------
+    # 1. AGE PROCESSING
+    # ---------------------------
     df["date_of_birth"] = pd.to_datetime(df["date_of_birth"], errors="coerce")
-
-    # Calculate age
     today = pd.to_datetime("today")
+
     df["age"] = (today - df["date_of_birth"]).dt.days // 365
 
-    # 1. Age summary
-    age_summary = df["age"].describe()
+    df["age_group"] = pd.cut(
+        df["age"],
+        bins=[0, 18, 30, 45, 60, 100],
+        labels=["0-18", "19-30", "31-45", "46-60", "60+"]
+    )
+
+    age_dist = (
+        df["age_group"]
+        .value_counts(dropna=False)
+        .reset_index()
+    )
+    age_dist.columns = ["category", "count"]
+    age_dist["type"] = "age_group"
 
     # ---------------------------
-    # 2. Gender distribution
+    # 2. GENDER CLEANING + DISTRIBUTION
     # ---------------------------
-    gender_summary = df["sex"].value_counts()
+    def clean_gender(df, patient_col="patient_id", sex_col="sex"):
+        s = (
+            df[sex_col]
+            .astype(str)
+            .str.strip()
+            .str.lower()
+        )
+
+        mapping = {
+            "m": "M",
+            "male": "M",
+            "f": "F",
+            "female": "F"
+        }
+
+        df[sex_col] = s.map(mapping)
+
+        # Assign one consistent gender per patient
+        df[sex_col] = df.groupby(patient_col)[sex_col] \
+            .transform(lambda x: x.dropna().iloc[0] if x.notna().any() else np.nan)
+
+        return df
+
+    df = clean_gender(df)
+
+    gender_dist = (
+        df["sex"]
+        .fillna("Unknown")
+        .value_counts()
+        .reset_index()
+    )
+    gender_dist.columns = ["category", "count"]
+    gender_dist["type"] = "gender"
 
     # ---------------------------
-    # 3. Site distribution
+    # 3. SITE DISTRIBUTION
     # ---------------------------
-    site_summary = df["site"].value_counts()
+    site_dist = (
+        df["site"]
+        .fillna("Unknown")
+        .value_counts()
+        .reset_index()
+    )
+    site_dist.columns = ["category", "count"]
+    site_dist["type"] = "site"
 
     # ---------------------------
-    # 4. Combine summary
+    # 4. COMBINE
     # ---------------------------
-    summary = pd.DataFrame({
-        "metric": ["total_patients"],
-        "value": [len(df)]
-    })
+    final_summary = pd.concat(
+        [age_dist, gender_dist, site_dist],
+        ignore_index=True
+    )
 
     # ---------------------------
-    # 5. Save outputs
+    # 5. SAVE
     # ---------------------------
-    summary.to_parquet(output_file, index=False)
+    final_summary.to_parquet(output_file, index=False)
 
-    # Optional: save enriched dataset with age
-    df.to_parquet("patient_enriched.parquet", index=False)
+    return final_summary
 
-    return {
-        "age_summary": age_summary,
-        "gender_summary": gender_summary,
-        "site_summary": site_summary,
-        "summary": summary
-    }
-
-
-def generate_lab_statistics(lab_file, ref_file, output_file="lab_statistics.parquet"):
+def generate_lab_statistics(lab_file, ref_file, output_file="datalake/consumption/lab_statistics.parquet"):
     # Load data
     df = pd.read_csv(lab_file)
 
@@ -129,8 +177,8 @@ def generate_lab_statistics(lab_file, ref_file, output_file="lab_statistics.parq
     stats.to_parquet(output_file, index=False)
 
     # Optional: save detailed data
-    df.to_parquet("lab_flagged_data.parquet", index=False)
-    trend.to_parquet("lab_trends.parquet", index=False)
+    df.to_parquet("datalake/consumption/lab_flagged_data.parquet", index=False)
+    trend.to_parquet("datalake/consumption/lab_trends.parquet", index=False)
 
     return {
         "stats": stats,
@@ -142,7 +190,7 @@ def generate_lab_statistics(lab_file, ref_file, output_file="lab_statistics.parq
 def generate_diagnosis_frequency(
     patient_file,
     icd_ref_file,
-    output_file="diagnosis_frequency.parquet"
+    output_file="datalake/consumption/diagnosis_frequency.parquet"
 ):
     # ---------------------------
     # 1. Load data
@@ -192,7 +240,7 @@ def generate_diagnosis_frequency(
         .sort_values(by="patient_count", ascending=False)
     )
 
-    # ---------------------------
+    # ---------------------------top
     # 6. Top 15 chapters
     # ---------------------------
     top15 = chapter_counts.head(15)
@@ -205,24 +253,111 @@ def generate_diagnosis_frequency(
     return top15
 
 
-def genomics_hotspots(df):
-    if "gene" not in df.columns:
-        return {}
+def generate_variant_hotspots(
+    input_file,
+    output_file="datalake/consumption/variant_hotspots.parquet"
+):
+    # ---------------------------
+    # 1. Load data
+    # ---------------------------
+    df = pd.read_parquet(input_file)
 
-    return df["gene"].value_counts().head(5).to_dict()
-
-
-def high_risk_patients(df):
-    if "test_name" not in df.columns:
-        return pd.DataFrame()
-
-    high_risk = df[
-        (df["test_name"] == "HbA1c") &
-        (df["test_value"] > 7) &
-        (df["clinical_significance"].isin(["Pathogenic", "Likely pathogenic"]))
+    # ---------------------------
+    # 2. Keep only relevant variants
+    # ---------------------------
+    df = df[
+        df["clinical_significance"]
+        .str.strip()
+        .str.lower()
+        .isin(["pathogenic", "likely pathogenic"])
     ]
 
-    return high_risk[["patient_id"]].drop_duplicates()
+    # ---------------------------
+    # 3. Identify top 5 genes
+    # ---------------------------
+    top_genes = (
+        df["gene"]
+        .value_counts()
+        .head(5)
+        .index
+    )
+
+    df_top = df[df["gene"].isin(top_genes)]
+
+    # ---------------------------
+    # 4. Compute statistics
+    # ---------------------------
+    result = (
+        df_top.groupby("gene")["allele_frequency"]
+        .agg(
+            variant_count="count",
+            mean_allele_frequency="mean",
+            p25=lambda x: x.quantile(0.25),
+            p75=lambda x: x.quantile(0.75)
+        )
+        .reset_index()
+        .sort_values(by="variant_count", ascending=False)
+    )
+
+    # ---------------------------
+    # 5. Save output
+    # ---------------------------
+    result.to_parquet(output_file, index=False)
+
+    return result
+
+
+def generate_high_risk_patients(
+    unified_file,
+    output_file="datalake/consumption/high_risk_patients.parquet"
+):
+    # ---------------------------
+    # 1. Load data
+    # ---------------------------
+    df = pd.read_parquet(unified_file)
+
+    # ---------------------------
+    # 2. Identify HbA1c high patients
+    # ---------------------------
+    # Adjust column names if needed
+    hba1c_df = df[
+        (df["test_name"].str.lower() == "hba1c") &
+        (df["test_value"] > 7.0)
+    ]
+
+    hba1c_patients = set(hba1c_df["patient_id"])
+
+    # ---------------------------
+    # 3. Identify pathogenic variant patients
+    # ---------------------------
+    variant_df = df[
+        df["clinical_significance"]
+        .str.strip()
+        .str.lower()
+        .isin(["pathogenic", "likely pathogenic"])
+    ]
+
+    variant_patients = set(variant_df["patient_id"])
+
+    # ---------------------------
+    # 4. Intersection → high-risk
+    # ---------------------------
+    high_risk_ids = hba1c_patients.intersection(variant_patients)
+
+    # ---------------------------
+    # 5. Create output dataframe
+    # ---------------------------
+    high_risk_df = df[df["patient_id"].isin(high_risk_ids)].copy()
+
+    # Optional: keep only one row per patient
+    high_risk_df = high_risk_df[["patient_id"]].drop_duplicates()
+
+    # ---------------------------
+    # 6. Save output
+    # ---------------------------
+    high_risk_df.to_parquet(output_file, index=False)
+
+    return high_risk_df
 
 
 def detect_anomalies(df):
@@ -248,6 +383,8 @@ def save_results(results, filename):
 
 def run_analytics():
     df = 'datalake/refined/final_unified_output.parquet'
-    generate_patient_summary(df)
+    generate_patient_summary('datalake/refined/patients.parquet')
     generate_lab_statistics(lab_file="data/site_gamma_lab_results.csv", ref_file="data/reference/lab_test_ranges.json")
     generate_diagnosis_frequency(patient_file=df, icd_ref_file="data/reference/icd10_chapters.csv")
+    generate_variant_hotspots("datalake/refined/genomics_filtered.parquet")
+    generate_high_risk_patients(df)
